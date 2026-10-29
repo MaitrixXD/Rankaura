@@ -16,6 +16,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional, Set
 
 from keyword_analysis.stages.cluster import KeywordCluster
+from keyword_analysis.stages.filter import is_safe_top_keyword
 from keyword_analysis.stages.score import ScoredKeyword
 from keyword_analysis.utils.logger import get_logger
 
@@ -28,7 +29,7 @@ class OutputStage:
 
     @staticmethod
     def _format_recommendation(
-        slot: int, role: str, placement: str, kw: ScoredKeyword, purpose: str
+        slot: int, role: str, placement: str, kw: ScoredKeyword, purpose: str, forced_difficulty: Optional[str] = None
     ) -> Dict[str, Any]:
         comps = kw.components or {}
         demand_val = comps.get("demand", 0.5)
@@ -43,15 +44,24 @@ class OutputStage:
             activity = "Moderate"
 
         # Ranking difficulty badge
-        if kw.word_count <= 2 or comp_val >= 0.65:
-            diff_label = "High Competition"
-            diff_class = "diff-hard"
-        elif kw.word_count == 3 or comp_val >= 0.45:
-            diff_label = "Medium Competition"
-            diff_class = "diff-moderate"
+        if forced_difficulty:
+            diff_label = forced_difficulty
+            if "High" in forced_difficulty:
+                diff_class = "diff-hard"
+            elif "Medium" in forced_difficulty:
+                diff_class = "diff-moderate"
+            else:
+                diff_class = "diff-easy"
         else:
-            diff_label = "Low Competition"
-            diff_class = "diff-easy"
+            if kw.word_count <= 2 or comp_val >= 0.65:
+                diff_label = "High Competition"
+                diff_class = "diff-hard"
+            elif kw.word_count == 3 or comp_val >= 0.45:
+                diff_label = "Medium Competition"
+                diff_class = "diff-moderate"
+            else:
+                diff_label = "Low Competition"
+                diff_class = "diff-easy"
 
         return {
             "slot": slot,
@@ -66,50 +76,94 @@ class OutputStage:
 
     @staticmethod
     def recommend_top5(
-        scored: List[ScoredKeyword], seed: str
+        scored: List[ScoredKeyword], seed: str, verified_top_5: Optional[List[ScoredKeyword]] = None
     ) -> List[Dict[str, Any]]:
         """
         Algorithmic selection of the 5 Best Target Keywords for On-Page SEO Ranking.
-        Slots:
-        1. Core Page Anchor (<title> & <h1>)
-        2. High-Intent Practical Qualifier (Primary <h2> & Core Section)
-        3. Featured Snippet / Question Target (FAQ / Problem Section)
-        4. Comparative Depth Anchor (Evaluation / Why Choose Us)
-        5. Semantic Entity Expansion (Body Text & Supporting Themes)
+        If verified_top_5 is provided (from Gemini), we use those directly.
         """
+        # Define a safety filter function for internal use
+        def is_safe(kw_text: str) -> bool:
+            return is_safe_top_keyword(kw_text, seed)
+
+        if verified_top_5:
+            # Filter Gemini output one last time just in case
+            safe_verified = [k for k in verified_top_5 if is_safe(k.text)]
+            if safe_verified:
+                # If Gemini returned fewer than 5 keywords, backfill the remaining slots from scored keywords
+                if len(safe_verified) < 5 and scored:
+                    existing_texts = {k.text.lower() for k in safe_verified}
+                    candidates_pool = [
+                        k for k in scored 
+                        if k.text.lower() not in existing_texts 
+                        and is_safe(k.text)
+                        and k.text.lower() != seed.strip().lower()
+                    ]
+                    candidates_pool.sort(key=lambda k: k.opportunity_score, reverse=True)
+                    for k in candidates_pool:
+                        safe_verified.append(k)
+                        existing_texts.add(k.text.lower())
+                        if len(safe_verified) >= 5:
+                            break
+
+                log.info("Using Gemini-verified top keywords for recommendations (%d keywords).", len(safe_verified))
+                chosen = []
+                roles = [
+                    ("Page Title & Main Heading", "Use in your page title and main heading to match core search intent."),
+                    ("Main Content Section", "Use in your main content to highlight value, solutions, and pricing."),
+                    ("FAQ Content", "Use in your FAQ section to answer common user questions."),
+                    ("Comparison Section", "Use in a comparison section to highlight key differences."),
+                    ("Supporting Content", "Use in supporting content to cover related topics and variations."),
+                ]
+                for i, kw in enumerate(safe_verified[:5]):
+                    role, purpose = roles[min(i, len(roles)-1)]
+                    chosen.append(
+                        OutputStage._format_recommendation(
+                            slot=i+1,
+                            role=role,
+                            placement=role,
+                            kw=kw,
+                            purpose=purpose,
+                        )
+                    )
+                return chosen
+
         if not scored:
             return []
 
         norm_seed = seed.strip().lower()
 
         # Step 1: Filter to the "Rankable Sweet Spot"
-        # - Word Length: 3 to 6 words (strips saturated 1–2 word head terms and spammy 8+ word phrases)
+        # - Word Length: 3 to 6 words
         # - Search Consensus: Must appear in at least 2 independent discovery sources
         # - Similarity Gate: Semantic similarity to seed between 0.60 and 0.85
+        # - Safety Gate: No single-letter artifacts
         sweet_spot = [
             k for k in scored
             if k.text.lower() != norm_seed
             and 3 <= k.word_count <= 6
             and k.unique_sources >= 2
             and 0.60 <= k.similarity_to_seed <= 0.85
+            and is_safe(k.text)
         ]
-        # Tiered fallbacks if sweet spot is too narrow for small candidate pools
+        # Tiered fallbacks
         if len(sweet_spot) < 5:
             sweet_spot = [
                 k for k in scored
                 if k.text.lower() != norm_seed
                 and 3 <= k.word_count <= 6
                 and 0.50 <= k.similarity_to_seed <= 0.90
+                and is_safe(k.text)
             ]
         if len(sweet_spot) < 5:
             sweet_spot = [
                 k for k in scored
-                if k.text.lower() != norm_seed and 3 <= k.word_count <= 6
+                if k.text.lower() != norm_seed and 3 <= k.word_count <= 6 and is_safe(k.text)
             ]
         if len(sweet_spot) < 5:
-            sweet_spot = [k for k in scored if k.text.lower() != norm_seed]
+            sweet_spot = [k for k in scored if k.text.lower() != norm_seed and is_safe(k.text)]
         if not sweet_spot:
-            sweet_spot = list(scored)
+            sweet_spot = [k for k in scored if is_safe(k.text)]
 
         candidates = sweet_spot
 
@@ -270,12 +324,66 @@ class OutputStage:
         return chosen
 
     @staticmethod
+    def get_categorized_recommendations(
+        scored: List[ScoredKeyword], 
+        seed: str,
+        verified_high: Optional[List[ScoredKeyword]] = None,
+        verified_medium: Optional[List[ScoredKeyword]] = None
+    ) -> Dict[str, List[Dict[str, Any]]]:
+        """
+        Categorizes keywords into High and Medium competition lists (5 each).
+        Uses Gemini verified lists if provided.
+        """
+        def is_safe(kw_text: str) -> bool:
+            return is_safe_top_keyword(kw_text, seed)
+
+        high_out = []
+        if verified_high:
+            for i, kw in enumerate(verified_high[:5]):
+                high_out.append(OutputStage._format_recommendation(i+1, "High Competition Target", "High Comp", kw, "High search volume, high competition target.", forced_difficulty="High Competition"))
+        
+        medium_out = []
+        if verified_medium:
+            for i, kw in enumerate(verified_medium[:5]):
+                medium_out.append(OutputStage._format_recommendation(i+1, "Medium Competition Target", "Med Comp", kw, "Balanced opportunity with moderate difficulty.", forced_difficulty="Medium Competition"))
+
+        # Fallback to algorithmic if Gemini results are missing
+        if not high_out or not medium_out:
+            candidates = [k for k in scored if k.text.lower() != seed.strip().lower() and is_safe(k.text)]
+            
+            if not high_out:
+                high_comp = [
+                    k for k in candidates 
+                    if k.word_count <= 2 or (k.components.get("competition", 0.5) >= 0.65)
+                ]
+                high_comp.sort(key=lambda k: k.opportunity_score, reverse=True)
+                for i, kw in enumerate(high_comp[:5]):
+                    high_out.append(OutputStage._format_recommendation(i+1, "High Competition Target", "High Comp", kw, "High search volume, high competition target.", forced_difficulty="High Competition"))
+
+            if not medium_out:
+                high_texts = {k.text.lower() for k in high_out}
+                medium_comp = [
+                    k for k in candidates 
+                    if k.text.lower() not in high_texts and (k.word_count == 3 or k.components.get("competition", 0.5) >= 0.45)
+                ]
+                medium_comp.sort(key=lambda k: k.opportunity_score, reverse=True)
+                for i, kw in enumerate(medium_comp[:5]):
+                    medium_out.append(OutputStage._format_recommendation(i+1, "Medium Competition Target", "Med Comp", kw, "Balanced opportunity with moderate difficulty.", forced_difficulty="Medium Competition"))
+
+        return {
+            "high_competition_5": high_out,
+            "medium_competition_5": medium_out
+        }
+
+    @staticmethod
     def to_dict(
         clusters: List[KeywordCluster],
         seed: str,
         scored: Optional[List[ScoredKeyword]] = None,
+        verified_high: Optional[List[ScoredKeyword]] = None,
+        verified_medium: Optional[List[ScoredKeyword]] = None,
     ) -> Dict[str, Any]:
-        """Convert analysis clusters to JSON-serializable dictionary with 5 best recommendations."""
+        """Convert analysis clusters to JSON-serializable dictionary with categorized recommendations."""
         out_clusters = []
         for c in clusters:
             out_clusters.append({
@@ -317,13 +425,19 @@ class OutputStage:
                 all_scored.append(c.primary_keyword)
                 all_scored.extend(c.supporting_keywords)
 
-        recommended_5 = OutputStage.recommend_top5(all_scored, seed)
+        # Legacy top 5 uses the high competition list as a base
+        recommended_5 = OutputStage.recommend_top5(all_scored, seed, verified_top_5=verified_high)
+        categorized = OutputStage.get_categorized_recommendations(
+            all_scored, seed, verified_high=verified_high, verified_medium=verified_medium
+        )
 
         return {
             "seed_topic": seed,
             "total_clusters": len(clusters),
             "total_keywords": sum(c.total_keywords for c in clusters),
             "recommended_5": recommended_5,
+            "high_competition_5": categorized["high_competition_5"],
+            "medium_competition_5": categorized["medium_competition_5"],
             "clusters": out_clusters,
         }
 
@@ -399,7 +513,12 @@ class OutputStage:
         return output.getvalue()
 
     def export_files(
-        self, clusters: List[KeywordCluster], seed: str, base_filepath: str
+        self, 
+        clusters: List[KeywordCluster], 
+        seed: str, 
+        base_filepath: str, 
+        verified_high: Optional[List[ScoredKeyword]] = None,
+        verified_medium: Optional[List[ScoredKeyword]] = None
     ) -> Dict[str, str]:
         """Save both CSV and JSON to disk."""
         p = Path(base_filepath)
@@ -408,7 +527,12 @@ class OutputStage:
         json_path = p.with_suffix(".json")
         csv_path = p.with_suffix(".csv")
 
-        json_data = self.to_dict(clusters, seed)
+        json_data = self.to_dict(
+            clusters, 
+            seed, 
+            verified_high=verified_high,
+            verified_medium=verified_medium
+        )
         with open(json_path, "w", encoding="utf-8") as f:
             json.dump(json_data, f, indent=2)
 

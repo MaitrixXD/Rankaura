@@ -40,6 +40,7 @@ providers:
   stackexchange: true           # Preferred customer-language source
   reddit: false                 # Optional, verify API access first
   ollama: false                 # Local LLM brainstorm, requires Ollama running
+  gemini: true                  # Use Gemini for verification and ranking
 
 # --- SERP competition check (optional) ---
 serp:
@@ -55,6 +56,13 @@ ollama:
   model: "llama3"
   base_url: "http://localhost:11434"
   timeout: 30
+  max_suggestions: 20
+
+# --- Gemini settings ---
+gemini:
+  api_key: ""                   # Add your Gemini API key here (e.g., AIza...) or set GEMINI_API_KEY environment variable
+  model: "gemini-2.5-flash"
+  timeout: 25
   max_suggestions: 20
 
 # --- Scoring weights (must sum to 1.0) ---

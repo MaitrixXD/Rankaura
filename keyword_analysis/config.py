@@ -58,6 +58,7 @@ class ProviderConfig:
     stackexchange: bool = True
     reddit: bool = False
     ollama: bool = False
+    gemini: bool = False
 
 
 @dataclass
@@ -68,6 +69,14 @@ class SerpConfig:
     daily_quota: int = 100
     safety_margin: int = 10
     max_keywords: int = 50
+
+
+@dataclass
+class GeminiConfig:
+    api_key: str = ""
+    model: str = "gemini-1.5-flash"
+    timeout: int = 30
+    max_suggestions: int = 20
 
 
 @dataclass
@@ -144,6 +153,7 @@ class Config:
     providers: ProviderConfig = field(default_factory=ProviderConfig)
     serp: SerpConfig = field(default_factory=SerpConfig)
     ollama: OllamaConfig = field(default_factory=OllamaConfig)
+    gemini: GeminiConfig = field(default_factory=GeminiConfig)
     scoring: ScoringConfig = field(default_factory=ScoringConfig)
     clustering: ClusteringConfig = field(default_factory=ClusteringConfig)
     similarity: SimilarityConfig = field(default_factory=SimilarityConfig)
@@ -194,5 +204,9 @@ def load_config(path: Optional[str] = None) -> Config:
         with open(path, "r", encoding="utf-8") as f:
             raw = yaml.safe_load(f) or {}
         _merge_dict_into_dataclass(cfg, raw)
+
+    # Allow environment variable overrides for sensitive keys
+    if not cfg.gemini.api_key and os.environ.get("GEMINI_API_KEY"):
+        cfg.gemini.api_key = os.environ["GEMINI_API_KEY"]
 
     return cfg

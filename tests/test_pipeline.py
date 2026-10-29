@@ -7,7 +7,9 @@ from keyword_analysis.config import Config, load_config
 from keyword_analysis.similarity.lightweight import LightweightSimilarity
 from keyword_analysis.stages.enrich import EnrichStage, EnrichedKeyword
 from keyword_analysis.stages.filter import FilterStage
-from keyword_analysis.stages.score import ScoreStage
+from keyword_analysis.stages.score import ScoreStage, ScoredKeyword
+from keyword_analysis.stages.verify import VerifyStage
+from keyword_analysis.adapters.llm import GeminiAdapter
 from keyword_analysis.utils.normalizer import deduplicate, extract_ngrams, jaccard_similarity, normalize
 
 
@@ -74,6 +76,31 @@ class TestFilterAndScoring(unittest.TestCase):
         self.assertLessEqual(scored.opportunity_score, 1.0)
         self.assertIn(scored.score_band, ["High", "Medium", "Low"])
         self.assertIn(scored.confidence, ["High", "Medium", "Low"])
+
+
+class TestVerifyStage(unittest.TestCase):
+    def setUp(self):
+        self.cfg = Config()
+        self.cfg.providers.gemini = True
+        # Mock Gemini adapter
+        class MockGemini(GeminiAdapter):
+            def __init__(self):
+                pass
+            def is_available(self):
+                return True
+            def verify_keywords(self, seed, keywords):
+                return keywords[:5]
+
+        self.mock_gemini = MockGemini()
+        self.verify_stage = VerifyStage(self.cfg, gemini_adapter=self.mock_gemini)
+
+    def test_verify_run(self):
+        kw1 = ScoredKeyword(text="kw1", opportunity_score=0.9, score_band="High", confidence="High", components={}, intent_class="t", unique_sources=2, source_names=[], best_autocomplete_rank=1, word_count=2, distance=1, similarity_to_seed=0.9)
+        kw2 = ScoredKeyword(text="kw2", opportunity_score=0.8, score_band="High", confidence="High", components={}, intent_class="t", unique_sources=2, source_names=[], best_autocomplete_rank=1, word_count=2, distance=1, similarity_to_seed=0.8)
+        
+        results = self.verify_stage.run("seed", [kw1, kw2])
+        self.assertEqual(len(results), 2)
+        self.assertEqual(results[0].text, "kw1")
 
 
 if __name__ == "__main__":

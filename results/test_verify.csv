@@ -1,0 +1,296 @@
+Cluster ID,Cluster Topic,Role,Keyword,Opportunity Score,Score Band,Confidence,Intent,Demand Proxy,Competition Estimate,Specificity Score,Intent Score,Distance Penalty,Unique Sources Count,Best Autocomplete Rank,Word Count
+15,website designing services in delhi,PRIMARY,website designing services in delhi,0.775,High,Low,,1.0,0.5,0.74,0.75,0.1,1,1,5
+15,website designing services in delhi,SUPPORTING,website designing services in chandigarh,0.765,High,Low,,0.964,0.5,0.74,0.75,0.1,1,2,5
+15,website designing services in delhi,SUPPORTING,website designing services in mohali,0.754,High,Low,,0.928,0.5,0.74,0.75,0.1,1,3,5
+15,website designing services in delhi,SUPPORTING,best website designing services in indore,0.743,High,Low,,0.892,0.5,0.74,0.75,0.1,1,4,6
+15,website designing services in delhi,SUPPORTING,website designing services in bahraich,0.732,High,Low,,0.856,0.5,0.74,0.75,0.1,1,5,5
+15,website designing services in delhi,SUPPORTING,website designing services in lucknow,0.721,High,Low,,0.82,0.5,0.74,0.75,0.1,1,6,5
+15,website designing services in delhi,SUPPORTING,website designing services in bareilly,0.721,High,Low,,0.82,0.5,0.74,0.75,0.1,1,6,5
+15,website designing services in delhi,SUPPORTING,website designing services in panchkula,0.721,High,Low,,0.82,0.5,0.74,0.75,0.1,1,6,5
+15,website designing services in delhi,SUPPORTING,website designing services in india,0.711,High,Low,,0.784,0.5,0.74,0.75,0.1,1,7,5
+15,website designing services in delhi,SUPPORTING,website designing services in laxmi nagar,0.711,High,Low,,0.784,0.5,0.74,0.75,0.1,1,7,6
+5,website designing services mumbai,PRIMARY,website designing services mumbai,0.775,High,Low,,1.0,0.5,0.74,0.75,0.1,1,1,4
+5,website designing services mumbai,SUPPORTING,website designing services in mumbai,0.732,High,Low,,0.856,0.5,0.74,0.75,0.1,1,5,5
+5,website designing services mumbai,SUPPORTING,website designing company mumbai,0.546,Medium,Low,,0.892,0.5,0.74,0.75,0.1,1,4,4
+10,website designing services delhi,PRIMARY,website designing services delhi,0.775,High,Low,,1.0,0.5,0.74,0.75,0.1,1,1,4
+10,website designing services delhi,SUPPORTING,best website designing services in noida,0.775,High,Low,,1.0,0.5,0.74,0.75,0.1,1,1,6
+10,website designing services delhi,SUPPORTING,website designing services in noida,0.743,High,Low,,0.892,0.5,0.74,0.75,0.1,1,4,5
+10,website designing services delhi,SUPPORTING,ecommerce website designing services in noida,0.732,High,Low,,0.856,0.5,0.74,0.75,0.1,1,5,6
+10,website designing services delhi,SUPPORTING,website designing services noida,0.714,High,Low,,0.964,0.5,0.6,0.6,0.1,1,2,4
+10,website designing services delhi,SUPPORTING,best website designing services,0.703,High,Low,,0.928,0.5,0.6,0.6,0.1,1,3,4
+10,website designing services delhi,SUPPORTING,online website designing services,0.682,High,Low,,0.856,0.5,0.6,0.6,0.1,1,5,4
+10,website designing services delhi,SUPPORTING,designing services,0.651,High,Low,,0.964,0.5,0.36,0.6,0.25,1,2,2
+10,website designing services delhi,SUPPORTING,designing services tds rate,0.599,Medium,Low,,0.892,0.5,0.74,0.75,0.25,1,4,4
+10,website designing services delhi,SUPPORTING,designing services gst rate,0.581,Medium,Low,,0.82,0.5,0.74,0.75,0.25,1,6,4
+10,website designing services delhi,SUPPORTING,designing services gst,0.558,Medium,Low,,0.784,0.5,0.6,0.6,0.25,1,7,3
+10,website designing services delhi,SUPPORTING,designing services that deliver,0.534,Medium,Low,,0.928,0.5,0.6,0.6,0.25,1,3,4
+10,website designing services delhi,SUPPORTING,designing services with innovative methods,0.462,Medium,Low,,0.856,0.5,0.6,0.6,0.25,1,5,5
+12,website designing services hsn code,PRIMARY,website designing services hsn code,0.725,High,Low,,1.0,0.5,0.6,0.6,0.1,1,1,5
+12,website designing services hsn code,SUPPORTING,designing services hsn code,0.566,Medium,Low,,1.0,0.5,0.6,0.6,0.25,1,1,4
+2,website design services cost,PRIMARY,website design services cost,0.671,High,Low,,1.0,0.5,0.74,0.75,0.1,1,1,4
+2,website design services cost,SUPPORTING,cheap website design services,0.664,High,Low,,1.0,0.5,0.74,0.75,0.1,1,1,4
+2,website design services cost,SUPPORTING,website design services pune,0.662,High,Low,,0.964,0.5,0.74,0.75,0.1,1,2,4
+2,website design services cost,SUPPORTING,website design services price,0.66,High,Low,,0.964,0.5,0.74,0.75,0.1,1,2,4
+2,website design services cost,SUPPORTING,website design services bangalore,0.638,Medium,Low,,1.0,0.5,0.74,0.75,0.1,1,1,4
+2,website design services cost,SUPPORTING,website design our services,0.634,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+2,website design services cost,SUPPORTING,website design services usa,0.634,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+2,website design services cost,SUPPORTING,website design services uk,0.632,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,4
+2,website design services cost,SUPPORTING,website design services price list,0.631,Medium,Low,,1.0,0.5,0.74,0.75,0.1,1,1,5
+2,website design services cost,SUPPORTING,website design services hyderabad,0.629,Medium,Low,,0.964,0.5,0.74,0.75,0.1,1,2,4
+2,website design services cost,SUPPORTING,website design for services,0.625,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,4
+2,website design services cost,SUPPORTING,website design services list,0.618,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,4
+2,website design services cost,SUPPORTING,website design services london,0.614,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+2,website design services cost,SUPPORTING,website design services poster,0.614,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+2,website design services cost,SUPPORTING,website design services singapore,0.614,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+2,website design services cost,SUPPORTING,website design services dubai,0.611,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,4
+2,website design services cost,SUPPORTING,website design services page,0.609,Medium,Low,,0.928,0.5,0.6,0.6,0.1,1,3,4
+2,website design services cost,SUPPORTING,gst on website design services,0.606,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,5
+2,website design services cost,SUPPORTING,website design services banner,0.605,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,4
+2,website design services cost,SUPPORTING,website design services section,0.604,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,4
+2,website design services cost,SUPPORTING,website design services charlotte,0.603,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+2,website design services cost,SUPPORTING,website design services edmonton,0.602,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+2,website design services cost,SUPPORTING,website design services website,0.601,Medium,Low,,0.784,0.5,0.6,0.6,0.1,1,7,4
+2,website design services cost,SUPPORTING,website design services post,0.599,Medium,Low,,0.892,0.5,0.6,0.6,0.1,1,4,4
+2,website design services cost,SUPPORTING,website design services gurgaon,0.599,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,4
+2,website design services cost,SUPPORTING,website design services toronto,0.599,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,4
+2,website design services cost,SUPPORTING,website design services wordpress,0.597,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+2,website design services cost,SUPPORTING,website design services new york,0.594,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,5
+2,website design services cost,SUPPORTING,types of website design services,0.591,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,5
+2,website design services cost,SUPPORTING,website design services template,0.59,Medium,Low,,0.928,0.5,0.6,0.6,0.1,1,3,4
+2,website design services cost,SUPPORTING,website design services melbourne,0.588,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,4
+2,website design services cost,SUPPORTING,website design services tirunelveli,0.586,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+2,website design services cost,SUPPORTING,website design services malaysia,0.584,Medium,Low,,0.928,0.5,0.6,0.6,0.1,1,3,4
+2,website design services cost,SUPPORTING,website design list of services,0.573,Medium,Low,,0.892,0.5,0.6,0.6,0.1,1,4,5
+2,website design services cost,SUPPORTING,website design services wolverhampton,0.568,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,4
+2,website design services cost,SUPPORTING,website design services for small business,0.563,Medium,Low,,1.0,0.5,0.74,0.6,0.1,1,1,6
+2,website design services cost,SUPPORTING,design website calling web services,0.531,Medium,Low,,0.7,0.5,0.6,0.6,0.1,1,N/A,5
+2,website design services cost,SUPPORTING,website design professional services,0.529,Medium,Low,,0.784,0.5,0.6,0.6,0.1,1,7,4
+2,website design services cost,SUPPORTING,website design services for aesthetic clinics,0.523,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,6
+2,website design services cost,SUPPORTING,design website,0.394,Low,Low,,0.7,0.5,0.36,0.6,0.1,1,N/A,2
+2,website design services cost,SUPPORTING,design website calling,0.36,Low,Low,,0.7,0.5,0.6,0.6,0.1,1,N/A,3
+4,designing website,PRIMARY,designing website,0.651,High,Low,,0.964,0.5,0.36,0.6,0.25,1,2,2
+4,designing website,SUPPORTING,affordable website design services,0.633,Medium,Low,,1.0,0.5,0.74,0.75,0.1,1,1,4
+4,designing website,SUPPORTING,affordable website designing,0.585,Medium,Low,,0.964,0.5,0.74,0.75,0.25,1,2,3
+4,designing website,SUPPORTING,affordable website design services in bhubaneswar,0.567,Medium,Low,,0.964,0.5,0.88,0.75,0.1,1,2,6
+4,designing website,SUPPORTING,affordable wordpress website design services,0.555,Medium,Low,,0.928,0.5,0.74,0.75,0.1,1,3,5
+4,designing website,SUPPORTING,website designing without coding,0.485,Medium,Low,,0.676,0.5,0.74,0.6,0.25,1,10,4
+6,website design services in jaipur,PRIMARY,website design services in jaipur,0.629,Medium,Low,,1.0,0.5,0.74,0.75,0.1,1,1,5
+6,website design services in jaipur,SUPPORTING,website design services in rohtak,0.612,Medium,Low,,0.928,0.5,0.74,0.75,0.1,1,3,5
+6,website design services in jaipur,SUPPORTING,top website design services in dubai,0.607,Medium,Low,,1.0,0.5,0.74,0.75,0.1,1,1,6
+6,website design services in jaipur,SUPPORTING,website design services in watford,0.606,Medium,Low,,0.928,0.5,0.74,0.75,0.1,1,3,5
+6,website design services in jaipur,SUPPORTING,website design services in thane,0.6,Medium,Low,,0.856,0.5,0.74,0.75,0.1,1,5,5
+6,website design services in jaipur,SUPPORTING,website design services in kolkata,0.598,Medium,Low,,0.892,0.5,0.74,0.75,0.1,1,4,5
+6,website design services in jaipur,SUPPORTING,website design services in kalyan,0.594,Medium,Low,,0.856,0.5,0.74,0.75,0.1,1,5,5
+6,website design services in jaipur,SUPPORTING,website design services in johannesburg,0.59,Medium,Low,,0.964,0.5,0.74,0.75,0.1,1,2,5
+6,website design services in jaipur,SUPPORTING,website design services in kenya,0.582,Medium,Low,,0.784,0.5,0.74,0.75,0.1,1,7,5
+6,website design services in jaipur,SUPPORTING,website design services in bhopal,0.577,Medium,Low,,0.784,0.5,0.74,0.75,0.1,1,7,5
+6,website design services in jaipur,SUPPORTING,website design services in surat,0.572,Medium,Low,,0.784,0.5,0.74,0.75,0.1,1,7,5
+6,website design services in jaipur,SUPPORTING,website design services in kukatpally,0.566,Medium,Low,,0.82,0.5,0.74,0.75,0.1,1,6,5
+6,website design services in jaipur,SUPPORTING,website design services in lagos,0.565,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,5
+6,website design services in jaipur,SUPPORTING,website design services in miami,0.565,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,5
+6,website design services in jaipur,SUPPORTING,website design services in patna,0.565,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,5
+6,website design services in jaipur,SUPPORTING,website design services in ludhiana,0.558,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,5
+6,website design services in jaipur,SUPPORTING,website design services in dubai,0.556,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,5
+6,website design services in jaipur,SUPPORTING,website design services in lahore,0.551,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,5
+6,website design services in jaipur,SUPPORTING,website design services in brisbane,0.549,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,5
+6,website design services in jaipur,SUPPORTING,website design services in hyderabad,0.545,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,5
+6,website design services in jaipur,SUPPORTING,website design services in bhubaneswar,0.545,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,5
+6,website design services in jaipur,SUPPORTING,website design services in pakistan,0.541,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,5
+6,website design services in jaipur,SUPPORTING,website design services in california,0.54,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,5
+6,website design services in jaipur,SUPPORTING,website design services in coimbatore,0.532,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,5
+14,website designing services near me,PRIMARY,website designing services near me,0.775,High,Low,,1.0,0.5,0.74,0.75,0.1,1,1,5
+14,website designing services near me,SUPPORTING,website design services near me,0.633,Medium,Low,,0.964,0.5,0.74,0.75,0.1,1,2,5
+14,website designing services near me,SUPPORTING,website designing company near me,0.549,Medium,Low,,0.964,0.5,0.74,0.75,0.1,1,2,5
+14,website designing services near me,SUPPORTING,wordpress website design services near me,0.543,Medium,Low,,0.82,0.5,0.74,0.75,0.1,1,6,6
+14,website designing services near me,SUPPORTING,website designing near me,0.523,Medium,Low,,0.676,0.5,0.74,0.75,0.25,1,10,4
+14,website designing services near me,SUPPORTING,website creation services near me,0.506,Medium,Low,,0.928,0.5,0.74,0.75,0.1,1,3,5
+14,website designing services near me,SUPPORTING,best website designing company near me,0.485,Medium,Low,,0.784,0.5,0.74,0.75,0.1,1,7,6
+14,website designing services near me,SUPPORTING,top website designing company near me,0.481,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,6
+14,website designing services near me,SUPPORTING,website design and development services near me,0.472,Medium,Low,,0.676,0.5,0.59,0.75,0.1,1,10,7
+3,website design services godaddy,PRIMARY,website design services godaddy,0.608,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+3,website design services godaddy,SUPPORTING,godaddy website design services cost,0.605,Medium,Low,,0.964,0.5,0.74,0.75,0.1,1,2,5
+3,website design services godaddy,SUPPORTING,what is website design services,0.6,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,5
+3,website design services godaddy,SUPPORTING,godaddy website design services reviews,0.56,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,5
+3,website design services godaddy,SUPPORTING,website design services godaddy help,0.556,Medium,Low,,0.928,0.5,0.6,0.6,0.1,1,3,5
+3,website design services godaddy,SUPPORTING,what is website design services godaddy,0.546,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,6
+3,website design services godaddy,SUPPORTING,what designing,0.373,Low,Low,,1.0,0.5,0.36,0.6,0.25,1,1,2
+9,best website designing services in delhi,PRIMARY,best website designing services in delhi,0.765,High,Low,,0.964,0.5,0.74,0.75,0.1,1,2,6
+9,best website designing services in delhi,SUPPORTING,website designing company delhi,0.567,Medium,Low,,0.928,0.5,0.74,0.75,0.1,1,3,4
+9,best website designing services in delhi,SUPPORTING,cheap website designing company in delhi,0.543,Medium,Low,,0.964,0.5,0.88,0.75,0.1,1,2,6
+9,best website designing services in delhi,SUPPORTING,website designing company in west delhi,0.521,Medium,Low,,0.892,0.5,0.74,0.75,0.1,1,4,6
+9,best website designing services in delhi,SUPPORTING,website designing company in east delhi,0.52,Medium,Low,,0.928,0.5,0.74,0.75,0.1,1,3,6
+9,best website designing services in delhi,SUPPORTING,website designing company south delhi,0.518,Medium,Low,,0.856,0.5,0.74,0.75,0.1,1,5,5
+9,best website designing services in delhi,SUPPORTING,website designing company in delhi,0.514,Medium,Low,,0.784,0.5,0.74,0.75,0.1,1,7,5
+9,best website designing services in delhi,SUPPORTING,top website designing company in delhi,0.501,Medium,Low,,0.82,0.5,0.74,0.75,0.1,1,6,6
+9,best website designing services in delhi,SUPPORTING,website designing company in delhi ncr,0.494,Medium,Low,,0.784,0.5,0.74,0.75,0.1,1,7,6
+9,best website designing services in delhi,SUPPORTING,website designing company in rohini delhi,0.484,Medium,Low,,0.784,0.5,0.74,0.75,0.1,1,7,6
+9,best website designing services in delhi,SUPPORTING,best website designing company delhi,0.483,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,5
+9,best website designing services in delhi,SUPPORTING,website designing company in delhi with price,0.473,Medium,Low,,0.748,0.5,0.73,0.75,0.1,1,8,7
+8,website designing company chennai,PRIMARY,website designing company chennai,0.542,Medium,Low,,0.892,0.5,0.74,0.75,0.1,1,4,4
+8,website designing company chennai,SUPPORTING,website designing company bangalore,0.541,Medium,Low,,0.928,0.5,0.74,0.75,0.1,1,3,4
+8,website designing company chennai,SUPPORTING,website designing company kochi,0.538,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+8,website designing company chennai,SUPPORTING,website designing company rohini,0.533,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+8,website designing company chennai,SUPPORTING,website designing company hyderabad,0.533,Medium,Low,,0.892,0.5,0.74,0.75,0.1,1,4,4
+8,website designing company chennai,SUPPORTING,website designing company kerala,0.525,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,4
+8,website designing company chennai,SUPPORTING,website designing company zirakpur,0.524,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+8,website designing company chennai,SUPPORTING,website designing company ahmedabad,0.52,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+8,website designing company chennai,SUPPORTING,website designing company vasundhara,0.516,Medium,Low,,1.0,0.5,0.6,0.6,0.1,1,1,4
+8,website designing company chennai,SUPPORTING,website designing company,0.514,Medium,Low,,0.712,0.5,0.6,0.6,0.1,1,9,3
+8,website designing company chennai,SUPPORTING,website designing company dubai,0.514,Medium,Low,,0.892,0.5,0.6,0.6,0.1,1,4,4
+8,website designing company chennai,SUPPORTING,website designing company kolkata,0.513,Medium,Low,,0.928,0.5,0.6,0.6,0.1,1,3,4
+8,website designing company chennai,SUPPORTING,website designing company lucknow,0.513,Medium,Low,,0.928,0.5,0.6,0.6,0.1,1,3,4
+8,website designing company chennai,SUPPORTING,website designing company ernakulam,0.512,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,4
+8,website designing company chennai,SUPPORTING,website designing company bhopal,0.509,Medium,Low,,0.892,0.5,0.6,0.6,0.1,1,4,4
+8,website designing company chennai,SUPPORTING,website designing company cochin,0.509,Medium,Low,,0.928,0.5,0.6,0.6,0.1,1,3,4
+8,website designing company chennai,SUPPORTING,website designing company haldwani,0.509,Medium,Low,,0.928,0.5,0.6,0.6,0.1,1,3,4
+8,website designing company chennai,SUPPORTING,website designing company noida,0.506,Medium,Low,,0.856,0.5,0.6,0.6,0.1,1,5,4
+8,website designing company chennai,SUPPORTING,website designing company dwarka,0.501,Medium,Low,,0.856,0.5,0.6,0.6,0.1,1,5,4
+8,website designing company chennai,SUPPORTING,website designing company mohali,0.501,Medium,Low,,0.856,0.5,0.6,0.6,0.1,1,5,4
+8,website designing company chennai,SUPPORTING,website designing company ludhiana,0.501,Medium,Low,,0.892,0.5,0.6,0.6,0.1,1,4,4
+8,website designing company chennai,SUPPORTING,website designing company saharanpur,0.501,Medium,Low,,0.928,0.5,0.6,0.6,0.1,1,3,4
+8,website designing company chennai,SUPPORTING,website designing company coimbatore,0.501,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,4
+8,website designing company chennai,SUPPORTING,website designing company gurgaon,0.497,Medium,Low,,0.856,0.5,0.6,0.6,0.1,1,5,4
+8,website designing company chennai,SUPPORTING,website designing company faridabad,0.497,Medium,Low,,0.892,0.5,0.6,0.6,0.1,1,4,4
+8,website designing company chennai,SUPPORTING,website designing company ghaziabad,0.497,Medium,Low,,0.892,0.5,0.6,0.6,0.1,1,4,4
+8,website designing company chennai,SUPPORTING,website designing company sahibabad,0.497,Medium,Low,,0.892,0.5,0.6,0.6,0.1,1,4,4
+8,website designing company chennai,SUPPORTING,website designing company nagpur,0.493,Medium,Low,,0.82,0.5,0.6,0.6,0.1,1,6,4
+8,website designing company chennai,SUPPORTING,website designing company dehradun,0.493,Medium,Low,,0.82,0.5,0.6,0.6,0.1,1,6,4
+8,website designing company chennai,SUPPORTING,website designing company for hotels,0.493,Medium,Low,,0.928,0.5,0.6,0.6,0.1,1,3,5
+8,website designing company chennai,SUPPORTING,website designing company chandigarh,0.485,Medium,Low,,0.856,0.5,0.6,0.6,0.1,1,5,4
+8,website designing company chennai,SUPPORTING,website designing company moradabad,0.481,Medium,Low,,0.82,0.5,0.6,0.6,0.1,1,6,4
+8,website designing company chennai,SUPPORTING,website designing company laxmi nagar,0.474,Medium,Low,,0.856,0.5,0.6,0.6,0.1,1,5,5
+8,website designing company chennai,SUPPORTING,website designing company rajnandgaon chhattisgarh reviews,0.437,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,6
+7,best website design services in california,PRIMARY,best website design services in california,0.547,Medium,Low,,0.856,0.5,0.74,0.75,0.1,1,5,6
+7,best website design services in california,SUPPORTING,best website design services in thanjavur,0.543,Medium,Low,,0.82,0.5,0.74,0.75,0.1,1,6,6
+7,best website design services in california,SUPPORTING,website design development services in usa,0.514,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,6
+7,best website design services in california,SUPPORTING,website design development services in junagadh,0.514,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,6
+7,best website design services in california,SUPPORTING,website design and development services,0.508,Medium,Low,,0.748,0.5,0.6,0.6,0.1,1,8,5
+7,best website design services in california,SUPPORTING,best website development services,0.473,Medium,Low,,0.748,0.5,0.6,0.6,0.1,1,8,4
+7,best website design services in california,SUPPORTING,best website development services in hyderabad,0.461,Medium,Low,,0.784,0.5,0.74,0.75,0.1,1,7,6
+7,best website design services in california,SUPPORTING,best website development services in india,0.452,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,6
+7,best website design services in california,SUPPORTING,best website development services in lucknow,0.445,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,6
+1,website designing company in qatar,PRIMARY,website designing company in qatar,0.552,Medium,Low,,1.0,0.5,0.74,0.75,0.1,1,1,5
+1,website designing company in qatar,SUPPORTING,website designing company in usa,0.538,Medium,Low,,0.892,0.5,0.74,0.75,0.1,1,4,5
+1,website designing company in qatar,SUPPORTING,website designing company in okhla,0.537,Medium,Low,,0.928,0.5,0.74,0.75,0.1,1,3,5
+1,website designing company in qatar,SUPPORTING,website designing company in uk,0.535,Medium,Low,,0.856,0.5,0.74,0.75,0.1,1,5,5
+1,website designing company in qatar,SUPPORTING,website designing company in jaipur,0.532,Medium,Low,,0.928,0.5,0.74,0.75,0.1,1,3,5
+1,website designing company in qatar,SUPPORTING,website designing company in vadodara,0.532,Medium,Low,,0.964,0.5,0.74,0.75,0.1,1,2,5
+1,website designing company in qatar,SUPPORTING,website designing company in erode,0.529,Medium,Low,,0.892,0.5,0.74,0.75,0.1,1,4,5
+1,website designing company in qatar,SUPPORTING,website designing company in varanasi,0.524,Medium,Low,,0.928,0.5,0.74,0.75,0.1,1,3,5
+1,website designing company in qatar,SUPPORTING,website designing company in uae,0.522,Medium,Low,,0.82,0.5,0.74,0.75,0.1,1,6,5
+1,website designing company in qatar,SUPPORTING,website designing company in agra,0.518,Medium,Low,,0.82,0.5,0.74,0.75,0.1,1,6,5
+1,website designing company in qatar,SUPPORTING,website designing company in vaishali,0.517,Medium,Low,,0.892,0.5,0.74,0.75,0.1,1,4,5
+1,website designing company in qatar,SUPPORTING,website designing company in janakpuri,0.513,Medium,Low,,0.892,0.5,0.74,0.75,0.1,1,4,5
+1,website designing company in qatar,SUPPORTING,website designing company in ranchi,0.509,Medium,Low,,0.82,0.5,0.74,0.75,0.1,1,6,5
+1,website designing company in qatar,SUPPORTING,website designing company in una,0.507,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,5
+1,website designing company in qatar,SUPPORTING,website designing company in uttam nagar,0.507,Medium,Low,,0.928,0.5,0.74,0.75,0.1,1,3,6
+1,website designing company in qatar,SUPPORTING,website designing company in jodhpur,0.506,Medium,Low,,0.82,0.5,0.74,0.75,0.1,1,6,5
+1,website designing company in qatar,SUPPORTING,website designing company in jalandhar,0.506,Medium,Low,,0.856,0.5,0.74,0.75,0.1,1,5,5
+1,website designing company in qatar,SUPPORTING,website designing company in wazirpur,0.502,Medium,Low,,0.82,0.5,0.74,0.75,0.1,1,6,5
+1,website designing company in qatar,SUPPORTING,website designing company in vijayawada,0.502,Medium,Low,,0.856,0.5,0.74,0.75,0.1,1,5,5
+1,website designing company in qatar,SUPPORTING,website designing company in noida,0.498,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,5
+1,website designing company in qatar,SUPPORTING,website designing company in thane,0.498,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,5
+1,website designing company in qatar,SUPPORTING,website designing company in vasai,0.498,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,5
+1,website designing company in qatar,SUPPORTING,website designing company in gujarat,0.498,Medium,Low,,0.784,0.5,0.74,0.75,0.1,1,7,5
+1,website designing company in qatar,SUPPORTING,website designing company in tirupur,0.498,Medium,Low,,0.784,0.5,0.74,0.75,0.1,1,7,5
+1,website designing company in qatar,SUPPORTING,website designing company in udaipur,0.498,Medium,Low,,0.784,0.5,0.74,0.75,0.1,1,7,5
+1,website designing company in qatar,SUPPORTING,website designing company in vellore,0.498,Medium,Low,,0.784,0.5,0.74,0.75,0.1,1,7,5
+1,website designing company in qatar,SUPPORTING,website designing company in vikaspuri,0.498,Medium,Low,,0.82,0.5,0.74,0.75,0.1,1,6,5
+1,website designing company in qatar,SUPPORTING,website designing company in kanpur,0.494,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,5
+1,website designing company in qatar,SUPPORTING,website designing company in raipur,0.494,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,5
+1,website designing company in qatar,SUPPORTING,website designing company in amritsar,0.494,Medium,Low,,0.784,0.5,0.74,0.75,0.1,1,7,5
+1,website designing company in qatar,SUPPORTING,website designing company in goa,0.491,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,5
+1,website designing company in qatar,SUPPORTING,website designing company in hisar,0.491,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,5
+1,website designing company in qatar,SUPPORTING,website designing company in haryana,0.49,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,5
+1,website designing company in qatar,SUPPORTING,website designing company in rohtak,0.487,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,5
+1,website designing company in qatar,SUPPORTING,website designing company in shahdara,0.487,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,5
+1,website designing company in qatar,SUPPORTING,website designing company in rajouri garden,0.484,Medium,Low,,0.856,0.5,0.74,0.75,0.1,1,5,6
+1,website designing company in qatar,SUPPORTING,website designing company in siwan,0.483,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,5
+1,website designing company in qatar,SUPPORTING,website designing company in vashi,0.483,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,5
+1,website designing company in qatar,SUPPORTING,website designing company in sonipat,0.483,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,5
+1,website designing company in qatar,SUPPORTING,website designing company in ukraine,0.483,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,5
+1,website designing company in qatar,SUPPORTING,website designing company in gorakhpur,0.483,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,5
+1,website designing company in qatar,SUPPORTING,website designing company in najafgarh,0.483,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,5
+1,website designing company in qatar,SUPPORTING,website designing company in howrah,0.479,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,5
+1,website designing company in qatar,SUPPORTING,website designing company in trichy,0.479,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,5
+1,website designing company in qatar,SUPPORTING,website designing company in guwahati,0.479,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,5
+1,website designing company in qatar,SUPPORTING,website designing company in greater noida,0.479,Medium,Low,,0.82,0.5,0.74,0.75,0.1,1,6,6
+1,website designing company in qatar,SUPPORTING,website designing company in gurgaon,0.475,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,5
+1,website designing company in qatar,SUPPORTING,top website designing company in lucknow,0.471,Medium,Low,,0.748,0.5,0.74,0.75,0.1,1,8,6
+1,website designing company in qatar,SUPPORTING,e-commerce website designing company in faridabad,0.469,Medium,Low,,0.892,0.5,0.74,0.75,0.1,1,4,6
+1,website designing company in qatar,SUPPORTING,website designing company in dwarka mor,0.467,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,6
+1,website designing company in qatar,SUPPORTING,website designing company in kankarbagh,0.465,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,5
+1,website designing company in qatar,SUPPORTING,top website designing company in india,0.464,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,6
+1,website designing company in qatar,SUPPORTING,website designing company in new zealand,0.464,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,6
+1,website designing company in qatar,SUPPORTING,website designing company in tilak nagar,0.464,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,6
+1,website designing company in qatar,SUPPORTING,website designing company in rani bagh,0.463,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,6
+1,website designing company in qatar,SUPPORTING,website designing company in visakhapatnam,0.463,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,5
+1,website designing company in qatar,SUPPORTING,website designing company in bhubaneswar,0.462,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,5
+1,website designing company in qatar,SUPPORTING,top website designing company in gurgaon,0.457,Medium,Low,,0.676,0.5,0.74,0.75,0.1,1,10,6
+1,website designing company in qatar,SUPPORTING,website designing company in kankarbagh patna,0.45,Medium,Low,,0.712,0.5,0.74,0.75,0.1,1,9,6
+1,website designing company in qatar,SUPPORTING,website designing company for hotels in jaipur,0.437,Medium,Low,,0.784,0.5,0.59,0.75,0.1,1,7,7
+1,website designing company in qatar,SUPPORTING,website designing company in hanuman nagar patna,0.433,Medium,Low,,0.784,0.5,0.59,0.75,0.1,1,7,7
+1,website designing company in qatar,SUPPORTING,website designing company for jewellery shop in dubai,0.419,Medium,Low,,0.784,0.5,0.59,0.75,0.1,1,7,8
+1,website designing company in qatar,SUPPORTING,website designing company for pet hospital in dubai,0.409,Medium,Low,,0.712,0.5,0.59,0.75,0.1,1,9,8
+13,website designing and development,PRIMARY,website designing and development,0.521,Medium,Low,,0.928,0.5,0.6,0.6,0.1,1,3,4
+13,website designing and development,SUPPORTING,designing and building ai products and services,0.41,Medium,Low,,0.856,0.5,0.45,0.6,0.25,1,5,7
+13,website designing and development,SUPPORTING,website designing company for movers and packers,0.406,Medium,Low,,0.856,0.5,0.45,0.6,0.1,1,5,7
+13,website designing and development,SUPPORTING,designing ai,0.39,Low,Low,,1.0,0.5,0.36,0.6,0.25,1,1,2
+11,website services examples,PRIMARY,website services examples,0.544,Medium,Low,,0.964,0.5,0.6,0.6,0.1,1,2,3
+11,website services examples,SUPPORTING,designing cost,0.401,Medium,Low,,1.0,0.5,0.5,0.75,0.25,1,1,2
+11,website services examples,SUPPORTING,designing websites free,0.39,Low,Low,,0.748,0.5,0.6,0.6,0.25,1,8,3
+11,website services examples,SUPPORTING,designing spelling,0.387,Low,Low,,1.0,0.5,0.36,0.6,0.25,1,1,2
+11,website services examples,SUPPORTING,designing gate,0.384,Low,Low,,0.928,0.5,0.36,0.6,0.25,1,3,2
+11,website services examples,SUPPORTING,designing quotes,0.381,Low,Low,,1.0,0.5,0.36,0.6,0.25,1,1,2
+11,website services examples,SUPPORTING,can designing,0.381,Low,Low,,1.0,0.5,0.36,0.6,0.25,1,1,2
+11,website services examples,SUPPORTING,designing shirt,0.376,Low,Low,,0.928,0.5,0.36,0.6,0.25,1,3,2
+11,website services examples,SUPPORTING,designing app,0.375,Low,Low,,0.964,0.5,0.36,0.6,0.25,1,2,2
+11,website services examples,SUPPORTING,designing fan,0.375,Low,Low,,0.964,0.5,0.36,0.6,0.25,1,2,2
+11,website services examples,SUPPORTING,designing courses,0.375,Low,Low,,1.0,0.5,0.36,0.6,0.25,1,1,2
+11,website services examples,SUPPORTING,designing name,0.373,Low,Low,,1.0,0.5,0.36,0.6,0.25,1,1,2
+11,website services examples,SUPPORTING,chip designing,0.373,Low,Low,,1.0,0.5,0.36,0.6,0.25,1,1,2
+11,website services examples,SUPPORTING,designing font,0.373,Low,Low,,1.0,0.5,0.36,0.6,0.25,1,1,2
+11,website services examples,SUPPORTING,designing jobs,0.373,Low,Low,,1.0,0.5,0.36,0.6,0.25,1,1,2
+11,website services examples,SUPPORTING,designing typing,0.372,Low,Low,,0.964,0.5,0.36,0.6,0.25,1,2,2
+11,website services examples,SUPPORTING,designing suit,0.371,Low,Low,,0.856,0.5,0.36,0.6,0.25,1,5,2
+11,website services examples,SUPPORTING,designing design,0.37,Low,Low,,0.82,0.5,0.36,0.6,0.25,1,6,2
+11,website services examples,SUPPORTING,designing saree,0.37,Low,Low,,0.892,0.5,0.36,0.6,0.25,1,4,2
+11,website services examples,SUPPORTING,designing images,0.369,Low,Low,,0.928,0.5,0.36,0.6,0.25,1,3,2
+11,website services examples,SUPPORTING,designing bed,0.369,Low,Low,,0.928,0.5,0.36,0.6,0.25,1,3,2
+11,website services examples,SUPPORTING,designing exam,0.367,Low,Low,,0.964,0.5,0.36,0.6,0.25,1,2,2
+11,website services examples,SUPPORTING,designing game,0.367,Low,Low,,0.964,0.5,0.36,0.6,0.25,1,2,2
+11,website services examples,SUPPORTING,designing naam,0.367,Low,Low,,0.964,0.5,0.36,0.6,0.25,1,2,2
+11,website services examples,SUPPORTING,designing room,0.367,Low,Low,,0.964,0.5,0.36,0.6,0.25,1,2,2
+11,website services examples,SUPPORTING,designing tiles,0.363,Low,Low,,0.856,0.5,0.36,0.6,0.25,1,5,2
+11,website services examples,SUPPORTING,designing meaning,0.363,Low,Low,,0.892,0.5,0.36,0.6,0.25,1,4,2
+11,website services examples,SUPPORTING,designing pen,0.362,Low,Low,,0.892,0.5,0.36,0.6,0.25,1,4,2
+11,website services examples,SUPPORTING,when designing,0.361,Low,Low,,0.928,0.5,0.36,0.6,0.25,1,3,2
+11,website services examples,SUPPORTING,designing home,0.361,Low,Low,,0.928,0.5,0.36,0.6,0.25,1,3,2
+11,website services examples,SUPPORTING,designing logo,0.361,Low,Low,,0.928,0.5,0.36,0.6,0.25,1,3,2
+11,website services examples,SUPPORTING,designing page,0.361,Low,Low,,0.928,0.5,0.36,0.6,0.25,1,3,2
+11,website services examples,SUPPORTING,designing office,0.357,Low,Low,,0.856,0.5,0.36,0.6,0.25,1,5,2
+11,website services examples,SUPPORTING,designing tape,0.355,Low,Low,,0.892,0.5,0.36,0.6,0.25,1,4,2
+11,website services examples,SUPPORTING,designing work,0.355,Low,Low,,0.892,0.5,0.36,0.6,0.25,1,4,2
+11,website services examples,SUPPORTING,designing drawing,0.354,Low,Low,,0.892,0.5,0.36,0.6,0.25,1,4,2
+11,website services examples,SUPPORTING,designing ui,0.352,Low,Low,,0.784,0.5,0.36,0.6,0.25,1,7,2
+11,website services examples,SUPPORTING,designing sheet,0.351,Low,Low,,0.784,0.5,0.36,0.6,0.25,1,7,2
+11,website services examples,SUPPORTING,designing wall,0.349,Low,Low,,0.856,0.5,0.36,0.6,0.25,1,5,2
+11,website services examples,SUPPORTING,designing ring,0.345,Low,Low,,0.748,0.5,0.36,0.6,0.25,1,8,2
+11,website services examples,SUPPORTING,designing vibes,0.344,Low,Low,,0.748,0.5,0.36,0.6,0.25,1,8,2
+11,website services examples,SUPPORTING,designing art,0.344,Low,Low,,0.784,0.5,0.36,0.6,0.25,1,7,2
+11,website services examples,SUPPORTING,designing form,0.343,Low,Low,,0.82,0.5,0.36,0.6,0.25,1,6,2
+11,website services examples,SUPPORTING,designing book,0.343,Low,Low,,0.82,0.5,0.36,0.6,0.25,1,6,2
+11,website services examples,SUPPORTING,designing line,0.343,Low,Low,,0.82,0.5,0.36,0.6,0.25,1,6,2
+11,website services examples,SUPPORTING,designing ghar,0.336,Low,Low,,0.784,0.5,0.36,0.6,0.25,1,7,2
+11,website services examples,SUPPORTING,designing railing,0.336,Low,Low,,0.784,0.5,0.36,0.6,0.25,1,7,2
+11,website services examples,SUPPORTING,designing writing,0.336,Low,Low,,0.784,0.5,0.36,0.6,0.25,1,7,2
+11,website services examples,SUPPORTING,designing rules,0.332,Low,Low,,0.676,0.5,0.36,0.6,0.25,1,10,2
+11,website services examples,SUPPORTING,designing studio,0.332,Low,Low,,0.712,0.5,0.36,0.6,0.25,1,9,2
+11,website services examples,SUPPORTING,designing gala,0.33,Low,Low,,0.748,0.5,0.36,0.6,0.25,1,8,2
+11,website services examples,SUPPORTING,designing info,0.33,Low,Low,,0.748,0.5,0.36,0.6,0.25,1,8,2
+11,website services examples,SUPPORTING,designing team,0.33,Low,Low,,0.748,0.5,0.36,0.6,0.25,1,8,2
+11,website services examples,SUPPORTING,designing glasses,0.326,Low,Low,,0.712,0.5,0.36,0.6,0.25,1,9,2
+11,website services examples,SUPPORTING,designing top,0.325,Low,Low,,0.676,0.5,0.36,0.6,0.25,1,10,2
+11,website services examples,SUPPORTING,designing juta,0.324,Low,Low,,0.712,0.5,0.36,0.6,0.25,1,9,2
+11,website services examples,SUPPORTING,designing lace,0.324,Low,Low,,0.712,0.5,0.36,0.6,0.25,1,9,2
+11,website services examples,SUPPORTING,designing text,0.324,Low,Low,,0.712,0.5,0.36,0.6,0.25,1,9,2

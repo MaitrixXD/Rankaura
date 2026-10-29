@@ -24,6 +24,9 @@ from fastapi.templating import Jinja2Templates
 
 from keyword_analysis.config import load_config
 from keyword_analysis.pipeline import KeywordPipeline
+from keyword_analysis.utils.logger import get_logger
+
+log = get_logger(__name__)
 
 app = FastAPI(title="Free SEO Keyword Analysis Engine")
 
@@ -90,6 +93,11 @@ async def analyze_keyword(
         raise HTTPException(status_code=400, detail="Seed topic cannot be empty.")
 
     pipeline = get_pipeline()
+    
+    # Check for Gemini API key if enabled
+    if pipeline.cfg.providers.gemini and not pipeline.cfg.gemini.api_key:
+        log.warning("Gemini is enabled but API key is missing. Results will use algorithmic fallback.")
+    
     if keep_thresh is not None:
         pipeline.cfg.thresholds.keep_threshold = keep_thresh
     if seed_thresh is not None:

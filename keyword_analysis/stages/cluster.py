@@ -13,6 +13,7 @@ from typing import Dict, List, Optional
 import numpy as np
 
 from keyword_analysis.config import Config
+from keyword_analysis.stages.filter import has_junk_letter
 from keyword_analysis.similarity.embeddings import EmbeddingSimilarity
 from keyword_analysis.stages.score import ScoredKeyword
 from keyword_analysis.utils.logger import get_logger
@@ -47,8 +48,14 @@ class ClusterStage:
 
         # If too few items, return single cluster
         if len(keywords) <= 3:
+            # Pick first safe keyword as primary
             primary = keywords[0]
             supporting = keywords[1:]
+            for i, kw in enumerate(keywords):
+                if not has_junk_letter(kw.text):
+                    primary = kw
+                    supporting = keywords[:i] + keywords[i+1:]
+                    break
             avg_opp = sum(k.opportunity_score for k in keywords) / len(keywords)
             return [
                 KeywordCluster(
@@ -88,8 +95,14 @@ class ClusterStage:
                 continue
             # Sort group by opportunity score descending
             group.sort(key=lambda x: x.opportunity_score, reverse=True)
+            # Pick first clean keyword as primary (skip junk artifacts)
             primary = group[0]
             supporting = group[1:]
+            for i, kw in enumerate(group):
+                if not has_junk_letter(kw.text):
+                    primary = kw
+                    supporting = group[:i] + group[i+1:]
+                    break
             avg_opp = sum(x.opportunity_score for x in group) / len(group)
 
             clusters.append(

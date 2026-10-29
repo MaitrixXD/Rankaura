@@ -24,7 +24,8 @@ document.addEventListener('DOMContentLoaded', () => {
   const resultsContainer = document.getElementById('results-container');
   const resultsTopicName = document.getElementById('results-topic-name');
   const changeTopicBtn = document.getElementById('change-topic-btn');
-  const recommendationsGrid = document.getElementById('recommendations-grid');
+  const highCompGrid = document.getElementById('high-comp-grid');
+  const mediumCompGrid = document.getElementById('medium-comp-grid');
 
   const tableFilterInput = document.getElementById('table-filter-input');
   const filterTabs = document.querySelectorAll('.tab-btn');
@@ -208,8 +209,9 @@ document.addEventListener('DOMContentLoaded', () => {
     if (navDownloadCsv) navDownloadCsv.classList.remove('disabled');
     if (resultsDownloadCsv) resultsDownloadCsv.classList.remove('disabled');
 
-    // 2. Render 5 Recommended Keywords
-    renderRecommendations(data.recommended_5 || []);
+    // 2. Render Categorized Keywords
+    renderRecommendations(data.high_competition_5 || [], highCompGrid);
+    renderRecommendations(data.medium_competition_5 || [], mediumCompGrid);
 
     // 3. Flatten all queries for Related Keywords table
     extractAndPrepareKeywords(data.clusters || []);
@@ -232,9 +234,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // ── Render Recommended 5 Keywords Grid ─────────────────────
 
-  function renderRecommendations(items) {
-    if (!recommendationsGrid) return;
-    recommendationsGrid.innerHTML = '';
+  function renderRecommendations(items, grid) {
+    if (!grid) return;
+    grid.innerHTML = '';
 
     if (!items || items.length === 0) {
       recommendationsGrid.innerHTML = `
@@ -285,7 +287,7 @@ document.addEventListener('DOMContentLoaded', () => {
         </div>
       `;
 
-      recommendationsGrid.appendChild(card);
+      grid.appendChild(card);
     });
   }
 

@@ -1,0 +1,5298 @@
+{
+  "seed_topic": "website designing services",
+  "total_clusters": 15,
+  "total_keywords": 295,
+  "recommended_5": [
+    {
+      "slot": 1,
+      "role": "Page Title & Main Heading",
+      "placement": "Page Title & Main Heading",
+      "keyword": "website designing services in mumbai",
+      "purpose": "Use in your page title and main heading to match core search intent.",
+      "activity": "Very High",
+      "difficulty": "Medium Competition",
+      "diff_class": "diff-moderate"
+    },
+    {
+      "slot": 2,
+      "role": "Main Content Section",
+      "placement": "Main Content Section",
+      "keyword": "website designing company mumbai",
+      "purpose": "Use in your main content to highlight value, solutions, and pricing.",
+      "activity": "Very High",
+      "difficulty": "Medium Competition",
+      "diff_class": "diff-moderate"
+    },
+    {
+      "slot": 3,
+      "role": "FAQ Content",
+      "placement": "FAQ Content",
+      "keyword": "website designing services mumbai",
+      "purpose": "Use in your FAQ section to answer common user questions.",
+      "activity": "Very High",
+      "difficulty": "Medium Competition",
+      "diff_class": "diff-moderate"
+    },
+    {
+      "slot": 4,
+      "role": "Comparison Section",
+      "placement": "Comparison Section",
+      "keyword": "designing website",
+      "purpose": "Use in a comparison section to highlight key differences.",
+      "activity": "Very High",
+      "difficulty": "High Competition",
+      "diff_class": "diff-hard"
+    },
+    {
+      "slot": 5,
+      "role": "Supporting Content",
+      "placement": "Supporting Content",
+      "keyword": "affordable website design services",
+      "purpose": "Use in supporting content to cover related topics and variations.",
+      "activity": "Very High",
+      "difficulty": "Medium Competition",
+      "diff_class": "diff-moderate"
+    }
+  ],
+  "high_competition_5": [
+    {
+      "slot": 1,
+      "role": "High Competition Target",
+      "placement": "High Comp",
+      "keyword": "website designing services in mumbai",
+      "purpose": "High search volume, high competition target.",
+      "activity": "Very High",
+      "difficulty": "High Competition",
+      "diff_class": "diff-hard"
+    },
+    {
+      "slot": 2,
+      "role": "High Competition Target",
+      "placement": "High Comp",
+      "keyword": "website designing company mumbai",
+      "purpose": "High search volume, high competition target.",
+      "activity": "Very High",
+      "difficulty": "High Competition",
+      "diff_class": "diff-hard"
+    },
+    {
+      "slot": 3,
+      "role": "High Competition Target",
+      "placement": "High Comp",
+      "keyword": "website designing services mumbai",
+      "purpose": "High search volume, high competition target.",
+      "activity": "Very High",
+      "difficulty": "High Competition",
+      "diff_class": "diff-hard"
+    },
+    {
+      "slot": 4,
+      "role": "High Competition Target",
+      "placement": "High Comp",
+      "keyword": "designing website",
+      "purpose": "High search volume, high competition target.",
+      "activity": "Very High",
+      "difficulty": "High Competition",
+      "diff_class": "diff-hard"
+    },
+    {
+      "slot": 5,
+      "role": "High Competition Target",
+      "placement": "High Comp",
+      "keyword": "affordable website design services",
+      "purpose": "High search volume, high competition target.",
+      "activity": "Very High",
+      "difficulty": "High Competition",
+      "diff_class": "diff-hard"
+    }
+  ],
+  "medium_competition_5": [
+    {
+      "slot": 1,
+      "role": "Medium Competition Target",
+      "placement": "Med Comp",
+      "keyword": "website design services cost",
+      "purpose": "Balanced opportunity with moderate difficulty.",
+      "activity": "Very High",
+      "difficulty": "Medium Competition",
+      "diff_class": "diff-moderate"
+    },
+    {
+      "slot": 2,
+      "role": "Medium Competition Target",
+      "placement": "Med Comp",
+      "keyword": "website design services price",
+      "purpose": "Balanced opportunity with moderate difficulty.",
+      "activity": "Very High",
+      "difficulty": "Medium Competition",
+      "diff_class": "diff-moderate"
+    },
+    {
+      "slot": 3,
+      "role": "Medium Competition Target",
+      "placement": "Med Comp",
+      "keyword": "what is website design services",
+      "purpose": "Balanced opportunity with moderate difficulty.",
+      "activity": "Very High",
+      "difficulty": "Medium Competition",
+      "diff_class": "diff-moderate"
+    },
+    {
+      "slot": 4,
+      "role": "Medium Competition Target",
+      "placement": "Med Comp",
+      "keyword": "cheap website design services",
+      "purpose": "Balanced opportunity with moderate difficulty.",
+      "activity": "Very High",
+      "difficulty": "Medium Competition",
+      "diff_class": "diff-moderate"
+    },
+    {
+      "slot": 5,
+      "role": "Medium Competition Target",
+      "placement": "Med Comp",
+      "keyword": "affordable website designing",
+      "purpose": "Balanced opportunity with moderate difficulty.",
+      "activity": "Very High",
+      "difficulty": "Medium Competition",
+      "diff_class": "diff-moderate"
+    }
+  ],
+  "clusters": [
+    {
+      "cluster_id": 15,
+      "cluster_topic": "website designing services in delhi",
+      "intent": "general",
+      "average_opportunity": 0.735,
+      "primary_keyword": {
+        "keyword": "website designing services in delhi",
+        "opportunity_score": 0.775,
+        "score_band": "High",
+        "confidence": "Low",
+        "components": {
+          "demand": 1.0,
+          "competition": 0.5,
+          "specificity": 0.74,
+          "intent": 0.75,
+          "distance_penalty": 0.1,
+          "relevance_gate": 1.0
+        },
+        "unique_sources": 1,
+        "best_rank": 1,
+        "word_count": 5
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "website designing services in chandigarh",
+          "opportunity_score": 0.765,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing services in mohali",
+          "opportunity_score": 0.754,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 5
+        },
+        {
+          "keyword": "best website designing services in indore",
+          "opportunity_score": 0.743,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing services in bahraich",
+          "opportunity_score": 0.732,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing services in lucknow",
+          "opportunity_score": 0.721,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing services in bareilly",
+          "opportunity_score": 0.721,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing services in panchkula",
+          "opportunity_score": 0.721,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing services in india",
+          "opportunity_score": 0.711,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing services in laxmi nagar",
+          "opportunity_score": 0.711,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 6
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "cluster_topic": "website designing services mumbai",
+      "intent": "general",
+      "average_opportunity": 0.684,
+      "primary_keyword": {
+        "keyword": "website designing services mumbai",
+        "opportunity_score": 0.775,
+        "score_band": "High",
+        "confidence": "Low",
+        "components": {
+          "demand": 1.0,
+          "competition": 0.5,
+          "specificity": 0.74,
+          "intent": 0.75,
+          "distance_penalty": 0.1,
+          "relevance_gate": 1.0
+        },
+        "unique_sources": 1,
+        "best_rank": 1,
+        "word_count": 4
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "website designing services in mumbai",
+          "opportunity_score": 0.732,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company mumbai",
+          "opportunity_score": 0.546,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.735
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 4
+        }
+      ]
+    },
+    {
+      "cluster_id": 10,
+      "cluster_topic": "website designing services delhi",
+      "intent": "general",
+      "average_opportunity": 0.655,
+      "primary_keyword": {
+        "keyword": "website designing services delhi",
+        "opportunity_score": 0.775,
+        "score_band": "High",
+        "confidence": "Low",
+        "components": {
+          "demand": 1.0,
+          "competition": 0.5,
+          "specificity": 0.74,
+          "intent": 0.75,
+          "distance_penalty": 0.1,
+          "relevance_gate": 1.0
+        },
+        "unique_sources": 1,
+        "best_rank": 1,
+        "word_count": 4
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "best website designing services in noida",
+          "opportunity_score": 0.775,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing services in noida",
+          "opportunity_score": 0.743,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 5
+        },
+        {
+          "keyword": "ecommerce website designing services in noida",
+          "opportunity_score": 0.732,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing services noida",
+          "opportunity_score": 0.714,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "best website designing services",
+          "opportunity_score": 0.703,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 4
+        },
+        {
+          "keyword": "online website designing services",
+          "opportunity_score": 0.682,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 4
+        },
+        {
+          "keyword": "designing services",
+          "opportunity_score": 0.651,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 1.0
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing services tds rate",
+          "opportunity_score": 0.599,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.823
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 4
+        },
+        {
+          "keyword": "designing services gst rate",
+          "opportunity_score": 0.581,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.823
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 4
+        },
+        {
+          "keyword": "designing services gst",
+          "opportunity_score": 0.558,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.864
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 3
+        },
+        {
+          "keyword": "designing services that deliver",
+          "opportunity_score": 0.534,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.776
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 4
+        },
+        {
+          "keyword": "designing services with innovative methods",
+          "opportunity_score": 0.462,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.693
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 5
+        }
+      ]
+    },
+    {
+      "cluster_id": 12,
+      "cluster_topic": "website designing services hsn code",
+      "intent": "general",
+      "average_opportunity": 0.645,
+      "primary_keyword": {
+        "keyword": "website designing services hsn code",
+        "opportunity_score": 0.725,
+        "score_band": "High",
+        "confidence": "Low",
+        "components": {
+          "demand": 1.0,
+          "competition": 0.5,
+          "specificity": 0.6,
+          "intent": 0.6,
+          "distance_penalty": 0.1,
+          "relevance_gate": 1.0
+        },
+        "unique_sources": 1,
+        "best_rank": 1,
+        "word_count": 5
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "designing services hsn code",
+          "opportunity_score": 0.566,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.797
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "cluster_topic": "website design services cost",
+      "intent": "general",
+      "average_opportunity": 0.594,
+      "primary_keyword": {
+        "keyword": "website design services cost",
+        "opportunity_score": 0.671,
+        "score_band": "High",
+        "confidence": "Low",
+        "components": {
+          "demand": 1.0,
+          "competition": 0.5,
+          "specificity": 0.74,
+          "intent": 0.75,
+          "distance_penalty": 0.1,
+          "relevance_gate": 0.865
+        },
+        "unique_sources": 1,
+        "best_rank": 1,
+        "word_count": 4
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "cheap website design services",
+          "opportunity_score": 0.664,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.856
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services pune",
+          "opportunity_score": 0.662,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.865
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services price",
+          "opportunity_score": 0.66,
+          "score_band": "High",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.863
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services bangalore",
+          "opportunity_score": 0.638,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.823
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design our services",
+          "opportunity_score": 0.634,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.875
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services usa",
+          "opportunity_score": 0.634,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.875
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services uk",
+          "opportunity_score": 0.632,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.885
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services price list",
+          "opportunity_score": 0.631,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.813
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services hyderabad",
+          "opportunity_score": 0.629,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.823
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design for services",
+          "opportunity_score": 0.625,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.875
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services list",
+          "opportunity_score": 0.618,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.865
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services london",
+          "opportunity_score": 0.614,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.847
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services poster",
+          "opportunity_score": 0.614,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.847
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services singapore",
+          "opportunity_score": 0.614,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.846
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services dubai",
+          "opportunity_score": 0.611,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.856
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services page",
+          "opportunity_score": 0.609,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.865
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 4
+        },
+        {
+          "keyword": "gst on website design services",
+          "opportunity_score": 0.606,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.836
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services banner",
+          "opportunity_score": 0.605,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.847
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services section",
+          "opportunity_score": 0.604,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.846
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services charlotte",
+          "opportunity_score": 0.603,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.831
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services edmonton",
+          "opportunity_score": 0.602,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.83
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services website",
+          "opportunity_score": 0.601,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.91
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services post",
+          "opportunity_score": 0.599,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.865
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services gurgaon",
+          "opportunity_score": 0.599,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.838
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services toronto",
+          "opportunity_score": 0.599,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.838
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services wordpress",
+          "opportunity_score": 0.597,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.823
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services new york",
+          "opportunity_score": 0.594,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.819
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 5
+        },
+        {
+          "keyword": "types of website design services",
+          "opportunity_score": 0.591,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.828
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services template",
+          "opportunity_score": 0.59,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.839
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services melbourne",
+          "opportunity_score": 0.588,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.823
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services tirunelveli",
+          "opportunity_score": 0.586,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.809
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services malaysia",
+          "opportunity_score": 0.584,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.83
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design list of services",
+          "opportunity_score": 0.573,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.827
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services wolverhampton",
+          "opportunity_score": 0.568,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.795
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services for small business",
+          "opportunity_score": 0.563,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.748
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 6
+        },
+        {
+          "keyword": "design website calling web services",
+          "opportunity_score": 0.531,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.7,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.837
+          },
+          "unique_sources": 1,
+          "best_rank": null,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design professional services",
+          "opportunity_score": 0.529,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.802
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 4
+        },
+        {
+          "keyword": "website design services for aesthetic clinics",
+          "opportunity_score": 0.523,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.733
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 6
+        },
+        {
+          "keyword": "design website",
+          "opportunity_score": 0.394,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.7,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.671
+          },
+          "unique_sources": 1,
+          "best_rank": null,
+          "word_count": 2
+        },
+        {
+          "keyword": "design website calling",
+          "opportunity_score": 0.36,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.7,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.568
+          },
+          "unique_sources": 1,
+          "best_rank": null,
+          "word_count": 3
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "cluster_topic": "designing website",
+      "intent": "general",
+      "average_opportunity": 0.579,
+      "primary_keyword": {
+        "keyword": "designing website",
+        "opportunity_score": 0.651,
+        "score_band": "High",
+        "confidence": "Low",
+        "components": {
+          "demand": 0.964,
+          "competition": 0.5,
+          "specificity": 0.36,
+          "intent": 0.6,
+          "distance_penalty": 0.25,
+          "relevance_gate": 1.0
+        },
+        "unique_sources": 1,
+        "best_rank": 2,
+        "word_count": 2
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "affordable website design services",
+          "opportunity_score": 0.633,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.816
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "affordable website designing",
+          "opportunity_score": 0.585,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.78
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 3
+        },
+        {
+          "keyword": "affordable website design services in bhubaneswar",
+          "opportunity_score": 0.567,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.88,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.715
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 6
+        },
+        {
+          "keyword": "affordable wordpress website design services",
+          "opportunity_score": 0.555,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.736
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing without coding",
+          "opportunity_score": 0.485,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.757
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 4
+        }
+      ]
+    },
+    {
+      "cluster_id": 6,
+      "cluster_topic": "website design services in jaipur",
+      "intent": "general",
+      "average_opportunity": 0.573,
+      "primary_keyword": {
+        "keyword": "website design services in jaipur",
+        "opportunity_score": 0.629,
+        "score_band": "Medium",
+        "confidence": "Low",
+        "components": {
+          "demand": 1.0,
+          "competition": 0.5,
+          "specificity": 0.74,
+          "intent": 0.75,
+          "distance_penalty": 0.1,
+          "relevance_gate": 0.812
+        },
+        "unique_sources": 1,
+        "best_rank": 1,
+        "word_count": 5
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "website design services in rohtak",
+          "opportunity_score": 0.612,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.812
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 5
+        },
+        {
+          "keyword": "top website design services in dubai",
+          "opportunity_score": 0.607,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.783
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 6
+        },
+        {
+          "keyword": "website design services in watford",
+          "opportunity_score": 0.606,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.804
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in thane",
+          "opportunity_score": 0.6,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.819
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in kolkata",
+          "opportunity_score": 0.598,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.804
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in kalyan",
+          "opportunity_score": 0.594,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.812
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in johannesburg",
+          "opportunity_score": 0.59,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.772
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in kenya",
+          "opportunity_score": 0.582,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.819
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in bhopal",
+          "opportunity_score": 0.577,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.812
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in surat",
+          "opportunity_score": 0.572,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.804
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in kukatpally",
+          "opportunity_score": 0.566,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.784
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in lagos",
+          "opportunity_score": 0.565,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.819
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in miami",
+          "opportunity_score": 0.565,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.819
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in patna",
+          "opportunity_score": 0.565,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.819
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in ludhiana",
+          "opportunity_score": 0.558,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.797
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in dubai",
+          "opportunity_score": 0.556,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.819
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in lahore",
+          "opportunity_score": 0.551,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.812
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in brisbane",
+          "opportunity_score": 0.549,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.797
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in hyderabad",
+          "opportunity_score": 0.545,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.791
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in bhubaneswar",
+          "opportunity_score": 0.545,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.778
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in pakistan",
+          "opportunity_score": 0.541,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.797
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in california",
+          "opportunity_score": 0.54,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.784
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services in coimbatore",
+          "opportunity_score": 0.532,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.784
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 5
+        }
+      ]
+    },
+    {
+      "cluster_id": 14,
+      "cluster_topic": "website designing services near me",
+      "intent": "general",
+      "average_opportunity": 0.552,
+      "primary_keyword": {
+        "keyword": "website designing services near me",
+        "opportunity_score": 0.775,
+        "score_band": "High",
+        "confidence": "Low",
+        "components": {
+          "demand": 1.0,
+          "competition": 0.5,
+          "specificity": 0.74,
+          "intent": 0.75,
+          "distance_penalty": 0.1,
+          "relevance_gate": 1.0
+        },
+        "unique_sources": 1,
+        "best_rank": 1,
+        "word_count": 5
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "website design services near me",
+          "opportunity_score": 0.633,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.827
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company near me",
+          "opportunity_score": 0.549,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.718
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 5
+        },
+        {
+          "keyword": "wordpress website design services near me",
+          "opportunity_score": 0.543,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.753
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing near me",
+          "opportunity_score": 0.523,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.788
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 4
+        },
+        {
+          "keyword": "website creation services near me",
+          "opportunity_score": 0.506,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.671
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 5
+        },
+        {
+          "keyword": "best website designing company near me",
+          "opportunity_score": 0.485,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.682
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 6
+        },
+        {
+          "keyword": "top website designing company near me",
+          "opportunity_score": 0.481,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.688
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 6
+        },
+        {
+          "keyword": "website design and development services near me",
+          "opportunity_score": 0.472,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.59,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.728
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 7
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "cluster_topic": "website design services godaddy",
+      "intent": "general",
+      "average_opportunity": 0.55,
+      "primary_keyword": {
+        "keyword": "website design services godaddy",
+        "opportunity_score": 0.608,
+        "score_band": "Medium",
+        "confidence": "Low",
+        "components": {
+          "demand": 1.0,
+          "competition": 0.5,
+          "specificity": 0.6,
+          "intent": 0.6,
+          "distance_penalty": 0.1,
+          "relevance_gate": 0.838
+        },
+        "unique_sources": 1,
+        "best_rank": 1,
+        "word_count": 4
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "godaddy website design services cost",
+          "opportunity_score": 0.605,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.791
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 5
+        },
+        {
+          "keyword": "what is website design services",
+          "opportunity_score": 0.6,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.827
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 5
+        },
+        {
+          "keyword": "godaddy website design services reviews",
+          "opportunity_score": 0.56,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.772
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 5
+        },
+        {
+          "keyword": "website design services godaddy help",
+          "opportunity_score": 0.556,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.791
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 5
+        },
+        {
+          "keyword": "what is website design services godaddy",
+          "opportunity_score": 0.546,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.764
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 6
+        },
+        {
+          "keyword": "what designing",
+          "opportunity_score": 0.373,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 2
+        }
+      ]
+    },
+    {
+      "cluster_id": 9,
+      "cluster_topic": "best website designing services in delhi",
+      "intent": "general",
+      "average_opportunity": 0.532,
+      "primary_keyword": {
+        "keyword": "best website designing services in delhi",
+        "opportunity_score": 0.765,
+        "score_band": "High",
+        "confidence": "Low",
+        "components": {
+          "demand": 0.964,
+          "competition": 0.5,
+          "specificity": 0.74,
+          "intent": 0.75,
+          "distance_penalty": 0.1,
+          "relevance_gate": 1.0
+        },
+        "unique_sources": 1,
+        "best_rank": 2,
+        "word_count": 6
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "website designing company delhi",
+          "opportunity_score": 0.567,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.752
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 4
+        },
+        {
+          "keyword": "cheap website designing company in delhi",
+          "opportunity_score": 0.543,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.88,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.685
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company in west delhi",
+          "opportunity_score": 0.521,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.701
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company in east delhi",
+          "opportunity_score": 0.52,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.69
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company south delhi",
+          "opportunity_score": 0.518,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.707
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in delhi",
+          "opportunity_score": 0.514,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.723
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 5
+        },
+        {
+          "keyword": "top website designing company in delhi",
+          "opportunity_score": 0.501,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.694
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company in delhi ncr",
+          "opportunity_score": 0.494,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.694
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company in rohini delhi",
+          "opportunity_score": 0.484,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.681
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 6
+        },
+        {
+          "keyword": "best website designing company delhi",
+          "opportunity_score": 0.483,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.712
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in delhi with price",
+          "opportunity_score": 0.473,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.73,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.678
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 7
+        }
+      ]
+    },
+    {
+      "cluster_id": 8,
+      "cluster_topic": "website designing company chennai",
+      "intent": "general",
+      "average_opportunity": 0.506,
+      "primary_keyword": {
+        "keyword": "website designing company chennai",
+        "opportunity_score": 0.542,
+        "score_band": "Medium",
+        "confidence": "Low",
+        "components": {
+          "demand": 0.892,
+          "competition": 0.5,
+          "specificity": 0.74,
+          "intent": 0.75,
+          "distance_penalty": 0.1,
+          "relevance_gate": 0.729
+        },
+        "unique_sources": 1,
+        "best_rank": 4,
+        "word_count": 4
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "website designing company bangalore",
+          "opportunity_score": 0.541,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.717
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company kochi",
+          "opportunity_score": 0.538,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.742
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company rohini",
+          "opportunity_score": 0.533,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.735
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company hyderabad",
+          "opportunity_score": 0.533,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.717
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company kerala",
+          "opportunity_score": 0.525,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.735
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company zirakpur",
+          "opportunity_score": 0.524,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.723
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company ahmedabad",
+          "opportunity_score": 0.52,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.717
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company vasundhara",
+          "opportunity_score": 0.516,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.712
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company",
+          "opportunity_score": 0.514,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.805
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 3
+        },
+        {
+          "keyword": "website designing company dubai",
+          "opportunity_score": 0.514,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.742
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company kolkata",
+          "opportunity_score": 0.513,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.729
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company lucknow",
+          "opportunity_score": 0.513,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.729
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company ernakulam",
+          "opportunity_score": 0.512,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.717
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company bhopal",
+          "opportunity_score": 0.509,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.735
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company cochin",
+          "opportunity_score": 0.509,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.723
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company haldwani",
+          "opportunity_score": 0.509,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.723
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company noida",
+          "opportunity_score": 0.506,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.742
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company dwarka",
+          "opportunity_score": 0.501,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.735
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company mohali",
+          "opportunity_score": 0.501,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.735
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company ludhiana",
+          "opportunity_score": 0.501,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.723
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company saharanpur",
+          "opportunity_score": 0.501,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.712
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company coimbatore",
+          "opportunity_score": 0.501,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.702
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company gurgaon",
+          "opportunity_score": 0.497,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.729
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company faridabad",
+          "opportunity_score": 0.497,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.717
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company ghaziabad",
+          "opportunity_score": 0.497,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.717
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company sahibabad",
+          "opportunity_score": 0.497,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.717
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company nagpur",
+          "opportunity_score": 0.493,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.735
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company dehradun",
+          "opportunity_score": 0.493,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.734
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company for hotels",
+          "opportunity_score": 0.493,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.701
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company chandigarh",
+          "opportunity_score": 0.485,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.712
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company moradabad",
+          "opportunity_score": 0.481,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.717
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 4
+        },
+        {
+          "keyword": "website designing company laxmi nagar",
+          "opportunity_score": 0.474,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.696
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company rajnandgaon chhattisgarh reviews",
+          "opportunity_score": 0.437,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.612
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 6
+        }
+      ]
+    },
+    {
+      "cluster_id": 7,
+      "cluster_topic": "best website design services in california",
+      "intent": "general",
+      "average_opportunity": 0.495,
+      "primary_keyword": {
+        "keyword": "best website design services in california",
+        "opportunity_score": 0.547,
+        "score_band": "Medium",
+        "confidence": "Low",
+        "components": {
+          "demand": 0.856,
+          "competition": 0.5,
+          "specificity": 0.74,
+          "intent": 0.75,
+          "distance_penalty": 0.1,
+          "relevance_gate": 0.748
+        },
+        "unique_sources": 1,
+        "best_rank": 5,
+        "word_count": 6
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "best website design services in thanjavur",
+          "opportunity_score": 0.543,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.753
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 6
+        },
+        {
+          "keyword": "website design development services in usa",
+          "opportunity_score": 0.514,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.758
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 6
+        },
+        {
+          "keyword": "website design development services in junagadh",
+          "opportunity_score": 0.514,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.734
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 6
+        },
+        {
+          "keyword": "website design and development services",
+          "opportunity_score": 0.508,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.782
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 5
+        },
+        {
+          "keyword": "best website development services",
+          "opportunity_score": 0.473,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.729
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 4
+        },
+        {
+          "keyword": "best website development services in hyderabad",
+          "opportunity_score": 0.461,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.649
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 6
+        },
+        {
+          "keyword": "best website development services in india",
+          "opportunity_score": 0.452,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.656
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 6
+        },
+        {
+          "keyword": "best website development services in lucknow",
+          "opportunity_score": 0.445,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.656
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 6
+        }
+      ]
+    },
+    {
+      "cluster_id": 1,
+      "cluster_topic": "website designing company in qatar",
+      "intent": "general",
+      "average_opportunity": 0.489,
+      "primary_keyword": {
+        "keyword": "website designing company in qatar",
+        "opportunity_score": 0.552,
+        "score_band": "Medium",
+        "confidence": "Low",
+        "components": {
+          "demand": 1.0,
+          "competition": 0.5,
+          "specificity": 0.74,
+          "intent": 0.75,
+          "distance_penalty": 0.1,
+          "relevance_gate": 0.712
+        },
+        "unique_sources": 1,
+        "best_rank": 1,
+        "word_count": 5
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "website designing company in usa",
+          "opportunity_score": 0.538,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.724
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in okhla",
+          "opportunity_score": 0.537,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.712
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in uk",
+          "opportunity_score": 0.535,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.73
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in jaipur",
+          "opportunity_score": 0.532,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.706
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in vadodara",
+          "opportunity_score": 0.532,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.696
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in erode",
+          "opportunity_score": 0.529,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.712
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in varanasi",
+          "opportunity_score": 0.524,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.696
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in uae",
+          "opportunity_score": 0.522,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.724
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in agra",
+          "opportunity_score": 0.518,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.718
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in vaishali",
+          "opportunity_score": 0.517,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.696
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in janakpuri",
+          "opportunity_score": 0.513,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.691
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in ranchi",
+          "opportunity_score": 0.509,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.706
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in una",
+          "opportunity_score": 0.507,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.724
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in uttam nagar",
+          "opportunity_score": 0.507,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.673
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company in jodhpur",
+          "opportunity_score": 0.506,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.701
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in jalandhar",
+          "opportunity_score": 0.506,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.691
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in wazirpur",
+          "opportunity_score": 0.502,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.696
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in vijayawada",
+          "opportunity_score": 0.502,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.686
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in noida",
+          "opportunity_score": 0.498,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.712
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in thane",
+          "opportunity_score": 0.498,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.712
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in vasai",
+          "opportunity_score": 0.498,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.712
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in gujarat",
+          "opportunity_score": 0.498,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.701
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in tirupur",
+          "opportunity_score": 0.498,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.701
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in udaipur",
+          "opportunity_score": 0.498,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.701
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in vellore",
+          "opportunity_score": 0.498,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.701
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in vikaspuri",
+          "opportunity_score": 0.498,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.691
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in kanpur",
+          "opportunity_score": 0.494,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.706
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in raipur",
+          "opportunity_score": 0.494,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.706
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in amritsar",
+          "opportunity_score": 0.494,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.696
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in goa",
+          "opportunity_score": 0.491,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.724
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in hisar",
+          "opportunity_score": 0.491,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.712
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in haryana",
+          "opportunity_score": 0.49,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.701
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in rohtak",
+          "opportunity_score": 0.487,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.706
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in shahdara",
+          "opportunity_score": 0.487,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.696
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in rajouri garden",
+          "opportunity_score": 0.484,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.66
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company in siwan",
+          "opportunity_score": 0.483,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.712
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in vashi",
+          "opportunity_score": 0.483,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.712
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in sonipat",
+          "opportunity_score": 0.483,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.701
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in ukraine",
+          "opportunity_score": 0.483,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.701
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in gorakhpur",
+          "opportunity_score": 0.483,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.691
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in najafgarh",
+          "opportunity_score": 0.483,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.691
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in howrah",
+          "opportunity_score": 0.479,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.706
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in trichy",
+          "opportunity_score": 0.479,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.706
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in guwahati",
+          "opportunity_score": 0.479,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.696
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in greater noida",
+          "opportunity_score": 0.479,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.664
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company in gurgaon",
+          "opportunity_score": 0.475,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.701
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 5
+        },
+        {
+          "keyword": "top website designing company in lucknow",
+          "opportunity_score": 0.471,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.673
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 6
+        },
+        {
+          "keyword": "e-commerce website designing company in faridabad",
+          "opportunity_score": 0.469,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.632
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company in dwarka mor",
+          "opportunity_score": 0.467,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.678
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company in kankarbagh",
+          "opportunity_score": 0.465,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.686
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 5
+        },
+        {
+          "keyword": "top website designing company in india",
+          "opportunity_score": 0.464,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.673
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company in new zealand",
+          "opportunity_score": 0.464,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.673
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company in tilak nagar",
+          "opportunity_score": 0.464,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.673
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company in rani bagh",
+          "opportunity_score": 0.463,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.682
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company in visakhapatnam",
+          "opportunity_score": 0.463,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.672
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 5
+        },
+        {
+          "keyword": "website designing company in bhubaneswar",
+          "opportunity_score": 0.462,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.681
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 5
+        },
+        {
+          "keyword": "top website designing company in gurgaon",
+          "opportunity_score": 0.457,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.673
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company in kankarbagh patna",
+          "opportunity_score": 0.45,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.74,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.652
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 6
+        },
+        {
+          "keyword": "website designing company for hotels in jaipur",
+          "opportunity_score": 0.437,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.59,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.643
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 7
+        },
+        {
+          "keyword": "website designing company in hanuman nagar patna",
+          "opportunity_score": 0.433,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.59,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.635
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 7
+        },
+        {
+          "keyword": "website designing company for jewellery shop in dubai",
+          "opportunity_score": 0.419,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.59,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.615
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 8
+        },
+        {
+          "keyword": "website designing company for pet hospital in dubai",
+          "opportunity_score": 0.409,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.59,
+            "intent": 0.75,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.621
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 8
+        }
+      ]
+    },
+    {
+      "cluster_id": 13,
+      "cluster_topic": "website designing and development",
+      "intent": "general",
+      "average_opportunity": 0.432,
+      "primary_keyword": {
+        "keyword": "website designing and development",
+        "opportunity_score": 0.521,
+        "score_band": "Medium",
+        "confidence": "Low",
+        "components": {
+          "demand": 0.928,
+          "competition": 0.5,
+          "specificity": 0.6,
+          "intent": 0.6,
+          "distance_penalty": 0.1,
+          "relevance_gate": 0.74
+        },
+        "unique_sources": 1,
+        "best_rank": 3,
+        "word_count": 4
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "designing and building ai products and services",
+          "opportunity_score": 0.41,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.45,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.644
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 7
+        },
+        {
+          "keyword": "website designing company for movers and packers",
+          "opportunity_score": 0.406,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.45,
+            "intent": 0.6,
+            "distance_penalty": 0.1,
+            "relevance_gate": 0.622
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 7
+        },
+        {
+          "keyword": "designing ai",
+          "opportunity_score": 0.39,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.589
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 2
+        }
+      ]
+    },
+    {
+      "cluster_id": 11,
+      "cluster_topic": "website services examples",
+      "intent": "general",
+      "average_opportunity": 0.36,
+      "primary_keyword": {
+        "keyword": "website services examples",
+        "opportunity_score": 0.544,
+        "score_band": "Medium",
+        "confidence": "Low",
+        "components": {
+          "demand": 0.964,
+          "competition": 0.5,
+          "specificity": 0.6,
+          "intent": 0.6,
+          "distance_penalty": 0.1,
+          "relevance_gate": 0.762
+        },
+        "unique_sources": 1,
+        "best_rank": 2,
+        "word_count": 3
+      },
+      "supporting_keywords": [
+        {
+          "keyword": "designing cost",
+          "opportunity_score": 0.401,
+          "score_band": "Medium",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.5,
+            "intent": 0.75,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing websites free",
+          "opportunity_score": 0.39,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.6,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.615
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 3
+        },
+        {
+          "keyword": "designing spelling",
+          "opportunity_score": 0.387,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.584
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing gate",
+          "opportunity_score": 0.384,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.599
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing quotes",
+          "opportunity_score": 0.381,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.576
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 2
+        },
+        {
+          "keyword": "can designing",
+          "opportunity_score": 0.381,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.576
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing shirt",
+          "opportunity_score": 0.376,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.587
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing app",
+          "opportunity_score": 0.375,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.576
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing fan",
+          "opportunity_score": 0.375,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.576
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing courses",
+          "opportunity_score": 0.375,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.566
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing name",
+          "opportunity_score": 0.373,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 2
+        },
+        {
+          "keyword": "chip designing",
+          "opportunity_score": 0.373,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing font",
+          "opportunity_score": 0.373,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing jobs",
+          "opportunity_score": 0.373,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 1.0,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 1,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing typing",
+          "opportunity_score": 0.372,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.571
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing suit",
+          "opportunity_score": 0.371,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.599
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing design",
+          "opportunity_score": 0.37,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.609
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing saree",
+          "opportunity_score": 0.37,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.587
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing images",
+          "opportunity_score": 0.369,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.576
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing bed",
+          "opportunity_score": 0.369,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.576
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing exam",
+          "opportunity_score": 0.367,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing game",
+          "opportunity_score": 0.367,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing naam",
+          "opportunity_score": 0.367,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing room",
+          "opportunity_score": 0.367,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.964,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 2,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing tiles",
+          "opportunity_score": 0.363,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.587
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing meaning",
+          "opportunity_score": 0.363,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.576
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing pen",
+          "opportunity_score": 0.362,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.576
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 2
+        },
+        {
+          "keyword": "when designing",
+          "opportunity_score": 0.361,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing home",
+          "opportunity_score": 0.361,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing logo",
+          "opportunity_score": 0.361,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing page",
+          "opportunity_score": 0.361,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.928,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 3,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing office",
+          "opportunity_score": 0.357,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.576
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing tape",
+          "opportunity_score": 0.355,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing work",
+          "opportunity_score": 0.355,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing drawing",
+          "opportunity_score": 0.354,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.892,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 4,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing ui",
+          "opportunity_score": 0.352,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.589
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing sheet",
+          "opportunity_score": 0.351,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.587
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing wall",
+          "opportunity_score": 0.349,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.856,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 5,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing ring",
+          "opportunity_score": 0.345,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.589
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing vibes",
+          "opportunity_score": 0.344,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.587
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing art",
+          "opportunity_score": 0.344,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.576
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing form",
+          "opportunity_score": 0.343,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing book",
+          "opportunity_score": 0.343,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing line",
+          "opportunity_score": 0.343,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.82,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 6,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing ghar",
+          "opportunity_score": 0.336,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing railing",
+          "opportunity_score": 0.336,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing writing",
+          "opportunity_score": 0.336,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.784,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 7,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing rules",
+          "opportunity_score": 0.332,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.587
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing studio",
+          "opportunity_score": 0.332,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.576
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing gala",
+          "opportunity_score": 0.33,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing info",
+          "opportunity_score": 0.33,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing team",
+          "opportunity_score": 0.33,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.748,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 8,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing glasses",
+          "opportunity_score": 0.326,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.566
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing top",
+          "opportunity_score": 0.325,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.676,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.576
+          },
+          "unique_sources": 1,
+          "best_rank": 10,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing juta",
+          "opportunity_score": 0.324,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing lace",
+          "opportunity_score": 0.324,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 2
+        },
+        {
+          "keyword": "designing text",
+          "opportunity_score": 0.324,
+          "score_band": "Low",
+          "confidence": "Low",
+          "components": {
+            "demand": 0.712,
+            "competition": 0.5,
+            "specificity": 0.36,
+            "intent": 0.6,
+            "distance_penalty": 0.25,
+            "relevance_gate": 0.563
+          },
+          "unique_sources": 1,
+          "best_rank": 9,
+          "word_count": 2
+        }
+      ]
+    }
+  ]
+}
