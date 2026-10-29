@@ -1,0 +1,10 @@
+# Optional dependencies (install only what you need)
+
+# Embedding-based similarity (downloads ~80MB model, ~500MB peak RAM)
+sentence-transformers>=2.2.0
+
+# HDBSCAN clustering (alternative to KMeans for large keyword sets)
+hdbscan>=0.8.33
+
+# Ollama LLM client (requires Ollama running locally)
+ollama>=0.1.0

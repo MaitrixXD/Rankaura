@@ -1,0 +1,123 @@
+# ============================================================
+# Keyword Analysis Engine — Default Configuration
+# All values are starting points, meant to be tuned against
+# the validation set (benchmark/labels.json).
+# ============================================================
+
+locale:
+  hl: "en"          # Language hint for autocomplete
+  gl: "in"          # Country (India)
+
+# --- Drift / relevance thresholds ---
+thresholds:
+  keep_threshold: 0.45     # Min similarity to seed to stay in pool
+  seed_threshold: 0.60     # Min similarity to become an expansion seed
+
+# --- Expansion settings ---
+expansion:
+  max_related_per_source: 20    # Cap per adapter in Layer 1
+  top_n_full_sweep: 5           # How many related terms get full a-z sweep
+  max_distance: 2               # Hard cap on derivation depth
+  frontier_cap: 20              # Max terms fed into Layer 2
+
+# --- Request budget ---
+budget:
+  global_max_requests: 500      # Hard cap across all adapters
+  delay_seconds: 0.05           # Fast non-blocking delay between HTTP calls
+  max_retries: 2                # Retry limit per request
+  retry_backoff: 1.2            # Exponential backoff multiplier
+  cache_ttl_hours: 72           # Disk cache time-to-live
+
+# --- Data source providers (on/off) ---
+providers:
+  google_autocomplete: true
+  bing_autocomplete: false      # Optional, off by default
+  youtube_autocomplete: false   # Optional, off by default
+  amazon_autocomplete: false    # OFF — product-oriented, not for services
+  datamuse: true
+  wordnet: true
+  wikipedia: true
+  stackexchange: true           # Preferred customer-language source
+  reddit: false                 # Optional, verify API access first
+  ollama: false                 # Local LLM brainstorm, requires Ollama running
+
+# --- SERP competition check (optional) ---
+serp:
+  enabled: false
+  api_key: ""                   # Google Programmable Search JSON API key
+  cx: ""                        # Custom Search Engine ID
+  daily_quota: 100              # Free tier limit
+  safety_margin: 10             # Stop this many before quota
+  max_keywords: 50              # Only check top N scored keywords
+
+# --- Ollama settings ---
+ollama:
+  model: "llama3"
+  base_url: "http://localhost:11434"
+  timeout: 30
+  max_suggestions: 20
+
+# --- Scoring weights (must sum to 1.0) ---
+scoring:
+  weights:
+    demand: 0.30
+    competition: 0.25
+    specificity: 0.20
+    intent: 0.15
+    distance: 0.10
+  competition_fallback: 0.5     # Used when SERP data is unavailable
+  score_bands:
+    high: 0.65
+    medium: 0.40
+    # Below medium = Low
+
+# --- Clustering ---
+clustering:
+  method: "kmeans"              # "kmeans" or "hdbscan" (requires optional dep)
+  max_clusters: 15
+  min_cluster_size: 3           # For HDBSCAN
+
+# --- Similarity engine ---
+similarity:
+  method: "tfidf"               # "tfidf" (lightweight) or "embeddings" (opt-in)
+  embedding_model: "all-MiniLM-L6-v2"
+
+# --- Modifier lists for autocomplete sweeps ---
+modifiers:
+  question_words:
+    - "how"
+    - "why"
+    - "what"
+    - "which"
+    - "can"
+    - "does"
+    - "is"
+    - "where"
+    - "when"
+    - "who"
+  intent_words:
+    - "best"
+    - "top"
+    - "cost"
+    - "price"
+    - "near me"
+    - "for"
+    - "vs"
+    - "versus"
+    - "without"
+    - "with"
+    - "services"
+    - "cheap"
+    - "affordable"
+    - "hire"
+    - "find"
+    - "review"
+    - "alternative"
+  letters: "abcdefghijklmnopqrstuvwxyz"
+
+# --- Filter rules ---
+filter:
+  min_word_count: 2             # Drop 1-word candidates (head terms)
+  max_word_count: 10            # Drop absurdly long phrases
+  near_duplicate_threshold: 0.85  # Jaccard token overlap
+  brand_blocklist: []           # Add irrelevant brand names here

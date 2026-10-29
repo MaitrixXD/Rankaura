@@ -1,0 +1,1406 @@
+Cluster ID,Cluster Topic,Role,Keyword,Opportunity Score,Score Band,Confidence,Intent,Demand Proxy,Competition Estimate,Specificity Score,Intent Score,Distance Penalty,Unique Sources Count,Best Autocomplete Rank,Word Count
+18,interior designer hire cost,PRIMARY,interior designer hire cost,0.712,High,Low,transactional,0.664,0.5,0.74,1.0,0.1,1,2,4
+37,interior designer cost in india,PRIMARY,interior designer cost in india,0.656,High,Low,local,0.448,0.5,0.88,0.95,0.1,1,8,5
+37,interior designer cost in india,SUPPORTING,interior designer cost in patna,0.646,Medium,Low,local,0.412,0.5,0.88,0.95,0.1,1,9,5
+37,interior designer cost in india,SUPPORTING,interior designer cost in lucknow,0.626,Medium,Low,local,0.376,0.5,0.88,0.95,0.1,1,10,5
+17,interior designer price,PRIMARY,interior designer price,0.723,High,Low,transactional,0.7,0.5,0.74,1.0,0.1,1,1,3
+17,interior designer price,SUPPORTING,interior designer price list,0.712,High,Low,transactional,0.664,0.5,0.74,1.0,0.1,1,2,4
+17,interior designer price,SUPPORTING,interior designer cost per sq ft,0.677,High,Low,transactional,0.628,0.5,0.74,1.0,0.1,1,3,6
+17,interior designer price,SUPPORTING,interior designer price per room,0.674,High,Low,transactional,0.592,0.5,0.74,1.0,0.1,1,4,5
+17,interior designer price,SUPPORTING,interior designer price per sq ft,0.672,High,Low,transactional,0.628,0.5,0.74,1.0,0.1,1,3,6
+17,interior designer price,SUPPORTING,interior designer price per hour,0.653,High,Low,transactional,0.52,0.5,0.74,1.0,0.1,1,6,5
+17,interior designer price,SUPPORTING,interior designer price philippines,0.63,Medium,Low,transactional,0.484,0.5,0.74,1.0,0.1,1,7,4
+17,interior designer price,SUPPORTING,interior designer price per square foot,0.625,Medium,Low,transactional,0.556,0.5,0.74,1.0,0.1,1,5,6
+17,interior designer price,SUPPORTING,designer price,0.402,Medium,Low,transactional,0.7,0.5,0.5,1.0,0.25,1,1,2
+38,cheap interior designer in lahore,PRIMARY,cheap interior designer in lahore,0.699,High,Low,local,0.628,0.5,0.88,0.95,0.1,1,3,5
+38,cheap interior designer in lahore,SUPPORTING,cheap interior designer in karachi,0.684,High,Low,local,0.592,0.5,0.88,0.95,0.1,1,4,5
+38,cheap interior designer in lahore,SUPPORTING,cheap interior designer in kolkata,0.653,High,Low,local,0.484,0.5,0.88,0.95,0.1,1,7,5
+38,cheap interior designer in lahore,SUPPORTING,interior designer price in dehradun,0.636,Medium,Low,local,0.412,0.5,0.88,0.95,0.1,1,9,5
+38,cheap interior designer in lahore,SUPPORTING,interior designer price in india,0.63,Medium,Low,local,0.376,0.5,0.88,0.95,0.1,1,10,5
+38,cheap interior designer in lahore,SUPPORTING,cheap interior designer in lahore with price,0.593,Medium,Low,local,0.556,0.5,0.73,0.95,0.1,1,5,7
+38,cheap interior designer in lahore,SUPPORTING,cheap interior designer in karachi with price,0.58,Medium,Low,local,0.52,0.5,0.73,0.95,0.1,1,6,7
+15,interior designer vasai,PRIMARY,interior designer vasai,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+15,interior designer vasai,SUPPORTING,interior designer thane west,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,4
+15,interior designer vasai,SUPPORTING,interior designer goregaon west,0.625,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,4
+15,interior designer vasai,SUPPORTING,interior designer virar west,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+15,interior designer vasai,SUPPORTING,interior designer borivali west,0.614,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+15,interior designer vasai,SUPPORTING,interior designer vasai west,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,4
+15,interior designer vasai,SUPPORTING,interior designer andheri west,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,4
+15,interior designer vasai,SUPPORTING,interior designer kandivali west,0.609,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+33,interior designer services near me,PRIMARY,interior designer services near me,0.668,High,Low,local,0.664,0.5,0.74,0.95,0.1,1,2,5
+33,interior designer services near me,SUPPORTING,interior designer services in jalpura,0.654,High,Low,local,0.628,0.5,0.74,0.95,0.1,1,3,5
+33,interior designer services near me,SUPPORTING,interior designer services in pune,0.636,Medium,Low,local,0.52,0.5,0.74,0.95,0.1,1,6,5
+33,interior designer services near me,SUPPORTING,interior designer services in my area,0.626,Medium,Low,local,0.556,0.5,0.74,0.95,0.1,1,5,6
+33,interior designer services near me,SUPPORTING,interior designer services in hyderabad,0.605,Medium,Low,local,0.484,0.5,0.74,0.95,0.1,1,7,5
+33,interior designer services near me,SUPPORTING,interior designer services in gurgaon,0.603,Medium,Low,local,0.448,0.5,0.74,0.95,0.1,1,8,5
+33,interior designer services near me,SUPPORTING,interior designer services in kolkata,0.593,Medium,Low,local,0.412,0.5,0.74,0.95,0.1,1,9,5
+33,interior designer services near me,SUPPORTING,interior designer services in mumbai,0.586,Medium,Low,local,0.376,0.5,0.74,0.95,0.1,1,10,5
+31,interior designer in nagpur,PRIMARY,interior designer in nagpur,0.705,High,Low,local,0.664,0.5,0.74,0.95,0.1,1,2,4
+31,interior designer in nagpur,SUPPORTING,interior designer hyderabad,0.694,High,Low,local,0.628,0.5,0.74,0.95,0.1,1,3,3
+31,interior designer in nagpur,SUPPORTING,interior designer in nashik,0.694,High,Low,local,0.628,0.5,0.74,0.95,0.1,1,3,4
+31,interior designer in nagpur,SUPPORTING,interior designer in mumbra,0.683,High,Low,local,0.592,0.5,0.74,0.95,0.1,1,4,4
+31,interior designer in nagpur,SUPPORTING,architect interior designer in delhi,0.664,High,Low,local,0.664,0.5,0.74,0.95,0.25,1,2,5
+31,interior designer in nagpur,SUPPORTING,architect interior designer bangalore,0.661,High,Low,local,0.7,0.5,0.74,0.95,0.25,1,1,4
+31,interior designer in nagpur,SUPPORTING,architect interior designer hyderabad,0.661,High,Low,local,0.7,0.5,0.74,0.95,0.25,1,1,4
+31,interior designer in nagpur,SUPPORTING,interior designer in diva,0.651,High,Low,local,0.484,0.5,0.74,0.95,0.1,1,7,4
+31,interior designer in nagpur,SUPPORTING,architect interior designer in ahmedabad,0.648,Medium,Low,local,0.7,0.5,0.74,0.95,0.25,1,1,5
+31,interior designer in nagpur,SUPPORTING,interior designer in ghansoli,0.629,Medium,Low,local,0.412,0.5,0.74,0.95,0.1,1,9,4
+31,interior designer in nagpur,SUPPORTING,architect interior designer in hyderabad,0.628,Medium,Low,local,0.628,0.5,0.74,0.95,0.25,1,3,5
+31,interior designer in nagpur,SUPPORTING,architect interior designer ahmedabad,0.621,Medium,Low,local,0.7,0.5,0.6,0.85,0.25,1,1,4
+31,interior designer in nagpur,SUPPORTING,interior designer bangalore,0.618,Medium,Low,local,0.376,0.5,0.74,0.95,0.1,1,10,3
+31,interior designer in nagpur,SUPPORTING,architect interior designer in gandhinagar,0.61,Medium,Low,local,0.592,0.5,0.74,0.95,0.25,1,4,5
+31,interior designer in nagpur,SUPPORTING,d zine interior designer in surat,0.592,Medium,Low,local,0.376,0.5,0.74,0.95,0.1,1,10,6
+31,interior designer in nagpur,SUPPORTING,designer in hindi,0.39,Low,Low,local,0.52,0.5,0.74,0.95,0.25,1,6,3
+31,interior designer in nagpur,SUPPORTING,interior in hindi,0.371,Low,Low,local,0.484,0.5,0.74,0.95,0.25,1,7,3
+36,interior designer jobs in pune,PRIMARY,interior designer jobs in pune,0.699,High,Low,local,0.664,0.5,0.74,0.95,0.1,1,2,5
+36,interior designer jobs in pune,SUPPORTING,interior designer jobs in mumbai,0.698,High,Low,local,0.7,0.5,0.74,0.95,0.1,1,1,5
+36,interior designer jobs in pune,SUPPORTING,interior designer jobs in dubai,0.64,Medium,Low,local,0.484,0.5,0.74,0.95,0.1,1,7,5
+36,interior designer jobs in pune,SUPPORTING,architect interior designer jobs in dubai,0.636,Medium,Low,local,0.7,0.5,0.74,0.95,0.25,1,1,6
+36,interior designer jobs in pune,SUPPORTING,interior designer jobs in nagpur,0.614,Medium,Low,local,0.412,0.5,0.74,0.95,0.1,1,9,5
+36,interior designer jobs in pune,SUPPORTING,interior designer jobs in thane,0.608,Medium,Low,local,0.376,0.5,0.74,0.95,0.1,1,10,5
+36,interior designer jobs in pune,SUPPORTING,interior designer jobs in pune fresher,0.601,Medium,Low,local,0.448,0.5,0.74,0.95,0.1,1,8,6
+36,interior designer jobs in pune,SUPPORTING,architect interior designer jobs in bangalore,0.593,Medium,Low,local,0.592,0.5,0.74,0.95,0.25,1,4,6
+36,interior designer jobs in pune,SUPPORTING,architect interior designer jobs chennai,0.588,Medium,Low,local,0.52,0.5,0.74,0.95,0.25,1,6,5
+36,interior designer jobs in pune,SUPPORTING,architect interior designer jobs in hyderabad,0.584,Medium,Low,local,0.556,0.5,0.74,0.95,0.25,1,5,6
+36,interior designer jobs in pune,SUPPORTING,architect interior designer jobs in delhi,0.576,Medium,Low,local,0.448,0.5,0.74,0.95,0.25,1,8,6
+36,interior designer jobs in pune,SUPPORTING,architect interior designer jobs in ahmedabad,0.564,Medium,Low,local,0.484,0.5,0.74,0.95,0.25,1,7,6
+36,interior designer jobs in pune,SUPPORTING,architecture and interior designer jobs in bangalore,0.483,Medium,Low,local,0.376,0.5,0.59,0.95,0.25,1,10,7
+35,interior designer pune,PRIMARY,interior designer pune,0.715,High,Low,local,0.7,0.5,0.74,0.95,0.1,1,1,3
+35,interior designer pune,SUPPORTING,interior designer fees in pune,0.699,High,Low,local,0.664,0.5,0.74,0.95,0.1,1,2,5
+35,interior designer pune,SUPPORTING,interior designer course in pune,0.688,High,Low,local,0.664,0.5,0.74,0.95,0.1,1,2,5
+35,interior designer pune,SUPPORTING,interior designer in pune,0.661,High,Low,local,0.52,0.5,0.74,0.95,0.1,1,6,4
+35,interior designer pune,SUPPORTING,interior designer rates in pune,0.651,High,Low,local,0.52,0.5,0.74,0.95,0.1,1,6,5
+35,interior designer pune,SUPPORTING,interior designer college in pune,0.641,Medium,Low,local,0.52,0.5,0.74,0.95,0.1,1,6,5
+35,interior designer pune,SUPPORTING,interior designer college in mumbai,0.611,Medium,Low,local,0.448,0.5,0.74,0.95,0.1,1,8,5
+35,interior designer pune,SUPPORTING,interior in pune,0.383,Low,Low,local,0.52,0.5,0.74,0.95,0.25,1,6,3
+35,interior designer pune,SUPPORTING,designer in pune,0.377,Low,Low,local,0.412,0.5,0.74,0.95,0.25,1,9,3
+40,cheap interior designer near me,PRIMARY,cheap interior designer near me,0.721,High,Low,local,0.7,0.5,0.88,0.95,0.1,1,1,5
+40,cheap interior designer near me,SUPPORTING,interior designer near me,0.694,High,Low,local,0.628,0.5,0.74,0.95,0.1,1,3,4
+40,cheap interior designer near me,SUPPORTING,interior designer office near me,0.689,High,Low,local,0.7,0.5,0.74,0.95,0.1,1,1,5
+40,cheap interior designer near me,SUPPORTING,an interior designer near me,0.681,High,Low,local,0.592,0.5,0.74,0.95,0.1,1,4,5
+40,cheap interior designer near me,SUPPORTING,interior designer firm near me,0.679,High,Low,local,0.628,0.5,0.74,0.95,0.1,1,3,5
+40,cheap interior designer near me,SUPPORTING,architect or interior designer near me,0.673,High,Low,local,0.7,0.5,0.88,0.95,0.25,1,1,6
+40,cheap interior designer near me,SUPPORTING,interior designer hire near me,0.669,High,Low,local,0.592,0.5,0.74,0.95,0.1,1,4,5
+40,cheap interior designer near me,SUPPORTING,interior designer job near me,0.664,High,Low,local,0.556,0.5,0.74,0.95,0.1,1,5,5
+40,cheap interior designer near me,SUPPORTING,interior designer pune near me,0.658,High,Low,local,0.556,0.5,0.74,0.95,0.1,1,5,5
+40,cheap interior designer near me,SUPPORTING,find interior designer near me,0.654,High,Low,local,0.592,0.5,0.74,0.95,0.25,1,4,5
+40,cheap interior designer near me,SUPPORTING,interior designer thane near me,0.652,High,Low,local,0.556,0.5,0.74,0.95,0.1,1,5,5
+40,cheap interior designer near me,SUPPORTING,interior designer for shop near me,0.649,Medium,Low,local,0.592,0.5,0.74,0.95,0.1,1,4,6
+40,cheap interior designer near me,SUPPORTING,best interior designer near me,0.647,Medium,Low,local,0.52,0.5,0.74,0.95,0.1,1,6,5
+40,cheap interior designer near me,SUPPORTING,interior designer near me with price,0.636,Medium,Low,local,0.52,0.5,0.88,0.95,0.1,1,6,6
+40,cheap interior designer near me,SUPPORTING,architecture interior designer near me,0.635,Medium,Low,local,0.664,0.5,0.74,0.95,0.25,1,2,5
+40,cheap interior designer near me,SUPPORTING,interior designer for cafe near me,0.629,Medium,Low,local,0.52,0.5,0.74,0.95,0.1,1,6,6
+40,cheap interior designer near me,SUPPORTING,architect and interior designer near me,0.623,Medium,Low,local,0.664,0.5,0.74,0.95,0.25,1,2,6
+40,cheap interior designer near me,SUPPORTING,interior designer near me within 800m,0.616,Medium,Low,local,0.556,0.5,0.74,0.95,0.1,1,5,6
+40,cheap interior designer near me,SUPPORTING,interior designer for home near me,0.6,Medium,Low,local,0.448,0.5,0.74,0.95,0.1,1,8,6
+40,cheap interior designer near me,SUPPORTING,interior designer near me open now,0.599,Medium,Low,local,0.448,0.5,0.74,0.95,0.1,1,8,6
+40,cheap interior designer near me,SUPPORTING,best architects and interior designer near me,0.57,Medium,Low,local,0.664,0.5,0.59,0.95,0.25,1,2,7
+40,cheap interior designer near me,SUPPORTING,interior designer near me contact number,0.565,Medium,Low,local,0.376,0.5,0.74,0.95,0.1,1,10,6
+40,cheap interior designer near me,SUPPORTING,architect and interior designer near me within 400m,0.54,Medium,Low,local,0.628,0.5,0.59,0.95,0.25,1,3,8
+40,cheap interior designer near me,SUPPORTING,architect and interior designer near me within 800m,0.522,Medium,Low,local,0.556,0.5,0.59,0.95,0.25,1,5,8
+40,cheap interior designer near me,SUPPORTING,designers near me interior,0.435,Medium,Low,local,0.376,0.5,0.74,0.95,0.25,1,10,4
+40,cheap interior designer near me,SUPPORTING,designer near me,0.401,Medium,Low,local,0.7,0.5,0.74,0.95,0.25,1,1,3
+40,cheap interior designer near me,SUPPORTING,interior near me,0.401,Medium,Low,local,0.7,0.5,0.74,0.95,0.25,1,1,3
+40,cheap interior designer near me,SUPPORTING,architecture interior design firms near me,0.395,Low,Low,local,0.628,0.5,0.74,0.95,0.25,1,3,6
+1,interior designer alternative,PRIMARY,interior designer alternative,0.693,High,Low,commercial,0.7,0.5,0.74,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer without degree,0.688,High,Low,commercial,0.7,0.5,0.74,0.8,0.1,1,1,4
+1,interior designer alternative,SUPPORTING,interior designer alternative word,0.667,High,Low,commercial,0.664,0.5,0.74,0.8,0.1,1,2,4
+1,interior designer alternative,SUPPORTING,a interior designer,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,d interior designer,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,r interior designer,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer s,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,z interior designer,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,b interior designer,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer in,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,why interior designer,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,who interior designer,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,jay interior designer,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,que interior designer,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer fees,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer thane,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer latur,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer course,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer salary,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer kalyan,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer quotes,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer resume,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer reviews,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer website,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer amravati,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer badlapur,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer hadapsar,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer yavatmal,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer zirakpur,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,what interior designer do,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,4
+1,interior designer alternative,SUPPORTING,interior designer education,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer ghatkopar,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer ulhasnagar,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+1,interior designer alternative,SUPPORTING,interior designer visiting card,0.657,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,4
+1,interior designer alternative,SUPPORTING,k interior designer,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,fb interior designer,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,lt interior designer,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,uv interior designer,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,interior designer ulwe,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,interior designer wakad,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,interior designer mumbra,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,interior designer online,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,interior designer panvel,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,interior designer zurich,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,interior designer borivali,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,interior designer ghansoli,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,interior designer kolhapur,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,interior designer ambernath,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,interior designer hinjewadi,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,interior designer ratnagiri,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,interior designer engineering,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,interior designer with ai,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,4
+1,interior designer alternative,SUPPORTING,what interior designer does,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,4
+1,interior designer alternative,SUPPORTING,interior designer qualification,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,best interior designer thane,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,4
+1,interior designer alternative,SUPPORTING,a interior designer or an interior designer,0.652,High,Low,commercial,0.664,0.5,0.59,0.8,0.1,1,2,7
+1,interior designer alternative,SUPPORTING,b arch interior designer,0.65,High,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,4
+1,interior designer alternative,SUPPORTING,interior designer without experience,0.648,Medium,Low,commercial,0.628,0.5,0.74,0.8,0.1,1,3,4
+1,interior designer alternative,SUPPORTING,interior designer review sample,0.646,Medium,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,4
+1,interior designer alternative,SUPPORTING,architect interior designer difference,0.646,Medium,Low,commercial,0.7,0.5,0.74,0.8,0.25,1,1,4
+1,interior designer alternative,SUPPORTING,interior designer ai,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,bq interior designer,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,interior designer job,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,interior designer zug,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,interior designer ravet,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,interior designer virar,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,interior designer undri,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,interior designer gondia,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,interior designer office,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,interior designer taloja,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,interior designer solapur,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,interior designer bhiwandi,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,interior designer lonavala,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,interior designer portfolio,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,interior designer kharghar,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,3
+1,interior designer alternative,SUPPORTING,interview with interior designer,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,4
+1,interior designer alternative,SUPPORTING,an interior designer salary,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,4
+1,interior designer alternative,SUPPORTING,interior designer mira road,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,4
+1,interior designer alternative,SUPPORTING,salary of interior designer,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,4
+1,interior designer alternative,SUPPORTING,interior designer course fees,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,4
+1,interior designer alternative,SUPPORTING,architect interior designer job,0.642,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,4
+1,interior designer alternative,SUPPORTING,fb interior designer singapore,0.641,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,4
+1,interior designer alternative,SUPPORTING,interior designer entrance exam,0.635,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,4
+1,interior designer alternative,SUPPORTING,interior designer baner,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,3
+1,interior designer alternative,SUPPORTING,what interior designer,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,3
+1,interior designer alternative,SUPPORTING,interior designer vashi,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,3
+1,interior designer alternative,SUPPORTING,interior designer nagpur,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,3
+1,interior designer alternative,SUPPORTING,interior designer satara,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,3
+1,interior designer alternative,SUPPORTING,interior designer kharadi,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,3
+1,interior designer alternative,SUPPORTING,interior designer jalgaon,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,3
+1,interior designer alternative,SUPPORTING,interior designer titwala,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,3
+1,interior designer alternative,SUPPORTING,interior designer wagholi,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,3
+1,interior designer alternative,SUPPORTING,interior designer description,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,3
+1,interior designer alternative,SUPPORTING,interior designer quotation,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,3
+1,interior designer alternative,SUPPORTING,t shirt interior designer,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,4
+1,interior designer alternative,SUPPORTING,interior designer aurangabad,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,3
+1,interior designer alternative,SUPPORTING,n develop interior designer,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,4
+1,interior designer alternative,SUPPORTING,steven g interior designer,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,4
+1,interior designer alternative,SUPPORTING,lead interior designer salary,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,4
+1,interior designer alternative,SUPPORTING,interior designer remote jobs,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,4
+1,interior designer alternative,SUPPORTING,working with interior designer,0.63,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,4
+1,interior designer alternative,SUPPORTING,find interior designer,0.628,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+1,interior designer alternative,SUPPORTING,i interior designer meaning,0.628,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,4
+1,interior designer alternative,SUPPORTING,architect interior designer salary,0.627,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,4
+1,interior designer alternative,SUPPORTING,architect interior designer course,0.627,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,4
+1,interior designer alternative,SUPPORTING,architect interior designer london,0.627,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,4
+1,interior designer alternative,SUPPORTING,interior designer hindi meaning,0.625,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,4
+1,interior designer alternative,SUPPORTING,interior designer portfolio pdf,0.625,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,4
+1,interior designer alternative,SUPPORTING,does interior designer need license,0.625,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,5
+1,interior designer alternative,SUPPORTING,does interior designer pay well,0.624,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,5
+1,interior designer alternative,SUPPORTING,who is interior designer salary,0.624,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,5
+1,interior designer alternative,SUPPORTING,ms interior designer,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,how interior designer,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,interior designer usa,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,interior designer home,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,interior designer firm,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,interior designer akola,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,interior designer mulund,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,interior designer sangli,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,interior designer wardha,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,interior designer zagreb,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,interior designer acronym,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,interior designer license,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,que es interior designer,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+1,interior designer alternative,SUPPORTING,alex v interior designer,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+1,interior designer alternative,SUPPORTING,interior designer locations,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,interior designer cosa fa,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+1,interior designer alternative,SUPPORTING,what interior designer job,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+1,interior designer alternative,SUPPORTING,interior designer eligibility,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,interior designer yamunanagar,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,3
+1,interior designer alternative,SUPPORTING,lt interior designer salary,0.622,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+1,interior designer alternative,SUPPORTING,interior designer quotation format,0.62,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,4
+1,interior designer alternative,SUPPORTING,interior designer course thane,0.619,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+1,interior designer alternative,SUPPORTING,portfolio of interior designer,0.619,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+1,interior designer alternative,SUPPORTING,review interior designer,0.618,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,3
+1,interior designer alternative,SUPPORTING,can architect be interior designer,0.616,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,5
+1,interior designer alternative,SUPPORTING,mr j interior designer studio,0.614,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,5
+1,interior designer alternative,SUPPORTING,an interior designer chandigarh,0.614,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+1,interior designer alternative,SUPPORTING,interior designer goregaon east,0.614,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+1,interior designer alternative,SUPPORTING,interior designer resume format,0.614,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+1,interior designer alternative,SUPPORTING,why become an interior designer,0.614,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,5
+1,interior designer alternative,SUPPORTING,is interior designer an architect,0.614,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,5
+1,interior designer alternative,SUPPORTING,architect interior designer portfolio,0.614,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,4
+1,interior designer alternative,SUPPORTING,interior designer jalna,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,3
+1,interior designer alternative,SUPPORTING,interior designer hiring,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,3
+1,interior designer alternative,SUPPORTING,interior designer nashik,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,3
+1,interior designer alternative,SUPPORTING,interior designer lucknow,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,3
+1,interior designer alternative,SUPPORTING,interior designer meaning,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,3
+1,interior designer alternative,SUPPORTING,interior designer palghar,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,3
+1,interior designer alternative,SUPPORTING,interior designer earnings,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,3
+1,interior designer alternative,SUPPORTING,interior designer baramati,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,3
+1,interior designer alternative,SUPPORTING,interior designer goregaon,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,3
+1,interior designer alternative,SUPPORTING,interior designer tathawade,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,3
+1,interior designer alternative,SUPPORTING,is interior designer hard,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,4
+1,interior designer alternative,SUPPORTING,interior designer kaise bane,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,4
+1,interior designer alternative,SUPPORTING,interior designer of antilia,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,4
+1,interior designer alternative,SUPPORTING,poojitha s interior designer,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,4
+1,interior designer alternative,SUPPORTING,interior designer zurich jobs,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,4
+1,interior designer alternative,SUPPORTING,interior space designer pvt ltd,0.611,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,5
+1,interior designer alternative,SUPPORTING,a n architect interior designer,0.61,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,5
+1,interior designer alternative,SUPPORTING,k kreations architect interior designer,0.609,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,5
+1,interior designer alternative,SUPPORTING,interior designer similar jobs,0.608,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,4
+1,interior designer alternative,SUPPORTING,an interior designer portfolio,0.608,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,4
+1,interior designer alternative,SUPPORTING,tasa interior designer reviews,0.608,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,4
+1,interior designer alternative,SUPPORTING,a to z interior designer photos,0.607,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,6
+1,interior designer alternative,SUPPORTING,is interior designer and architect same,0.601,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,6
+1,interior designer alternative,SUPPORTING,interior designer uk,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+1,interior designer alternative,SUPPORTING,interior designer moshi,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+1,interior designer alternative,SUPPORTING,interior designer boisar,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+1,interior designer alternative,SUPPORTING,interior designer nanded,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+1,interior designer alternative,SUPPORTING,interior designer washim,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+1,interior designer alternative,SUPPORTING,interior designer chembur,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+1,interior designer alternative,SUPPORTING,interior designer gurgaon,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+1,interior designer alternative,SUPPORTING,interior designer kothrud,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+1,interior designer alternative,SUPPORTING,kim k interior designer,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,4
+1,interior designer alternative,SUPPORTING,interior designer parbhani,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+1,interior designer alternative,SUPPORTING,interior designer vikhroli,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+1,interior designer alternative,SUPPORTING,interior designer zimbabwe,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+1,interior designer alternative,SUPPORTING,interior designer top 10,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,4
+1,interior designer alternative,SUPPORTING,interior designer letterhead,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+1,interior designer alternative,SUPPORTING,interior designer questions,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+1,interior designer alternative,SUPPORTING,work of interior designer,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,4
+1,interior designer alternative,SUPPORTING,interior designer ahmednagar,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+1,interior designer alternative,SUPPORTING,an interior designer meaning,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,4
+1,interior designer alternative,SUPPORTING,que significa interior designer,0.6,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,4
+1,interior designer alternative,SUPPORTING,architect interior designer chandigarh,0.6,Medium,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,4
+1,interior designer alternative,SUPPORTING,interior designer costume for kids,0.598,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,5
+1,interior designer alternative,SUPPORTING,architect interior designer magazine,0.597,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,4
+1,interior designer alternative,SUPPORTING,architect interior designer philippines,0.596,Medium,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,4
+1,interior designer alternative,SUPPORTING,architect versus interior designer,0.595,Medium,Low,commercial,0.448,0.5,0.74,0.8,0.1,1,8,4
+1,interior designer alternative,SUPPORTING,consultation with interior designer,0.595,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+1,interior designer alternative,SUPPORTING,justin q williams interior designer,0.595,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,5
+1,interior designer alternative,SUPPORTING,is interior designer worth it,0.593,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,5
+1,interior designer alternative,SUPPORTING,interior designer similar words,0.593,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,4
+1,interior designer alternative,SUPPORTING,arham interior designer reviews,0.593,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,4
+1,interior designer alternative,SUPPORTING,contract with interior designer,0.593,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,4
+1,interior designer alternative,SUPPORTING,can interior designer become architect,0.593,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,5
+1,interior designer alternative,SUPPORTING,architect interior designer meaning,0.591,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,4
+1,interior designer alternative,SUPPORTING,a to z interior designer reviews,0.591,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,6
+1,interior designer alternative,SUPPORTING,architecture is interior designer,0.59,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,4
+1,interior designer alternative,SUPPORTING,architect interior designer job description,0.59,Medium,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,5
+1,interior designer alternative,SUPPORTING,interior designer app,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,ffe interior designer,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,interior designer nerul,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,interior designer emoji,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,interior designer hindi,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,interior designer leads,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,interior designer rates,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,interior designer tools,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,interior designer bandra,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,interior designer werden,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,interior designer zambia,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,interior designer ujjain,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,interior designer software,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,b- voc interior designer,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,4
+1,interior designer alternative,SUPPORTING,interior designer qualities,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,interior designer occupation,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,interior designer pandharpur,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+1,interior designer alternative,SUPPORTING,k mewada interior designer,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,4
+1,interior designer alternative,SUPPORTING,degree with interior designer,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,4
+1,interior designer alternative,SUPPORTING,la z boy interior designer,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,5
+1,interior designer alternative,SUPPORTING,meaning of interior designer,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,4
+1,interior designer alternative,SUPPORTING,jay spectre interior designer,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,4
+1,interior designer alternative,SUPPORTING,interior designer viman nagar,0.589,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,4
+1,interior designer alternative,SUPPORTING,steven g interior designer florida,0.589,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,5
+1,interior designer alternative,SUPPORTING,interior designer freelance jobs,0.588,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,4
+1,interior designer alternative,SUPPORTING,interior designer udyam nic code,0.588,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,5
+1,interior designer alternative,SUPPORTING,soham architect interior designer reviews,0.588,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,5
+1,interior designer alternative,SUPPORTING,interior designer education requirements,0.586,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,4
+1,interior designer alternative,SUPPORTING,interior designer yearly salary,0.582,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,4
+1,interior designer alternative,SUPPORTING,who to become interior designer,0.582,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,5
+1,interior designer alternative,SUPPORTING,interior designer how to become,0.582,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,5
+1,interior designer alternative,SUPPORTING,la z boy interior designer job,0.581,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,6
+1,interior designer alternative,SUPPORTING,interior designer quotation template,0.581,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,4
+1,interior designer alternative,SUPPORTING,interior designer qualifications needed,0.58,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,4
+1,interior designer alternative,SUPPORTING,bsc interior designer,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,3
+1,interior designer alternative,SUPPORTING,interior designer beed,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,3
+1,interior designer alternative,SUPPORTING,interior designer york,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,3
+1,interior designer alternative,SUPPORTING,interior designer karad,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,3
+1,interior designer alternative,SUPPORTING,interior designer airoli,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,3
+1,interior designer alternative,SUPPORTING,interior designer vacancy,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,3
+1,interior designer alternative,SUPPORTING,interior designer ghaziabad,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,3
+1,interior designer alternative,SUPPORTING,role of interior designer,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+1,interior designer alternative,SUPPORTING,interior designer chandrapur,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,3
+1,interior designer alternative,SUPPORTING,interior designer zionsville,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,3
+1,interior designer alternative,SUPPORTING,interior designer university,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,3
+1,interior designer alternative,SUPPORTING,interior designer list pdf,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+1,interior designer alternative,SUPPORTING,interior designer tag line,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+1,interior designer alternative,SUPPORTING,interior designer wfh jobs,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+1,interior designer alternative,SUPPORTING,jay shetty interior designer,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+1,interior designer alternative,SUPPORTING,shally interior designer reviews,0.577,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,4
+1,interior designer alternative,SUPPORTING,interior designer kandivali east,0.577,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,4
+1,interior designer alternative,SUPPORTING,architect interior designer kya hota hai,0.577,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,6
+1,interior designer alternative,SUPPORTING,interior designer hiring dubai,0.576,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+1,interior designer alternative,SUPPORTING,north london interior designer,0.576,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+1,interior designer alternative,SUPPORTING,interior designer office ideas,0.576,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+1,interior designer alternative,SUPPORTING,interior designer quotes short,0.576,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+1,interior designer alternative,SUPPORTING,qualities of interior designer,0.576,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+1,interior designer alternative,SUPPORTING,architect interior designer remote jobs,0.575,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,5
+1,interior designer alternative,SUPPORTING,interior designer profile description,0.573,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,4
+1,interior designer alternative,SUPPORTING,interior designer government jobs,0.573,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,4
+1,interior designer alternative,SUPPORTING,chotu interior designer reviews,0.571,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+1,interior designer alternative,SUPPORTING,kanchan architect interior designer reviews,0.571,Medium,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,5
+1,interior designer alternative,SUPPORTING,interior designer resume for fresher,0.57,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,5
+1,interior designer alternative,SUPPORTING,where is banjo interior designer from,0.57,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,6
+1,interior designer alternative,SUPPORTING,interior designer goa,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,3
+1,interior designer alternative,SUPPORTING,interior designer malad,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,3
+1,interior designer alternative,SUPPORTING,interior designer reddit,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,3
+1,interior designer alternative,SUPPORTING,interior designer profile,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,3
+1,interior designer alternative,SUPPORTING,interior designer only design,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,4
+1,interior designer alternative,SUPPORTING,interior designer ludhiana,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,3
+1,interior designer alternative,SUPPORTING,interior designer chinchwad,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,3
+1,interior designer alternative,SUPPORTING,interior designer yorkshire,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,3
+1,interior designer alternative,SUPPORTING,interior designer ai free,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,4
+1,interior designer alternative,SUPPORTING,interior designer exhibition,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,3
+1,interior designer alternative,SUPPORTING,martin b interior designer,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,4
+1,interior designer alternative,SUPPORTING,interior designer using ai,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,4
+1,interior designer alternative,SUPPORTING,jay wyong interior designer,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,4
+1,interior designer alternative,SUPPORTING,interior designer short form,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,4
+1,interior designer alternative,SUPPORTING,interior designer hiring poster,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,4
+1,interior designer alternative,SUPPORTING,best interior designer review,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,4
+1,interior designer alternative,SUPPORTING,interior designer zoe feldman,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,4
+1,interior designer alternative,SUPPORTING,architect interior designer contact number,0.568,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,5
+1,interior designer alternative,SUPPORTING,agreement with interior designer,0.567,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+1,interior designer alternative,SUPPORTING,interior designer online consultation,0.567,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,4
+1,interior designer alternative,SUPPORTING,v interior and designer bengaluru,0.566,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,5
+1,interior designer alternative,SUPPORTING,interior designer which course,0.565,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,4
+1,interior designer alternative,SUPPORTING,interior designer website templates,0.564,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,4
+1,interior designer alternative,SUPPORTING,vaastu architect interior designer kolhapur,0.561,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,5
+1,interior designer alternative,SUPPORTING,que significa interior designer en español,0.56,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,6
+1,interior designer alternative,SUPPORTING,interior designer pimpri chinchwad,0.558,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+1,interior designer alternative,SUPPORTING,architect with interior designer,0.556,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,4
+1,interior designer alternative,SUPPORTING,interior designer similar occupations,0.556,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,4
+1,interior designer alternative,SUPPORTING,akar architect interior designer vadodara,0.549,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,5
+1,interior designer alternative,SUPPORTING,interior designer kopar khairane,0.548,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,4
+1,interior designer alternative,SUPPORTING,is interior designer and interior decorator the same,0.547,Medium,Low,commercial,0.448,0.5,0.45,0.8,0.1,1,8,8
+1,interior designer alternative,SUPPORTING,la z boy interior designer salary,0.546,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,6
+1,interior designer alternative,SUPPORTING,ffe interior designer job description,0.543,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,5
+1,interior designer alternative,SUPPORTING,interior designer vile parle east,0.534,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,5
+1,interior designer alternative,SUPPORTING,can interior designer become billionaire,0.526,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,5
+1,interior designer alternative,SUPPORTING,vaastu architect interior designer kolhapur photos,0.526,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,6
+1,interior designer alternative,SUPPORTING,best interior designers,0.52,Medium,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+1,interior designer alternative,SUPPORTING,is interior designer a protected title,0.517,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,6
+1,interior designer alternative,SUPPORTING,top interior designers,0.511,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,3
+1,interior designer alternative,SUPPORTING,when should i start looking for interior designer,0.507,Medium,Low,commercial,0.556,0.5,0.45,0.8,0.1,1,5,8
+1,interior designer alternative,SUPPORTING,ultimate architect interior designer okara reviews,0.507,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.25,1,6,6
+1,interior designer alternative,SUPPORTING,interior designer resume word format download,0.505,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,6
+1,interior designer alternative,SUPPORTING,architects interior designer gdw construction company,0.505,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,6
+1,interior designer alternative,SUPPORTING,yogesh architect interior designer lucknow,0.497,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.25,1,10,5
+1,interior designer alternative,SUPPORTING,is interior designer a high paying job,0.495,Medium,Low,commercial,0.412,0.5,0.45,0.8,0.1,1,9,7
+1,interior designer alternative,SUPPORTING,can an architect be an interior designer,0.491,Medium,Low,commercial,0.556,0.5,0.45,0.8,0.25,1,5,7
+1,interior designer alternative,SUPPORTING,can an interior designer become an architect,0.473,Medium,Low,commercial,0.52,0.5,0.45,0.8,0.25,1,6,7
+1,interior designer alternative,SUPPORTING,k interior designers bengaluru reviews,0.437,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,5
+1,interior designer alternative,SUPPORTING,m interior designers guntur reviews,0.428,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,5
+1,interior designer alternative,SUPPORTING,h interior designs reviews,0.418,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,4
+1,interior designer alternative,SUPPORTING,interior versus exterior,0.394,Low,Low,commercial,0.592,0.5,0.74,0.8,0.25,1,4,3
+1,interior designer alternative,SUPPORTING,interior versus exterior paint,0.388,Low,Low,commercial,0.628,0.5,0.74,0.8,0.25,1,3,4
+1,interior designer alternative,SUPPORTING,who are the top interior designers,0.378,Low,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,6
+1,interior designer alternative,SUPPORTING,reviews interior define,0.369,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+1,interior designer alternative,SUPPORTING,interior versus exterior stain,0.364,Low,Low,commercial,0.556,0.5,0.74,0.8,0.25,1,5,4
+1,interior designer alternative,SUPPORTING,interior review,0.36,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+1,interior designer alternative,SUPPORTING,reviews interior delights,0.341,Low,Low,commercial,0.52,0.5,0.6,0.8,0.25,1,6,3
+1,interior designer alternative,SUPPORTING,interior portfolio,0.311,Low,Low,commercial,0.52,0.5,0.36,0.8,0.25,1,6,2
+24,hire an architect or interior designer,PRIMARY,hire an architect or interior designer,0.641,Medium,Low,transactional,0.7,0.5,0.74,0.9,0.25,1,1,6
+24,hire an architect or interior designer,SUPPORTING,should i hire an architect or interior designer,0.555,Medium,Low,transactional,0.628,0.5,0.59,0.9,0.25,1,3,8
+43,interior designer salary in india,PRIMARY,interior designer salary in india,0.683,High,Low,local,0.664,0.5,0.74,0.95,0.1,1,2,5
+43,interior designer salary in india,SUPPORTING,salary of interior designer in india,0.641,Medium,Low,local,0.592,0.5,0.74,0.95,0.1,1,4,6
+43,interior designer salary in india,SUPPORTING,interior designer in mumbai,0.64,Medium,Low,local,0.448,0.5,0.74,0.95,0.1,1,8,4
+43,interior designer salary in india,SUPPORTING,interior designer salary in mumbai,0.636,Medium,Low,local,0.52,0.5,0.74,0.95,0.1,1,6,5
+43,interior designer salary in india,SUPPORTING,interior designer salary in pune,0.614,Medium,Low,local,0.412,0.5,0.74,0.95,0.1,1,9,5
+43,interior designer salary in india,SUPPORTING,salary of interior designer in dubai,0.579,Medium,Low,local,0.376,0.5,0.74,0.95,0.1,1,10,6
+43,interior designer salary in india,SUPPORTING,interior designer highest salary in india,0.574,Medium,Low,local,0.412,0.5,0.74,0.95,0.1,1,9,6
+43,interior designer salary in india,SUPPORTING,interior designer salary in india per month,0.564,Medium,Low,local,0.484,0.5,0.59,0.95,0.1,1,7,7
+43,interior designer salary in india,SUPPORTING,designer in mumbai,0.396,Low,Low,local,0.592,0.5,0.74,0.95,0.25,1,4,3
+14,how interior designer work,PRIMARY,how interior designer work,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,4
+14,how interior designer work,SUPPORTING,where interior designer work,0.628,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,4
+14,how interior designer work,SUPPORTING,interior designer work,0.611,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.1,1,6,3
+14,how interior designer work,SUPPORTING,an architect and interior designer,0.607,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,5
+14,how interior designer work,SUPPORTING,best architects and interior designer,0.603,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,5
+14,how interior designer work,SUPPORTING,interior designer work from home jobs,0.589,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,6
+14,how interior designer work,SUPPORTING,architect and interior designer noida,0.573,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,5
+14,how interior designer work,SUPPORTING,difference between architect and interior designer,0.568,Medium,Low,commercial,0.664,0.5,0.74,0.8,0.25,1,2,6
+14,how interior designer work,SUPPORTING,architect and interior designer visiting card,0.567,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,6
+14,how interior designer work,SUPPORTING,difference between architectural designer and interior designer,0.566,Medium,Low,commercial,0.592,0.5,0.59,0.8,0.25,1,4,7
+14,how interior designer work,SUPPORTING,architect and interior designer resume,0.549,Medium,Low,commercial,0.52,0.5,0.6,0.8,0.25,1,6,5
+14,how interior designer work,SUPPORTING,interior designer work from home,0.546,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,5
+14,how interior designer work,SUPPORTING,architect and interior designer list,0.546,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.25,1,7,5
+14,how interior designer work,SUPPORTING,architect and interior designer same,0.536,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,5
+14,how interior designer work,SUPPORTING,interior designer hiring work from home,0.533,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,6
+14,how interior designer work,SUPPORTING,best architecture and interior designer,0.516,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,5
+14,how interior designer work,SUPPORTING,architect and interior designer work from home jobs,0.462,Medium,Low,commercial,0.484,0.5,0.45,0.8,0.25,1,7,8
+14,how interior designer work,SUPPORTING,best architecture and interior designer firm rcube atelier,0.445,Medium,Low,commercial,0.448,0.5,0.45,0.8,0.25,1,8,8
+23,interior designer cost,PRIMARY,interior designer cost,0.723,High,Low,transactional,0.7,0.5,0.74,1.0,0.1,1,1,3
+23,interior designer cost,SUPPORTING,cost of interior designer,0.712,High,Low,transactional,0.664,0.5,0.74,1.0,0.1,1,2,4
+23,interior designer cost,SUPPORTING,interior designer cost for 1 bhk,0.687,High,Low,transactional,0.664,0.5,0.74,1.0,0.1,1,2,6
+23,interior designer cost,SUPPORTING,interior designer cost for 2bhk,0.686,High,Low,transactional,0.52,0.5,0.88,1.0,0.1,1,6,5
+23,interior designer cost,SUPPORTING,interior designer cost for 3 bhk,0.666,High,Low,transactional,0.592,0.5,0.74,1.0,0.1,1,4,6
+23,interior designer cost,SUPPORTING,interior designer cost for 1 room,0.63,Medium,Low,transactional,0.484,0.5,0.74,1.0,0.1,1,7,6
+23,interior designer cost,SUPPORTING,designer cost,0.405,Medium,Low,transactional,0.664,0.5,0.5,1.0,0.25,1,2,2
+23,interior designer cost,SUPPORTING,interior cost,0.384,Low,Low,transactional,0.556,0.5,0.5,1.0,0.25,1,5,2
+23,interior designer cost,SUPPORTING,interior vs exterior paint cost,0.371,Low,Low,transactional,0.376,0.5,0.88,1.0,0.25,1,10,5
+23,interior designer cost,SUPPORTING,designer quote,0.337,Low,Low,transactional,0.484,0.5,0.36,0.9,0.25,1,7,2
+11,architect or interior designer,PRIMARY,architect or interior designer,0.783,High,Medium,commercial,1.0,0.5,0.74,0.8,0.1,2,1,4
+11,architect or interior designer,SUPPORTING,interior designer for home,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,4
+11,architect or interior designer,SUPPORTING,interior designer for shop,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,4
+11,architect or interior designer,SUPPORTING,interior designer for dental clinic,0.632,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,5
+11,architect or interior designer,SUPPORTING,architect or interior designer for renovation,0.631,Medium,Low,commercial,0.7,0.5,0.88,0.8,0.25,1,1,6
+11,architect or interior designer,SUPPORTING,interior designer for restaurant,0.596,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,4
+11,architect or interior designer,SUPPORTING,interior designer for office space,0.59,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,5
+11,architect or interior designer,SUPPORTING,architect or interior designer which is better,0.586,Medium,Low,commercial,0.7,0.5,0.59,0.8,0.25,1,1,7
+11,architect or interior designer,SUPPORTING,an architect or interior designer,0.584,Medium,Low,commercial,0.4,0.5,0.74,0.8,0.1,1,N/A,5
+11,architect or interior designer,SUPPORTING,interior designer for cafe,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+11,architect or interior designer,SUPPORTING,who earns more architect or interior designer,0.57,Medium,Low,commercial,0.7,0.5,0.59,0.8,0.25,1,1,7
+11,architect or interior designer,SUPPORTING,interior designer for office,0.568,Medium,Low,commercial,0.376,0.5,0.6,0.8,0.1,1,10,4
+11,architect or interior designer,SUPPORTING,do i need an architect or interior designer,0.563,Medium,Low,commercial,0.664,0.5,0.59,0.8,0.25,1,2,8
+11,architect or interior designer,SUPPORTING,does an architect or interior designer make more money,0.487,Medium,Low,commercial,0.664,0.5,0.38,0.8,0.25,1,2,9
+11,architect or interior designer,SUPPORTING,should i be an architect or interior designer quiz,0.477,Medium,Low,commercial,0.556,0.5,0.38,0.8,0.25,1,5,9
+11,architect or interior designer,SUPPORTING,designer for men,0.386,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+11,architect or interior designer,SUPPORTING,designer dress for women,0.371,Low,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,4
+11,architect or interior designer,SUPPORTING,designer for women,0.353,Low,Low,commercial,0.52,0.5,0.6,0.8,0.25,1,6,3
+11,architect or interior designer,SUPPORTING,designer dress for girls,0.346,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,4
+45,architect and interior designer delhi,PRIMARY,architect and interior designer delhi,0.649,Medium,Low,local,0.628,0.5,0.74,0.95,0.25,1,3,5
+45,architect and interior designer delhi,SUPPORTING,architect and interior designer in lucknow,0.574,Medium,Low,local,0.484,0.5,0.74,0.95,0.25,1,7,6
+45,architect and interior designer delhi,SUPPORTING,architect and interior designer in jaipur,0.567,Medium,Low,local,0.448,0.5,0.74,0.95,0.25,1,8,6
+45,architect and interior designer delhi,SUPPORTING,architect and interior designer in nagpur,0.557,Medium,Low,local,0.412,0.5,0.74,0.95,0.25,1,9,6
+45,architect and interior designer delhi,SUPPORTING,best architects and interior designer in lucknow,0.553,Medium,Low,local,0.592,0.5,0.59,0.95,0.25,1,4,7
+45,architect and interior designer delhi,SUPPORTING,architect and interior designer in indore,0.55,Medium,Low,local,0.376,0.5,0.74,0.95,0.25,1,10,6
+45,architect and interior designer delhi,SUPPORTING,best architect and interior designer in india,0.531,Medium,Low,local,0.484,0.5,0.59,0.95,0.25,1,7,7
+45,architect and interior designer delhi,SUPPORTING,best architect and interior designers in ahmedabad,0.379,Low,Low,local,0.556,0.5,0.59,0.95,0.25,1,5,7
+42,interior designer meaning in marathi,PRIMARY,interior designer meaning in marathi,0.648,Medium,Low,local,0.592,0.5,0.74,0.95,0.1,1,4,5
+42,interior designer meaning in marathi,SUPPORTING,architect interior designer meaning in hindi,0.616,Medium,Low,local,0.664,0.5,0.74,0.95,0.25,1,2,6
+42,interior designer meaning in marathi,SUPPORTING,interior designer meaning in hindi,0.615,Medium,Low,local,0.448,0.5,0.74,0.95,0.1,1,8,5
+42,interior designer meaning in marathi,SUPPORTING,designer in marathi,0.409,Medium,Low,local,0.7,0.5,0.74,0.95,0.25,1,1,3
+42,interior designer meaning in marathi,SUPPORTING,interior in marathi,0.391,Low,Low,local,0.664,0.5,0.74,0.95,0.25,1,2,3
+20,affordable interior designer nyc,PRIMARY,affordable interior designer nyc,0.623,Medium,Low,transactional,0.412,0.5,0.74,1.0,0.1,1,9,4
+20,affordable interior designer nyc,SUPPORTING,affordable interior designer philippines,0.61,Medium,Low,transactional,0.484,0.5,0.74,1.0,0.1,1,7,4
+20,affordable interior designer nyc,SUPPORTING,affordable interior designers,0.515,Medium,Low,transactional,0.628,0.5,0.74,1.0,0.1,1,3,3
+20,affordable interior designer nyc,SUPPORTING,affordable interior design,0.478,Medium,Low,transactional,0.628,0.5,0.74,1.0,0.25,1,3,3
+20,affordable interior designer nyc,SUPPORTING,affordable interior designers london,0.423,Medium,Low,transactional,0.376,0.5,0.74,1.0,0.1,1,10,4
+34,interior designer in thane,PRIMARY,interior designer in thane,0.715,High,Low,local,0.7,0.5,0.74,0.95,0.1,1,1,4
+34,interior designer in thane,SUPPORTING,top interior designer in nagpur,0.661,High,Low,local,0.556,0.5,0.74,0.95,0.1,1,5,5
+34,interior designer in thane,SUPPORTING,interior designer in thane west,0.661,High,Low,local,0.556,0.5,0.74,0.95,0.1,1,5,5
+34,interior designer in thane,SUPPORTING,top interior designers in pune,0.512,Medium,Low,local,0.664,0.5,0.74,0.95,0.1,1,2,5
+34,interior designer in thane,SUPPORTING,best interior designers in thane,0.509,Medium,Low,local,0.7,0.5,0.74,0.95,0.1,1,1,5
+34,interior designer in thane,SUPPORTING,top interior designers in mumbai,0.509,Medium,Low,local,0.7,0.5,0.74,0.95,0.1,1,1,5
+34,interior designer in thane,SUPPORTING,top interior designers in india,0.498,Medium,Low,local,0.628,0.5,0.74,0.95,0.1,1,3,5
+34,interior designer in thane,SUPPORTING,top interior designers in nashik,0.47,Medium,Low,local,0.52,0.5,0.74,0.95,0.1,1,6,5
+34,interior designer in thane,SUPPORTING,top interior designers in thane,0.468,Medium,Low,local,0.484,0.5,0.74,0.95,0.1,1,7,5
+34,interior designer in thane,SUPPORTING,top interior designers in kolhapur,0.439,Medium,Low,local,0.412,0.5,0.74,0.95,0.1,1,9,5
+34,interior designer in thane,SUPPORTING,top interior designers in mumbai list,0.417,Medium,Low,local,0.376,0.5,0.74,0.95,0.1,1,10,6
+34,interior designer in thane,SUPPORTING,top commercial architects and interior designers in pune,0.375,Low,Low,local,0.592,0.5,0.59,0.95,0.25,1,4,8
+13,interior designer vs architect,PRIMARY,interior designer vs architect,0.69,High,Low,commercial,0.7,0.5,0.74,0.8,0.1,1,1,4
+13,interior designer vs architect,SUPPORTING,interior designer vs interior decorator,0.682,High,Low,commercial,0.664,0.5,0.74,0.8,0.1,1,2,5
+13,interior designer vs architect,SUPPORTING,interior designer vs carpenter,0.661,High,Low,commercial,0.592,0.5,0.74,0.8,0.1,1,4,4
+13,interior designer vs architect,SUPPORTING,interior designer vs interior decorator salary,0.65,High,Low,commercial,0.556,0.5,0.74,0.8,0.1,1,5,6
+13,interior designer vs architect,SUPPORTING,interior designer vs interior stylist,0.639,Medium,Low,commercial,0.52,0.5,0.74,0.8,0.1,1,6,5
+13,interior designer vs architect,SUPPORTING,interior designer vs graphic designer,0.628,Medium,Low,commercial,0.484,0.5,0.74,0.8,0.1,1,7,5
+13,interior designer vs architect,SUPPORTING,interior designer vs architect salary,0.623,Medium,Low,commercial,0.628,0.5,0.74,0.8,0.1,1,3,5
+13,interior designer vs architect,SUPPORTING,interior designer vs contractor,0.617,Medium,Low,commercial,0.448,0.5,0.74,0.8,0.1,1,8,4
+13,interior designer vs architect,SUPPORTING,interior designer vs architect reddit,0.609,Medium,Low,commercial,0.628,0.5,0.74,0.8,0.25,1,3,5
+13,interior designer vs architect,SUPPORTING,interior designer vs engineer,0.607,Medium,Low,commercial,0.412,0.5,0.74,0.8,0.1,1,9,4
+13,interior designer vs architect,SUPPORTING,architect vs interior designer vs engineer,0.606,Medium,Low,commercial,0.7,0.5,0.74,0.8,0.25,1,1,6
+13,interior designer vs architect,SUPPORTING,interior designer vs architectural designer,0.596,Medium,Low,commercial,0.376,0.5,0.74,0.8,0.1,1,10,5
+13,interior designer vs architect,SUPPORTING,architect vs interior designer vs contractor,0.581,Medium,Low,commercial,0.628,0.5,0.74,0.8,0.25,1,3,6
+13,interior designer vs architect,SUPPORTING,architect vs interior designer vs civil engineer,0.547,Medium,Low,commercial,0.664,0.5,0.59,0.8,0.25,1,2,7
+13,interior designer vs architect,SUPPORTING,designer 1 vs designer 2,0.435,Medium,Low,commercial,0.664,0.5,0.74,0.8,0.25,1,2,5
+13,interior designer vs architect,SUPPORTING,interior vs interiors,0.42,Medium,Low,commercial,0.556,0.5,0.74,0.8,0.25,1,5,3
+13,interior designer vs architect,SUPPORTING,interior vs exterior,0.417,Medium,Low,commercial,0.628,0.5,0.74,0.8,0.25,1,3,3
+13,interior designer vs architect,SUPPORTING,interior vs exterior paint,0.413,Medium,Low,commercial,0.7,0.5,0.74,0.8,0.25,1,1,4
+13,interior designer vs architect,SUPPORTING,designer vs designer,0.405,Medium,Low,commercial,0.376,0.5,0.74,0.8,0.25,1,10,3
+13,interior designer vs architect,SUPPORTING,interior vs anterior,0.4,Medium,Low,commercial,0.484,0.5,0.74,0.8,0.25,1,7,3
+13,interior designer vs architect,SUPPORTING,interior vs exterior primer,0.397,Low,Low,commercial,0.592,0.5,0.74,0.8,0.25,1,4,4
+13,interior designer vs architect,SUPPORTING,interior vs exterior placenta,0.385,Low,Low,commercial,0.664,0.5,0.74,0.8,0.25,1,2,4
+13,interior designer vs architect,SUPPORTING,designer vs developer,0.382,Low,Low,commercial,0.664,0.5,0.74,0.8,0.25,1,2,3
+13,interior designer vs architect,SUPPORTING,interior vs internal,0.372,Low,Low,commercial,0.448,0.5,0.74,0.8,0.25,1,8,3
+13,interior designer vs architect,SUPPORTING,interior vs exterior angle,0.369,Low,Low,commercial,0.52,0.5,0.74,0.8,0.25,1,6,4
+13,interior designer vs architect,SUPPORTING,designer vs niche,0.345,Low,Low,commercial,0.484,0.5,0.74,0.8,0.25,1,7,3
+30,interior designer hire,PRIMARY,interior designer hire,0.68,High,Low,transactional,0.7,0.5,0.6,0.9,0.1,1,1,3
+30,interior designer hire,SUPPORTING,why hire interior designer,0.658,High,Low,transactional,0.628,0.5,0.6,0.9,0.1,1,3,4
+30,interior designer hire,SUPPORTING,interior designer hire online,0.658,High,Low,transactional,0.628,0.5,0.6,0.9,0.1,1,3,4
+30,interior designer hire,SUPPORTING,interior designer zirakpur price list,0.64,Medium,Low,transactional,0.592,0.5,0.74,1.0,0.1,1,4,5
+30,interior designer hire,SUPPORTING,interior designer hire reddit,0.637,Medium,Low,transactional,0.556,0.5,0.6,0.9,0.1,1,5,4
+30,interior designer hire,SUPPORTING,interior designer at lowest price,0.608,Medium,Low,transactional,0.412,0.5,0.74,1.0,0.1,1,9,5
+30,interior designer hire,SUPPORTING,hire interior designer for home,0.601,Medium,Low,transactional,0.52,0.5,0.6,0.9,0.25,1,6,5
+30,interior designer hire,SUPPORTING,hire interior designer for apartment,0.59,Medium,Low,transactional,0.556,0.5,0.6,0.9,0.25,1,5,5
+30,interior designer hire,SUPPORTING,designer hire,0.384,Low,Low,transactional,0.7,0.5,0.36,0.9,0.25,1,1,2
+30,interior designer hire,SUPPORTING,interior decorator hire,0.379,Low,Low,transactional,0.52,0.5,0.6,0.9,0.1,1,6,3
+30,interior designer hire,SUPPORTING,designer x hire,0.369,Low,Low,transactional,0.592,0.5,0.6,0.9,0.25,1,4,3
+30,interior designer hire,SUPPORTING,designer hire au,0.35,Low,Low,transactional,0.52,0.5,0.6,0.9,0.25,1,6,3
+30,interior designer hire,SUPPORTING,set designer hire,0.346,Low,Low,transactional,0.484,0.5,0.6,0.9,0.1,1,7,3
+30,interior designer hire,SUPPORTING,designer hire co,0.337,Low,Low,transactional,0.448,0.5,0.6,0.9,0.25,1,8,3
+19,cheap interior designer,PRIMARY,cheap interior designer,0.712,High,Low,transactional,0.664,0.5,0.74,1.0,0.1,1,2,3
+19,cheap interior designer,SUPPORTING,cheap interior designer london,0.645,Medium,Low,transactional,0.448,0.5,0.74,1.0,0.1,1,8,4
+19,cheap interior designer,SUPPORTING,cheap interior designer dubai,0.637,Medium,Low,transactional,0.412,0.5,0.74,1.0,0.1,1,9,4
+19,cheap interior designer,SUPPORTING,cheap interior design,0.522,Medium,Low,transactional,0.664,0.5,0.74,1.0,0.25,1,2,3
+19,cheap interior designer,SUPPORTING,cheap interior design ideas,0.452,Medium,Low,transactional,0.556,0.5,0.74,1.0,0.25,1,5,4
+19,cheap interior designer,SUPPORTING,cheap designer,0.383,Low,Low,transactional,0.592,0.5,0.5,1.0,0.25,1,4,2
+19,cheap interior designer,SUPPORTING,cheap interior,0.383,Low,Low,transactional,0.592,0.5,0.5,1.0,0.25,1,4,2
+19,cheap interior designer,SUPPORTING,cheap interior doors,0.357,Low,Low,transactional,0.412,0.5,0.74,1.0,0.25,1,9,3
+29,interior designer tds rate,PRIMARY,interior designer tds rate,0.626,Medium,Low,transactional,0.376,0.5,0.74,1.0,0.1,1,10,4
+29,interior designer tds rate,SUPPORTING,interior gst rate,0.38,Low,Low,transactional,0.592,0.5,0.74,1.0,0.25,1,4,3
+16,when to hire interior designer,PRIMARY,when to hire interior designer,0.634,Medium,Low,transactional,0.592,0.5,0.6,0.9,0.1,1,4,5
+16,when to hire interior designer,SUPPORTING,where to hire interior designer,0.618,Medium,Low,transactional,0.592,0.5,0.6,0.9,0.1,1,4,5
+16,when to hire interior designer,SUPPORTING,hire interior design student,0.381,Low,Low,transactional,0.376,0.5,0.6,0.9,0.25,1,10,4
+16,when to hire interior designer,SUPPORTING,hire interior painter,0.361,Low,Low,transactional,0.412,0.5,0.6,0.9,0.25,1,9,3
+39,interior designer mumbai,PRIMARY,interior designer mumbai,0.715,High,Low,local,0.7,0.5,0.74,0.95,0.1,1,1,3
+39,interior designer mumbai,SUPPORTING,best interior designer mumbai,0.694,High,Low,local,0.628,0.5,0.74,0.95,0.1,1,3,4
+39,interior designer mumbai,SUPPORTING,interior designer course mumbai,0.674,High,Low,local,0.592,0.5,0.74,0.95,0.1,1,4,4
+39,interior designer mumbai,SUPPORTING,interior designer mumbai contact number,0.578,Medium,Low,local,0.412,0.5,0.74,0.95,0.1,1,9,5
+39,interior designer mumbai,SUPPORTING,a to z interior designer new delhi reviews,0.561,Medium,Low,local,0.52,0.5,0.59,0.95,0.1,1,6,8
+39,interior designer mumbai,SUPPORTING,best interior designers in pune,0.491,Medium,Low,local,0.592,0.5,0.74,0.95,0.1,1,4,5
+39,interior designer mumbai,SUPPORTING,best interior designers in mumbai,0.473,Medium,Low,local,0.556,0.5,0.74,0.95,0.1,1,5,5
+39,interior designer mumbai,SUPPORTING,best interior designers in nagpur,0.458,Medium,Low,local,0.484,0.5,0.74,0.95,0.1,1,7,5
+39,interior designer mumbai,SUPPORTING,best interior designers in nashik,0.451,Medium,Low,local,0.448,0.5,0.74,0.95,0.1,1,8,5
+39,interior designer mumbai,SUPPORTING,who is best interior designers in india,0.427,Medium,Low,local,0.556,0.5,0.59,0.95,0.1,1,5,7
+39,interior designer mumbai,SUPPORTING,best interior designers in pune with price,0.398,Low,Low,local,0.376,0.5,0.73,0.95,0.1,1,10,7
+39,interior designer mumbai,SUPPORTING,best designer in india,0.388,Low,Low,local,0.628,0.5,0.74,0.95,0.25,1,3,4
+39,interior designer mumbai,SUPPORTING,designer mumbai,0.383,Low,Low,local,0.664,0.5,0.5,0.95,0.25,1,2,2
+39,interior designer mumbai,SUPPORTING,interior mumbai,0.377,Low,Low,local,0.628,0.5,0.5,0.95,0.25,1,3,2
+39,interior designer mumbai,SUPPORTING,who is the best interior designers in bangalore,0.372,Low,Low,local,0.412,0.5,0.59,0.95,0.1,1,9,8
+26,interior designer services,PRIMARY,interior designer services,0.68,High,Low,transactional,0.7,0.5,0.6,0.9,0.1,1,1,3
+26,interior designer services,SUPPORTING,interior designer services list,0.639,Medium,Low,transactional,0.592,0.5,0.6,0.9,0.1,1,4,4
+26,interior designer services,SUPPORTING,e interior design services,0.461,Medium,Low,transactional,0.664,0.5,0.6,0.9,0.1,1,2,4
+26,interior designer services,SUPPORTING,j interior design services,0.453,Medium,Low,transactional,0.628,0.5,0.6,0.9,0.1,1,3,4
+26,interior designer services,SUPPORTING,designer services inc,0.371,Low,Low,transactional,0.664,0.5,0.6,0.9,0.25,1,2,3
+26,interior designer services,SUPPORTING,designer services,0.356,Low,Low,transactional,0.7,0.5,0.36,0.9,0.25,1,1,2
+26,interior designer services,SUPPORTING,interior services,0.356,Low,Low,transactional,0.7,0.5,0.36,0.9,0.25,1,1,2
+41,affordable interior designers in mumbai,PRIMARY,affordable interior designers in mumbai,0.496,Medium,Low,local,0.7,0.5,0.88,0.95,0.1,1,1,5
+41,affordable interior designers in mumbai,SUPPORTING,affordable interior designers near me,0.486,Medium,Low,local,0.664,0.5,0.88,0.95,0.1,1,2,5
+41,affordable interior designers in mumbai,SUPPORTING,affordable interior designers in chennai,0.464,Medium,Low,local,0.556,0.5,0.88,0.95,0.1,1,5,5
+41,affordable interior designers in mumbai,SUPPORTING,affordable interior designers in hyderabad,0.464,Medium,Low,local,0.592,0.5,0.88,0.95,0.1,1,4,5
+41,affordable interior designers in mumbai,SUPPORTING,d interio interior designers in hyderabad,0.459,Medium,Low,local,0.412,0.5,0.74,0.95,0.1,1,9,6
+41,affordable interior designers in mumbai,SUPPORTING,affordable interior designers in bangalore,0.45,Medium,Low,local,0.52,0.5,0.88,0.95,0.1,1,6,5
+44,is interior designer in demand,PRIMARY,is interior designer in demand,0.672,High,Low,local,0.556,0.5,0.74,0.95,0.1,1,5,5
+44,is interior designer in demand,SUPPORTING,how interior designer charge in india,0.658,High,Low,local,0.664,0.5,0.74,0.95,0.1,1,2,6
+44,is interior designer in demand,SUPPORTING,interior designer fees in india,0.65,High,Low,local,0.52,0.5,0.74,0.95,0.1,1,6,5
+44,is interior designer in demand,SUPPORTING,is interior designer a good career in india,0.59,Medium,Low,local,0.592,0.5,0.59,0.95,0.1,1,4,8
+44,is interior designer in demand,SUPPORTING,h interior design pune,0.513,Medium,Low,local,0.664,0.5,0.74,0.95,0.1,1,2,4
+44,is interior designer in demand,SUPPORTING,b interior design bangalore,0.457,Medium,Low,local,0.556,0.5,0.74,0.95,0.1,1,5,4
+44,is interior designer in demand,SUPPORTING,what interior design is in style,0.409,Medium,Low,local,0.412,0.5,0.74,0.95,0.1,1,9,6
+44,is interior designer in demand,SUPPORTING,is interior design a good career in india,0.408,Medium,Low,local,0.628,0.5,0.59,0.95,0.25,1,3,8
+44,is interior designer in demand,SUPPORTING,what is a sidemark in interior design,0.404,Medium,Low,local,0.592,0.5,0.59,0.95,0.1,1,4,7
+44,is interior designer in demand,SUPPORTING,top interior design companies in india,0.403,Medium,Low,local,0.52,0.5,0.74,0.95,0.25,1,6,6
+44,is interior designer in demand,SUPPORTING,top architecture interior design in trivandrum,0.395,Low,Low,local,0.628,0.5,0.74,0.95,0.25,1,3,6
+44,is interior designer in demand,SUPPORTING,interior design colleges in mumbai,0.387,Low,Low,local,0.376,0.5,0.74,0.95,0.25,1,10,5
+44,is interior designer in demand,SUPPORTING,top interior design colleges in india,0.386,Low,Low,local,0.412,0.5,0.74,0.95,0.25,1,9,6
+44,is interior designer in demand,SUPPORTING,architecture interior design company in dubai,0.353,Low,Low,local,0.376,0.5,0.74,0.95,0.25,1,10,6
+44,is interior designer in demand,SUPPORTING,does interior design have scope in future,0.344,Low,Low,local,0.376,0.5,0.59,0.95,0.25,1,10,7
+8,lt interior designer jobs,PRIMARY,lt interior designer jobs,0.643,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,4
+8,lt interior designer jobs,SUPPORTING,architect interior designer jobs,0.626,Medium,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,4
+8,lt interior designer jobs,SUPPORTING,ffe interior designer jobs,0.579,Medium,Low,commercial,0.412,0.5,0.6,0.8,0.1,1,9,4
+8,lt interior designer jobs,SUPPORTING,ux designer jobs,0.36,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+8,lt interior designer jobs,SUPPORTING,designer jobs,0.335,Low,Low,commercial,0.484,0.5,0.36,0.8,0.25,1,7,2
+8,lt interior designer jobs,SUPPORTING,designer i jobs,0.335,Low,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,3
+8,lt interior designer jobs,SUPPORTING,pid designer jobs,0.329,Low,Low,commercial,0.484,0.5,0.6,0.8,0.25,1,7,3
+32,interior designer navi mumbai,PRIMARY,interior designer navi mumbai,0.672,High,Low,local,0.556,0.5,0.74,0.95,0.1,1,5,4
+32,interior designer navi mumbai,SUPPORTING,interior designer ulwe navi mumbai,0.647,Medium,Low,local,0.592,0.5,0.74,0.95,0.1,1,4,5
+32,interior designer navi mumbai,SUPPORTING,interior designer in navi mumbai,0.603,Medium,Low,local,0.376,0.5,0.74,0.95,0.1,1,10,5
+32,interior designer navi mumbai,SUPPORTING,the interior designers mumbai,0.457,Medium,Low,local,0.412,0.5,0.74,0.95,0.1,1,9,4
+32,interior designer navi mumbai,SUPPORTING,interior designers in navi mumbai,0.451,Medium,Low,local,0.448,0.5,0.74,0.95,0.1,1,8,5
+32,interior designer navi mumbai,SUPPORTING,top interior designers in navi mumbai,0.432,Medium,Low,local,0.448,0.5,0.74,0.95,0.1,1,8,6
+32,interior designer navi mumbai,SUPPORTING,best interior designers in navi mumbai,0.421,Medium,Low,local,0.412,0.5,0.74,0.95,0.1,1,9,6
+32,interior designer navi mumbai,SUPPORTING,u i spaces interior designers in pune reviews,0.412,Medium,Low,local,0.628,0.5,0.59,0.95,0.1,1,3,8
+32,interior designer navi mumbai,SUPPORTING,u i spaces interior designers in pune baner,0.4,Medium,Low,local,0.412,0.5,0.59,0.95,0.1,1,9,8
+32,interior designer navi mumbai,SUPPORTING,u i spaces interior designers in pune photos,0.395,Low,Low,local,0.52,0.5,0.59,0.95,0.1,1,6,8
+32,interior designer navi mumbai,SUPPORTING,u i spaces interior designers in pune by owner,0.378,Low,Low,local,0.484,0.5,0.38,0.95,0.1,1,7,9
+32,interior designer navi mumbai,SUPPORTING,d life interior designers in whitefield bangalore,0.375,Low,Low,local,0.448,0.5,0.59,0.95,0.1,1,8,7
+32,interior designer navi mumbai,SUPPORTING,n arch interior designers architects firm pune,0.371,Low,Low,local,0.52,0.5,0.59,0.95,0.1,1,6,7
+32,interior designer navi mumbai,SUPPORTING,architecture interior design in navi mumbai,0.358,Low,Low,local,0.376,0.5,0.74,0.95,0.25,1,10,6
+12,interior designer logo,PRIMARY,interior designer logo,0.654,High,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+12,interior designer logo,SUPPORTING,interior designer logo ideas,0.633,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,4
+12,interior designer logo,SUPPORTING,architect and interior designer logo,0.536,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,5
+12,interior designer logo,SUPPORTING,s designer logo,0.373,Low,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,3
+12,interior designer logo,SUPPORTING,a designer logo,0.367,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+12,interior designer logo,SUPPORTING,c designer logo,0.36,Low,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,3
+12,interior designer logo,SUPPORTING,h designer logo,0.36,Low,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,3
+12,interior designer logo,SUPPORTING,t designer logo,0.36,Low,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,3
+12,interior designer logo,SUPPORTING,f designer logo,0.354,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,3
+27,where interior designers buy art,PRIMARY,where interior designers buy art,0.466,Medium,Low,transactional,0.664,0.5,0.6,0.9,0.1,1,2,5
+27,where interior designers buy art,SUPPORTING,what interior designers do not buy,0.447,Medium,Low,transactional,0.628,0.5,0.6,0.9,0.1,1,3,6
+27,where interior designers buy art,SUPPORTING,do interior designers buy furniture,0.394,Low,Low,transactional,0.376,0.5,0.6,0.9,0.1,1,10,5
+22,architect interior design cost,PRIMARY,architect interior design cost,0.465,Medium,Low,transactional,0.7,0.5,0.74,1.0,0.25,1,1,4
+22,architect interior design cost,SUPPORTING,architecture interior design cost,0.444,Medium,Low,transactional,0.664,0.5,0.74,1.0,0.25,1,2,4
+22,architect interior design cost,SUPPORTING,interior design at low cost,0.422,Medium,Low,transactional,0.376,0.5,0.74,1.0,0.1,1,10,5
+22,architect interior design cost,SUPPORTING,does interior design cost include furniture,0.395,Low,Low,transactional,0.556,0.5,0.74,1.0,0.25,1,5,6
+22,architect interior design cost,SUPPORTING,architecture interior design book,0.389,Low,Low,transactional,0.52,0.5,0.6,0.9,0.25,1,6,4
+10,which interior designer,PRIMARY,which interior designer,0.665,High,Low,commercial,0.7,0.5,0.6,0.8,0.1,1,1,3
+10,which interior designer,SUPPORTING,is interior designer a good career,0.622,Medium,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,6
+10,which interior designer,SUPPORTING,which interior design app is best,0.404,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,6
+10,which interior designer,SUPPORTING,which interior design ai is best,0.394,Low,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,6
+10,which interior designer,SUPPORTING,which interior design company is good,0.393,Low,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,6
+10,which interior designer,SUPPORTING,which is best interior design or architecture,0.352,Low,Low,commercial,0.556,0.5,0.59,0.8,0.25,1,5,7
+10,which interior designer,SUPPORTING,interior company,0.34,Low,Low,commercial,0.628,0.5,0.36,0.8,0.25,1,3,2
+10,which interior designer,SUPPORTING,which interior design software is the best,0.336,Low,Low,commercial,0.52,0.5,0.45,0.8,0.1,1,6,7
+10,which interior designer,SUPPORTING,which interior design company is best,0.334,Low,Low,commercial,0.376,0.5,0.6,0.8,0.25,1,10,6
+10,which interior designer,SUPPORTING,when is designer day,0.331,Low,Low,commercial,0.484,0.5,0.6,0.8,0.25,1,7,4
+21,interior design design fee,PRIMARY,interior design design fee,0.487,Medium,Low,transactional,0.448,0.5,0.74,1.0,0.1,1,8,4
+21,interior design design fee,SUPPORTING,architectural interior design services,0.405,Medium,Low,transactional,0.7,0.5,0.6,0.9,0.25,1,1,4
+21,interior design design fee,SUPPORTING,architectural interior design fee,0.403,Medium,Low,transactional,0.448,0.5,0.74,1.0,0.25,1,8,4
+21,interior design design fee,SUPPORTING,architectural interior design fee philippines,0.375,Low,Low,transactional,0.52,0.5,0.74,1.0,0.25,1,6,5
+49,t interior design studio,PRIMARY,t interior design studio,0.444,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,4
+49,t interior design studio,SUPPORTING,k interior design studio,0.436,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,4
+49,t interior design studio,SUPPORTING,z interior design studio,0.436,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,4
+49,t interior design studio,SUPPORTING,d interior design studio,0.428,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,4
+49,t interior design studio,SUPPORTING,v interior design studio,0.428,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,4
+49,t interior design studio,SUPPORTING,b interior design studio,0.428,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,4
+49,t interior design studio,SUPPORTING,a interior design studio,0.421,Medium,Low,informational,0.592,0.5,0.6,0.55,0.1,1,4,4
+49,t interior design studio,SUPPORTING,m interior design studio,0.398,Low,Low,informational,0.484,0.5,0.6,0.55,0.1,1,7,4
+49,t interior design studio,SUPPORTING,r interior design studio pte ltd,0.363,Low,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,6
+49,t interior design studio,SUPPORTING,architecture interior design studio,0.363,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,4
+28,cheap interior designers cape town,PRIMARY,cheap interior designers cape town,0.427,Medium,Low,transactional,0.376,0.5,0.74,1.0,0.1,1,10,5
+28,cheap interior designers cape town,SUPPORTING,affordable interior designers cape town,0.422,Medium,Low,transactional,0.448,0.5,0.74,1.0,0.1,1,8,5
+28,cheap interior designers cape town,SUPPORTING,how interior designers charge for their services,0.389,Low,Low,transactional,0.628,0.5,0.45,0.9,0.1,1,3,7
+53,how interior design,PRIMARY,how interior design,0.466,Medium,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,3
+53,how interior design,SUPPORTING,how interior designers charge,0.432,Medium,Low,informational,0.592,0.5,0.6,0.55,0.1,1,4,4
+53,how interior design,SUPPORTING,how interior design app,0.38,Low,Low,informational,0.376,0.5,0.6,0.55,0.1,1,10,4
+53,how interior design,SUPPORTING,how interior design ideas,0.377,Low,Low,informational,0.412,0.5,0.6,0.55,0.1,1,9,4
+53,how interior design,SUPPORTING,how interior,0.347,Low,Low,informational,0.628,0.5,0.36,0.55,0.25,1,3,2
+51,gen z interior designers,PRIMARY,gen z interior designers,0.47,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,4
+51,gen z interior designers,SUPPORTING,m interior designers photos,0.459,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,4
+51,gen z interior designers,SUPPORTING,where interior designers shop,0.456,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,4
+51,gen z interior designers,SUPPORTING,where do interior designers,0.451,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,4
+51,gen z interior designers,SUPPORTING,do interior designers,0.444,Medium,Low,informational,0.412,0.5,0.6,0.55,0.1,1,9,3
+51,gen z interior designers,SUPPORTING,m interior designers guntur,0.435,Medium,Low,informational,0.556,0.5,0.6,0.55,0.1,1,5,4
+51,gen z interior designers,SUPPORTING,types of interior designers,0.427,Medium,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,4
+51,gen z interior designers,SUPPORTING,what interior designers do,0.424,Medium,Low,informational,0.484,0.5,0.6,0.55,0.1,1,7,4
+51,gen z interior designers,SUPPORTING,l elephant interior designers,0.424,Medium,Low,informational,0.556,0.5,0.6,0.55,0.1,1,5,4
+51,gen z interior designers,SUPPORTING,j dezign interior designers photos,0.424,Medium,Low,informational,0.592,0.5,0.6,0.55,0.1,1,4,5
+51,gen z interior designers,SUPPORTING,jobs with interior designers,0.421,Medium,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,4
+51,gen z interior designers,SUPPORTING,who do interior designers do,0.418,Medium,Low,informational,0.592,0.5,0.6,0.55,0.1,1,4,5
+51,gen z interior designers,SUPPORTING,famous architect interior designers,0.417,Medium,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,4
+51,gen z interior designers,SUPPORTING,m interior designers guntur photos,0.414,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,5
+51,gen z interior designers,SUPPORTING,when do interior designers get paid,0.414,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,6
+51,gen z interior designers,SUPPORTING,north shore interior designers,0.404,Medium,Low,informational,0.484,0.5,0.6,0.55,0.1,1,7,4
+51,gen z interior designers,SUPPORTING,do interior designers need a degree,0.401,Medium,Low,informational,0.556,0.5,0.6,0.55,0.1,1,5,6
+51,gen z interior designers,SUPPORTING,who are famous interior designers,0.395,Low,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,5
+51,gen z interior designers,SUPPORTING,j dezign interior designers coimbatore,0.395,Low,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,5
+51,gen z interior designers,SUPPORTING,h much do interior designers make,0.393,Low,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,6
+51,gen z interior designers,SUPPORTING,do interior designers make good money,0.393,Low,Low,informational,0.592,0.5,0.6,0.55,0.1,1,4,6
+51,gen z interior designers,SUPPORTING,north east interior designers,0.385,Low,Low,informational,0.376,0.5,0.6,0.55,0.1,1,10,4
+51,gen z interior designers,SUPPORTING,do interior designers make money,0.384,Low,Low,informational,0.448,0.5,0.6,0.55,0.1,1,8,5
+51,gen z interior designers,SUPPORTING,north carolina interior designers,0.384,Low,Low,informational,0.448,0.5,0.6,0.55,0.1,1,8,4
+51,gen z interior designers,SUPPORTING,do interior designers need a license,0.382,Low,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,6
+51,gen z interior designers,SUPPORTING,t scale architects interior designers,0.381,Low,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,5
+51,gen z interior designers,SUPPORTING,n arch interior designers architects,0.372,Low,Low,informational,0.556,0.5,0.6,0.55,0.1,1,5,5
+51,gen z interior designers,SUPPORTING,who much do interior designers make,0.371,Low,Low,informational,0.448,0.5,0.6,0.55,0.1,1,8,6
+51,gen z interior designers,SUPPORTING,who do interior designers work with,0.368,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,6
+51,gen z interior designers,SUPPORTING,j dezign interior designers coimbatore photos,0.366,Low,Low,informational,0.484,0.5,0.6,0.55,0.1,1,7,6
+51,gen z interior designers,SUPPORTING,t scale architects interior designers ballari,0.348,Low,Low,informational,0.484,0.5,0.6,0.55,0.1,1,7,6
+51,gen z interior designers,SUPPORTING,do architects or interior designers make more money,0.348,Low,Low,informational,0.628,0.5,0.59,0.55,0.25,1,3,8
+51,gen z interior designers,SUPPORTING,do interior designers make a lot of money,0.337,Low,Low,informational,0.484,0.5,0.45,0.55,0.1,1,7,8
+51,gen z interior designers,SUPPORTING,do architects or interior designers get paid more,0.334,Low,Low,informational,0.484,0.5,0.59,0.55,0.25,1,7,8
+51,gen z interior designers,SUPPORTING,minterior designers,0.332,Low,Low,informational,0.7,0.5,0.36,0.55,0.1,1,1,2
+50,e interior design,PRIMARY,e interior design,0.505,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,3
+50,e interior design,SUPPORTING,c interior design,0.505,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,3
+50,e interior design,SUPPORTING,f interior design,0.505,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,3
+50,e interior design,SUPPORTING,g interior design,0.505,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,3
+50,e interior design,SUPPORTING,h interior design,0.505,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,3
+50,e interior design,SUPPORTING,l interior design,0.505,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,3
+50,e interior design,SUPPORTING,p interior design,0.505,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,3
+50,e interior design,SUPPORTING,u interior design,0.505,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,3
+50,e interior design,SUPPORTING,x interior design,0.505,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,3
+50,e interior design,SUPPORTING,w interior design,0.505,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,3
+50,e interior design,SUPPORTING,y interior design,0.505,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,3
+50,e interior design,SUPPORTING,j interior design,0.497,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,3
+50,e interior design,SUPPORTING,q interior design,0.497,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,3
+50,e interior design,SUPPORTING,of interior design,0.495,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,3
+50,e interior design,SUPPORTING,b interior design,0.493,Medium,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,3
+50,e interior design,SUPPORTING,i interior design,0.493,Medium,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,3
+50,e interior design,SUPPORTING,m interior design,0.493,Medium,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,3
+50,e interior design,SUPPORTING,d interior design,0.485,Medium,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,3
+50,e interior design,SUPPORTING,r interior design,0.485,Medium,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,3
+50,e interior design,SUPPORTING,s interior design,0.485,Medium,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,3
+50,e interior design,SUPPORTING,v interior design,0.485,Medium,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,3
+50,e interior design,SUPPORTING,z interior design,0.485,Medium,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,3
+50,e interior design,SUPPORTING,interior design,0.483,Medium,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+50,e interior design,SUPPORTING,n interior design,0.476,Medium,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,3
+50,e interior design,SUPPORTING,k interior design,0.467,Medium,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,3
+50,e interior design,SUPPORTING,ke interior design,0.461,Medium,Low,informational,0.556,0.5,0.6,0.55,0.1,1,5,3
+50,e interior design,SUPPORTING,why interior design,0.449,Medium,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,3
+50,e interior design,SUPPORTING,interior design spec,0.445,Medium,Low,informational,0.556,0.5,0.6,0.55,0.1,1,5,3
+50,e interior design,SUPPORTING,e interior design jobs,0.441,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,4
+50,e interior design,SUPPORTING,b interior design course,0.436,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,4
+50,e interior design,SUPPORTING,r interior design renovation,0.433,Medium,Low,informational,0.664,0.5,0.74,0.55,0.1,1,2,4
+50,e interior design,SUPPORTING,interior design ai,0.432,Medium,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,3
+50,e interior design,SUPPORTING,rstudio interior design,0.432,Medium,Low,informational,0.592,0.5,0.6,0.55,0.1,1,4,3
+50,e interior design,SUPPORTING,interior design exam,0.428,Medium,Low,informational,0.484,0.5,0.6,0.55,0.1,1,7,3
+50,e interior design,SUPPORTING,n interior design photos,0.428,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,4
+50,e interior design,SUPPORTING,p square interior design,0.428,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,4
+50,e interior design,SUPPORTING,k interior design group,0.427,Medium,Low,informational,0.592,0.5,0.6,0.55,0.1,1,4,4
+50,e interior design,SUPPORTING,d's interior design photos,0.425,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,4
+50,e interior design,SUPPORTING,u home interior design,0.423,Medium,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,4
+50,e interior design,SUPPORTING,interior design courses,0.421,Medium,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,3
+50,e interior design,SUPPORTING,c interior design stockholm,0.419,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,4
+50,e interior design,SUPPORTING,m interior design renovation,0.419,Medium,Low,informational,0.592,0.5,0.74,0.55,0.1,1,4,4
+50,e interior design,SUPPORTING,interior design without website,0.419,Medium,Low,informational,0.664,0.5,0.74,0.55,0.1,1,2,4
+50,e interior design,SUPPORTING,electronic interior design,0.415,Medium,Low,informational,0.592,0.5,0.6,0.55,0.1,1,4,3
+50,e interior design,SUPPORTING,l interior design wadebridge,0.414,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,4
+50,e interior design,SUPPORTING,is architecture or interior design better,0.412,Medium,Low,informational,0.7,0.5,0.74,0.55,0.25,1,1,6
+50,e interior design,SUPPORTING,interior design without wood,0.411,Medium,Low,informational,0.556,0.5,0.74,0.55,0.1,1,5,4
+50,e interior design,SUPPORTING,p interior design architecture,0.405,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,4
+50,e interior design,SUPPORTING,y interior design 好 唔 好,0.404,Medium,Low,informational,0.556,0.5,0.6,0.55,0.1,1,5,6
+50,e interior design,SUPPORTING,architectural design or interior design,0.404,Medium,Low,informational,0.52,0.5,0.74,0.55,0.25,1,6,5
+50,e interior design,SUPPORTING,interior x design gurgaon,0.402,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,4
+50,e interior design,SUPPORTING,m architecture interior design,0.402,Medium,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,4
+50,e interior design,SUPPORTING,what interior design,0.4,Medium,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,3
+50,e interior design,SUPPORTING,g interior design construction,0.398,Low,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,4
+50,e interior design,SUPPORTING,architecture or interior design reddit,0.397,Low,Low,informational,0.7,0.5,0.74,0.55,0.25,1,1,5
+50,e interior design,SUPPORTING,b arch interior design salary,0.396,Low,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,5
+50,e interior design,SUPPORTING,i interior design photos,0.395,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,4
+50,e interior design,SUPPORTING,b interior design syllabus,0.395,Low,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,4
+50,e interior design,SUPPORTING,interior y design chillan,0.395,Low,Low,informational,0.592,0.5,0.6,0.55,0.1,1,4,4
+50,e interior design,SUPPORTING,is architecture or interior design harder,0.395,Low,Low,informational,0.664,0.5,0.74,0.55,0.25,1,2,6
+50,e interior design,SUPPORTING,interior design without pop,0.394,Low,Low,informational,0.448,0.5,0.74,0.55,0.1,1,8,4
+50,e interior design,SUPPORTING,interior design summary,0.393,Low,Low,informational,0.412,0.5,0.6,0.55,0.1,1,9,3
+50,e interior design,SUPPORTING,b interior design course fees,0.392,Low,Low,informational,0.592,0.5,0.6,0.55,0.1,1,4,5
+50,e interior design,SUPPORTING,architecture interior design ai,0.391,Low,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,4
+50,e interior design,SUPPORTING,k drama interior design,0.388,Low,Low,informational,0.412,0.5,0.6,0.55,0.1,1,9,4
+50,e interior design,SUPPORTING,interior design online course,0.388,Low,Low,informational,0.556,0.5,0.6,0.55,0.1,1,5,4
+50,e interior design,SUPPORTING,interior design examples,0.387,Low,Low,informational,0.412,0.5,0.6,0.55,0.1,1,9,3
+50,e interior design,SUPPORTING,interior design without degree,0.387,Low,Low,informational,0.484,0.5,0.74,0.55,0.25,1,7,4
+50,e interior design,SUPPORTING,architecture interior design ltd,0.387,Low,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,4
+50,e interior design,SUPPORTING,architecture interior design degree,0.386,Low,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,4
+50,e interior design,SUPPORTING,architecture interior design terms,0.383,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,4
+50,e interior design,SUPPORTING,interior design without furniture,0.383,Low,Low,informational,0.52,0.5,0.74,0.55,0.1,1,6,4
+50,e interior design,SUPPORTING,architecture interior design office,0.383,Low,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,4
+50,e interior design,SUPPORTING,gen z interior design,0.381,Low,Low,informational,0.376,0.5,0.6,0.55,0.25,1,10,4
+50,e interior design,SUPPORTING,b arch interior design colleges,0.381,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,5
+50,e interior design,SUPPORTING,architecture interior design types,0.38,Low,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,4
+50,e interior design,SUPPORTING,interior design without plaster ceiling,0.379,Low,Low,informational,0.484,0.5,0.74,0.55,0.1,1,7,5
+50,e interior design,SUPPORTING,interior design without false ceiling,0.379,Low,Low,informational,0.592,0.5,0.74,0.55,0.1,1,4,5
+50,e interior design,SUPPORTING,architecture interior design online,0.376,Low,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,4
+50,e interior design,SUPPORTING,interior design without rugs,0.375,Low,Low,informational,0.376,0.5,0.74,0.55,0.1,1,10,4
+50,e interior design,SUPPORTING,interior design explained,0.374,Low,Low,informational,0.376,0.5,0.6,0.55,0.1,1,10,3
+50,e interior design,SUPPORTING,architecture interior design internships,0.371,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,4
+50,e interior design,SUPPORTING,interior design without ceiling,0.37,Low,Low,informational,0.412,0.5,0.74,0.55,0.1,1,9,4
+50,e interior design,SUPPORTING,architecture interior design university,0.37,Low,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,4
+50,e interior design,SUPPORTING,architecture and interior design games,0.37,Low,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,5
+50,e interior design,SUPPORTING,b arch interior design course,0.368,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,5
+50,e interior design,SUPPORTING,architecture interior design karachi,0.367,Low,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,4
+50,e interior design,SUPPORTING,architecture interior design,0.366,Low,Low,informational,0.4,0.5,0.6,0.55,0.1,1,N/A,3
+50,e interior design,SUPPORTING,architecture interior design firms,0.366,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,4
+50,e interior design,SUPPORTING,i interior design singapore,0.365,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,4
+50,e interior design,SUPPORTING,architecture interior design technology,0.365,Low,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,4
+50,e interior design,SUPPORTING,architecture and interior design qut,0.363,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,5
+50,e interior design,SUPPORTING,architecture interior and design,0.363,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,4
+50,e interior design,SUPPORTING,architecture and interior design guide,0.363,Low,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,5
+50,e interior design,SUPPORTING,b arch interior design course fees,0.36,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,6
+50,e interior design,SUPPORTING,architecture interior design for house,0.36,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,5
+50,e interior design,SUPPORTING,architecture interior design landscape,0.36,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,4
+50,e interior design,SUPPORTING,architecture interior design of house,0.36,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,5
+50,e interior design,SUPPORTING,architecture and interior design quotes,0.36,Low,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,5
+50,e interior design,SUPPORTING,interior design specification,0.357,Low,Low,informational,0.376,0.5,0.6,0.55,0.1,1,10,3
+50,e interior design,SUPPORTING,architecture interior design books pdf,0.357,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,5
+50,e interior design,SUPPORTING,b arch interior design eligibility,0.356,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,5
+50,e interior design,SUPPORTING,architecture interior design photos,0.356,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,4
+50,e interior design,SUPPORTING,architecture interior design schools,0.353,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,4
+50,e interior design,SUPPORTING,architecture and interior design difference,0.353,Low,Low,informational,0.592,0.5,0.74,0.55,0.25,1,4,5
+50,e interior design,SUPPORTING,architecture interior design birmingham,0.351,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,4
+50,e interior design,SUPPORTING,architecture interior design high school,0.351,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,5
+50,e interior design,SUPPORTING,architecture interior design major,0.348,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,4
+50,e interior design,SUPPORTING,interior design courses fees,0.346,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,4
+50,e interior design,SUPPORTING,architecture interior design websites,0.344,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,4
+50,e interior design,SUPPORTING,architecture interior design colleges,0.343,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,4
+50,e interior design,SUPPORTING,architecture interior design magazine,0.343,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,4
+50,e interior design,SUPPORTING,architecture interior design programs,0.343,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,4
+50,e interior design,SUPPORTING,architecture and interior design guide pdf,0.343,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,6
+50,e interior design,SUPPORTING,architecture and interior design news,0.34,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,5
+50,e interior design,SUPPORTING,architecture interior design html template,0.34,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,5
+50,e interior design,SUPPORTING,architecture and interior design diploma,0.338,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,5
+50,e interior design,SUPPORTING,architecture interior design malaysia,0.336,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,4
+50,e interior design,SUPPORTING,architecture interior design pdf,0.331,Low,Low,informational,0.376,0.5,0.6,0.55,0.25,1,10,4
+50,e interior design,SUPPORTING,architecture interior design consultant,0.331,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,4
+50,e interior design,SUPPORTING,architecture interior design excellence awards,0.33,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,5
+50,e interior design,SUPPORTING,architecture interior design free,0.328,Low,Low,informational,0.376,0.5,0.6,0.55,0.25,1,10,4
+50,e interior design,SUPPORTING,b arch interior design course duration,0.328,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,6
+50,e interior design,SUPPORTING,architecture interior design meaning,0.326,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,4
+50,e interior design,SUPPORTING,lana architecture interior design office,0.325,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,5
+50,e interior design,SUPPORTING,architecture and interior design hodge hill,0.322,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,6
+50,e interior design,SUPPORTING,architecture interior design wordpress theme,0.322,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,5
+50,e interior design,SUPPORTING,architecture and interior design hsn code,0.321,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,6
+50,e interior design,SUPPORTING,sadda architecture interior design and build,0.32,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,6
+50,e interior design,SUPPORTING,architecture and interior design bachelor,0.319,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,5
+50,e interior design,SUPPORTING,architecture interior house design,0.317,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,4
+50,e interior design,SUPPORTING,architecture and interior design hashtags,0.317,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,5
+50,e interior design,SUPPORTING,architecture interior design photography,0.316,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,4
+50,e interior design,SUPPORTING,architecture and interior design naics code,0.316,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,6
+50,e interior design,SUPPORTING,architecture and interior design remote jobs,0.314,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,6
+50,e interior design,SUPPORTING,architecture interior design construction,0.313,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,4
+50,e interior design,SUPPORTING,aido architecture interior design office,0.313,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,5
+50,e interior design,SUPPORTING,architecture interior design courses online,0.312,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,5
+50,e interior design,SUPPORTING,architecture and interior design exhibition,0.312,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,5
+50,e interior design,SUPPORTING,architecture interior design birmingham photos,0.312,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,5
+50,e interior design,SUPPORTING,architecture and interior design history,0.306,Low,Low,informational,0.376,0.5,0.6,0.55,0.25,1,10,5
+50,e interior design,SUPPORTING,architecture and interior design business,0.304,Low,Low,informational,0.376,0.5,0.6,0.55,0.25,1,10,5
+2,interior design review center,PRIMARY,interior design review center,0.466,Medium,Low,commercial,0.628,0.5,0.6,0.8,0.1,1,3,4
+2,interior design review center,SUPPORTING,architecture interior design portfolio,0.447,Medium,Medium,commercial,0.928,0.5,0.6,0.8,0.1,2,3,4
+2,interior design review center,SUPPORTING,h interior design reviews,0.441,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,4
+2,interior design review center,SUPPORTING,best interior design,0.437,Medium,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,3
+2,interior design review center,SUPPORTING,interior design alternative name,0.436,Medium,Low,commercial,0.592,0.5,0.74,0.8,0.1,1,4,4
+2,interior design review center,SUPPORTING,i interior design reviews,0.431,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,4
+2,interior design review center,SUPPORTING,interior design alternative careers,0.431,Medium,Low,commercial,0.628,0.5,0.74,0.8,0.1,1,3,4
+2,interior design review center,SUPPORTING,interior design alternative to pinterest,0.422,Medium,Low,commercial,0.556,0.5,0.74,0.8,0.1,1,5,5
+2,interior design review center,SUPPORTING,architect interior design firm,0.42,Medium,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,4
+2,interior design review center,SUPPORTING,n interior design bhopal reviews,0.417,Medium,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,5
+2,interior design review center,SUPPORTING,interior design review examples,0.411,Medium,Low,commercial,0.592,0.5,0.6,0.8,0.1,1,4,4
+2,interior design review center,SUPPORTING,d's interior design reviews,0.408,Medium,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,4
+2,interior design review center,SUPPORTING,u home interior design reviews,0.395,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,5
+2,interior design review center,SUPPORTING,bm architect interior design reviews,0.386,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,5
+2,interior design review center,SUPPORTING,architecture interior design company,0.376,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,4
+2,interior design review center,SUPPORTING,reviews interior design institute,0.375,Low,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,4
+2,interior design review center,SUPPORTING,interior design review andrew martin,0.375,Low,Low,commercial,0.556,0.5,0.6,0.8,0.1,1,5,5
+2,interior design review center,SUPPORTING,m interior design renovation reviews,0.36,Low,Low,commercial,0.412,0.5,0.74,0.8,0.1,1,9,5
+2,interior design review center,SUPPORTING,dwellion architecture interior design reviews,0.354,Low,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,5
+2,interior design review center,SUPPORTING,pv architecture interior design reviews,0.35,Low,Low,commercial,0.484,0.5,0.6,0.8,0.25,1,7,5
+2,interior design review center,SUPPORTING,architecture interior design birmingham reviews,0.343,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,5
+2,interior design review center,SUPPORTING,trg architecture interior design reviews,0.341,Low,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,5
+2,interior design review center,SUPPORTING,shh architecture interior design reviews,0.335,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,5
+2,interior design review center,SUPPORTING,architecture interior design portfolio page,0.334,Low,Low,commercial,0.4,0.5,0.6,0.8,0.1,1,N/A,5
+2,interior design review center,SUPPORTING,dhd architecture interior design reviews,0.328,Low,Low,commercial,0.376,0.5,0.6,0.8,0.25,1,10,5
+2,interior design review center,SUPPORTING,best architecture interior design software,0.319,Low,Low,commercial,0.376,0.5,0.6,0.8,0.25,1,10,5
+25,interior price,PRIMARY,interior price,0.402,Medium,Low,transactional,0.7,0.5,0.5,1.0,0.25,1,1,2
+25,interior price,SUPPORTING,interior fortuner price,0.377,Low,Low,transactional,0.484,0.5,0.74,1.0,0.25,1,7,3
+56,with interior design,PRIMARY,with interior design,0.469,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,3
+56,with interior design,SUPPORTING,interior design with ai free,0.404,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,5
+56,with interior design,SUPPORTING,interior design with chatgpt,0.393,Low,Low,informational,0.556,0.5,0.6,0.55,0.1,1,5,4
+56,with interior design,SUPPORTING,interior design with claude,0.39,Low,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,4
+56,with interior design,SUPPORTING,interior design with alan carr,0.388,Low,Low,informational,0.592,0.5,0.6,0.55,0.1,1,4,5
+56,with interior design,SUPPORTING,interior design with wallpaper,0.387,Low,Low,informational,0.484,0.5,0.6,0.55,0.1,1,7,4
+56,with interior design,SUPPORTING,interior design with blender,0.381,Low,Low,informational,0.412,0.5,0.6,0.55,0.1,1,9,4
+56,with interior design,SUPPORTING,interior design with wood,0.37,Low,Low,informational,0.376,0.5,0.6,0.55,0.1,1,10,4
+56,with interior design,SUPPORTING,interior design with floor plan,0.364,Low,Low,informational,0.448,0.5,0.6,0.55,0.1,1,8,5
+56,with interior design,SUPPORTING,interior with art,0.332,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,3
+56,with interior design,SUPPORTING,interior with ai,0.326,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,3
+9,r designer name,PRIMARY,r designer name,0.4,Medium,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,3
+9,r designer name,SUPPORTING,designer name,0.375,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+9,r designer name,SUPPORTING,a designer name,0.373,Low,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,3
+9,r designer name,SUPPORTING,i designer name,0.367,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+9,r designer name,SUPPORTING,m designer name,0.36,Low,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,3
+9,r designer name,SUPPORTING,y designer name,0.36,Low,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,3
+7,t designer bag,PRIMARY,t designer bag,0.387,Low,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,3
+7,t designer bag,SUPPORTING,g designer bag,0.381,Low,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,3
+7,t designer bag,SUPPORTING,b designer bag,0.374,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+7,t designer bag,SUPPORTING,c designer bag,0.374,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+7,t designer bag,SUPPORTING,l designer bag,0.374,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+7,t designer bag,SUPPORTING,y designer bag,0.374,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+7,t designer bag,SUPPORTING,f designer bag,0.368,Low,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,3
+7,t designer bag,SUPPORTING,p designer bag,0.368,Low,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,3
+7,t designer bag,SUPPORTING,h designer bag,0.361,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,3
+7,t designer bag,SUPPORTING,v designer bag,0.355,Low,Low,commercial,0.52,0.5,0.6,0.8,0.25,1,6,3
+7,t designer bag,SUPPORTING,m designer bag,0.336,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+54,does interior designers make good money,PRIMARY,does interior designers make good money,0.4,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,6
+54,does interior designers make good money,SUPPORTING,does interior design have scope,0.395,Low,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,5
+54,does interior designers make good money,SUPPORTING,does interior design require math,0.38,Low,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,5
+54,does interior designers make good money,SUPPORTING,does interior design include furniture,0.36,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,5
+54,does interior designers make good money,SUPPORTING,does interior design come under architecture,0.353,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,6
+54,does interior designers make good money,SUPPORTING,does interior design have maths,0.346,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,5
+54,does interior designers make good money,SUPPORTING,does interior design require science,0.343,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,5
+54,does interior designers make good money,SUPPORTING,does interior design have a future,0.34,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,6
+6,designer ou design,PRIMARY,designer ou design,0.387,Low,Low,commercial,0.52,0.5,0.6,0.8,0.25,1,6,3
+6,designer ou design,SUPPORTING,designer mehendi design,0.374,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,3
+6,designer ou design,SUPPORTING,designer blouse,0.36,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+6,designer ou design,SUPPORTING,designer blouse back design,0.356,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,4
+6,designer ou design,SUPPORTING,designer blouse sleeves design,0.329,Low,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,4
+57,can interior designers work from home,PRIMARY,can interior designers work from home,0.414,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,6
+57,can interior designers work from home,SUPPORTING,can interior designers make good money,0.403,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,6
+57,can interior designers work from home,SUPPORTING,can interior designers work remotely,0.391,Low,Low,informational,0.556,0.5,0.6,0.55,0.1,1,5,5
+57,can interior designers work from home,SUPPORTING,can interior designers have tattoos,0.388,Low,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,5
+57,can interior designers work from home,SUPPORTING,can interior designers stamp drawings,0.373,Low,Low,informational,0.484,0.5,0.6,0.55,0.1,1,7,5
+57,can interior designers work from home,SUPPORTING,can architect do interior design,0.356,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,5
+57,can interior designers work from home,SUPPORTING,can interior designers make a lot of money,0.354,Low,Low,informational,0.592,0.5,0.45,0.55,0.1,1,4,8
+57,can interior designers work from home,SUPPORTING,can interior design be replaced by ai,0.338,Low,Low,informational,0.628,0.5,0.45,0.55,0.25,1,3,7
+57,can interior designers work from home,SUPPORTING,can interior designers be replaced by ai,0.334,Low,Low,informational,0.448,0.5,0.45,0.55,0.1,1,8,7
+57,can interior designers work from home,SUPPORTING,can interior,0.326,Low,Low,informational,0.52,0.5,0.36,0.55,0.25,1,6,2
+57,can interior designers work from home,SUPPORTING,can interior designing be done with commerce,0.289,Low,Low,informational,0.448,0.5,0.45,0.55,0.25,1,8,7
+60,s interior design logo,PRIMARY,s interior design logo,0.449,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,4
+60,s interior design logo,SUPPORTING,r interior design logo,0.426,Medium,Low,informational,0.556,0.5,0.6,0.55,0.1,1,5,4
+60,s interior design logo,SUPPORTING,d interior design logo,0.418,Medium,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,4
+60,s interior design logo,SUPPORTING,m interior design logo,0.402,Medium,Low,informational,0.448,0.5,0.6,0.55,0.1,1,8,4
+60,s interior design logo,SUPPORTING,architecture interior design logo,0.363,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,4
+60,s interior design logo,SUPPORTING,a interior logo,0.326,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,3
+60,s interior design logo,SUPPORTING,p interior logo,0.326,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,3
+60,s interior design logo,SUPPORTING,r interior logo,0.32,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,3
+60,s interior design logo,SUPPORTING,z interior logo,0.313,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,3
+60,s interior design logo,SUPPORTING,interior logo,0.311,Low,Low,informational,0.484,0.5,0.36,0.55,0.25,1,7,2
+60,s interior design logo,SUPPORTING,i interior logo,0.307,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,3
+47,x interior design masters,PRIMARY,x interior design masters,0.439,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,4
+47,x interior design masters,SUPPORTING,when is interior designers on,0.436,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,5
+47,x interior design masters,SUPPORTING,when interior design masters,0.431,Medium,Low,informational,0.7,0.5,0.6,0.55,0.1,1,1,4
+47,x interior design masters,SUPPORTING,is interior design vadodara,0.412,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,4
+47,x interior design masters,SUPPORTING,is interior design a good career,0.406,Medium,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,6
+47,x interior design masters,SUPPORTING,is interior designing hard,0.399,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,4
+47,x interior design masters,SUPPORTING,is interior design a degree,0.37,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,5
+47,x interior design masters,SUPPORTING,architecture interior design masters,0.328,Low,Low,informational,0.376,0.5,0.6,0.55,0.25,1,10,4
+47,x interior design masters,SUPPORTING,is interior designing hard to study,0.324,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,6
+47,x interior design masters,SUPPORTING,when is interior design challenge on,0.321,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,6
+47,x interior design masters,SUPPORTING,when is interior design masters next on,0.315,Low,Low,informational,0.484,0.5,0.45,0.55,0.25,1,7,7
+47,x interior design masters,SUPPORTING,is interior design a good career for the future,0.315,Low,Low,informational,0.664,0.5,0.24,0.55,0.25,1,2,9
+47,x interior design masters,SUPPORTING,is interior design a part of architecture,0.314,Low,Low,informational,0.556,0.5,0.45,0.55,0.25,1,5,7
+47,x interior design masters,SUPPORTING,when is interior design masters season 7,0.306,Low,Low,informational,0.448,0.5,0.45,0.55,0.25,1,8,7
+47,x interior design masters,SUPPORTING,when is interior design masters on bbc,0.298,Low,Low,informational,0.376,0.5,0.45,0.55,0.25,1,10,7
+47,x interior design masters,SUPPORTING,is interior design and architecture the same,0.295,Low,Low,informational,0.484,0.5,0.45,0.55,0.25,1,7,7
+48,which interior design style,PRIMARY,which interior design style,0.383,Low,Low,informational,0.484,0.5,0.6,0.55,0.1,1,7,4
+48,which interior design style,SUPPORTING,find interior design style,0.377,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,4
+48,which interior design style,SUPPORTING,which interior design app is free,0.373,Low,Low,informational,0.592,0.5,0.6,0.55,0.1,1,4,6
+48,which interior design style,SUPPORTING,what interior design style am i,0.371,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,6
+48,which interior design style,SUPPORTING,which interior design style quiz,0.352,Low,Low,informational,0.448,0.5,0.6,0.55,0.1,1,8,5
+48,which interior design style,SUPPORTING,architecture interior design style quiz,0.347,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,5
+48,which interior design style,SUPPORTING,which interior design is timeless,0.342,Low,Low,informational,0.412,0.5,0.6,0.55,0.1,1,9,5
+48,which interior design style,SUPPORTING,what interior design style do i like,0.314,Low,Low,informational,0.484,0.5,0.45,0.55,0.25,1,7,7
+3,h designer belt,PRIMARY,h designer belt,0.373,Low,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,3
+3,h designer belt,SUPPORTING,b designer belt,0.36,Low,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,3
+3,h designer belt,SUPPORTING,m designer belt,0.335,Low,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,3
+4,h designer brand,PRIMARY,h designer brand,0.372,Low,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,3
+4,h designer brand,SUPPORTING,y designer brand,0.372,Low,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,3
+4,h designer brand,SUPPORTING,i designer brand,0.366,Low,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,3
+4,h designer brand,SUPPORTING,p designer brand,0.366,Low,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,3
+4,h designer brand,SUPPORTING,w designer brand,0.366,Low,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,3
+4,h designer brand,SUPPORTING,e designer brand,0.36,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+4,h designer brand,SUPPORTING,f designer brand,0.36,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+4,h designer brand,SUPPORTING,o designer brand,0.36,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+4,h designer brand,SUPPORTING,t designer brand,0.36,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+4,h designer brand,SUPPORTING,x designer brand,0.36,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+4,h designer brand,SUPPORTING,d designer brand,0.347,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,3
+4,h designer brand,SUPPORTING,v designer brand,0.347,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,3
+4,h designer brand,SUPPORTING,m designer brand,0.335,Low,Low,commercial,0.484,0.5,0.6,0.8,0.25,1,7,3
+4,h designer brand,SUPPORTING,a designer brand,0.329,Low,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,3
+4,h designer brand,SUPPORTING,k designer brand,0.323,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,PRIMARY,vinterior designer,0.544,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.1,1,1,2
+5,vinterior designer,SUPPORTING,vinterior designer photos,0.505,Medium,Low,commercial,0.664,0.5,0.6,0.8,0.1,1,2,3
+5,vinterior designer,SUPPORTING,designer interiors,0.471,Medium,Low,commercial,0.556,0.5,0.36,0.8,0.25,1,5,2
+5,vinterior designer,SUPPORTING,r designer,0.438,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,z designer printer,0.417,Medium,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,3
+5,vinterior designer,SUPPORTING,a designer,0.406,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,b designer,0.406,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,e designer,0.406,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,f designer,0.406,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,g designer,0.406,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,i designer,0.406,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,k designer,0.406,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,m designer,0.406,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,n designer,0.406,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,p designer,0.406,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,q designer,0.406,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,s designer,0.406,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,v designer,0.406,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,w designer,0.406,Medium,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,z designer label printer,0.405,Medium,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,4
+5,vinterior designer,SUPPORTING,c designer,0.399,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,d designer,0.399,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,l designer,0.399,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,o designer,0.399,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,t designer,0.399,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,designer x,0.399,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,y designer,0.399,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,ux designer,0.395,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,h designer,0.392,Low,Low,commercial,0.628,0.5,0.36,0.8,0.25,1,3,2
+5,vinterior designer,SUPPORTING,s designer letter,0.391,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+5,vinterior designer,SUPPORTING,can designer,0.384,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,designer xyz,0.384,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,designer zip,0.384,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,what makes designer designer,0.383,Low,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,4
+5,vinterior designer,SUPPORTING,e designer 752,0.381,Low,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,3
+5,vinterior designer,SUPPORTING,designer dress,0.38,Low,Low,commercial,0.628,0.5,0.36,0.8,0.25,1,3,2
+5,vinterior designer,SUPPORTING,r designer studio,0.379,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+5,vinterior designer,SUPPORTING,how designer,0.377,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,p designer letter,0.377,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,3
+5,vinterior designer,SUPPORTING,designer mirror,0.372,Low,Low,commercial,0.628,0.5,0.36,0.8,0.25,1,3,2
+5,vinterior designer,SUPPORTING,designer veneer,0.372,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,d designer watch,0.372,Low,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,3
+5,vinterior designer,SUPPORTING,designer qr code,0.372,Low,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,3
+5,vinterior designer,SUPPORTING,designer z,0.37,Low,Low,commercial,0.52,0.5,0.36,0.8,0.25,1,6,2
+5,vinterior designer,SUPPORTING,top designer,0.37,Low,Low,commercial,0.628,0.5,0.36,0.8,0.25,1,3,2
+5,vinterior designer,SUPPORTING,a designer letter,0.37,Low,Low,commercial,0.52,0.5,0.6,0.8,0.25,1,6,3
+5,vinterior designer,SUPPORTING,designer fans,0.368,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,designer saree,0.367,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,designer rakhi,0.367,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,designer cakes,0.367,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,designer tooth,0.367,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,z designer download,0.367,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+5,vinterior designer,SUPPORTING,designer ai,0.366,Low,Low,commercial,0.556,0.5,0.36,0.8,0.25,1,5,2
+5,vinterior designer,SUPPORTING,designer qr,0.366,Low,Low,commercial,0.556,0.5,0.36,0.8,0.25,1,5,2
+5,vinterior designer,SUPPORTING,r designer brands,0.366,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,3
+5,vinterior designer,SUPPORTING,f designer erode,0.366,Low,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,3
+5,vinterior designer,SUPPORTING,q designer nails,0.366,Low,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,3
+5,vinterior designer,SUPPORTING,c designer brands,0.366,Low,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,3
+5,vinterior designer,SUPPORTING,j designer studio,0.366,Low,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,3
+5,vinterior designer,SUPPORTING,l designer brands,0.366,Low,Low,commercial,0.7,0.5,0.6,0.8,0.25,1,1,3
+5,vinterior designer,SUPPORTING,z designer 3,0.365,Low,Low,commercial,0.484,0.5,0.6,0.8,0.25,1,7,3
+5,vinterior designer,SUPPORTING,designer zipper,0.365,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,designer pen,0.364,Low,Low,commercial,0.592,0.5,0.36,0.8,0.25,1,4,2
+5,vinterior designer,SUPPORTING,designer f letter,0.364,Low,Low,commercial,0.484,0.5,0.6,0.8,0.25,1,7,3
+5,vinterior designer,SUPPORTING,designer font,0.362,Low,Low,commercial,0.628,0.5,0.36,0.8,0.25,1,3,2
+5,vinterior designer,SUPPORTING,designer finds,0.36,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,designer jeans,0.36,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,designer video,0.36,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,designer mehndi,0.36,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,k designer pret,0.36,Low,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,3
+5,vinterior designer,SUPPORTING,r designer boutique,0.36,Low,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,3
+5,vinterior designer,SUPPORTING,m designer tiles,0.36,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+5,vinterior designer,SUPPORTING,b designer brands,0.36,Low,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,3
+5,vinterior designer,SUPPORTING,n designer brands,0.36,Low,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,3
+5,vinterior designer,SUPPORTING,x designer breeds,0.36,Low,Low,commercial,0.664,0.5,0.6,0.8,0.25,1,2,3
+5,vinterior designer,SUPPORTING,designer xl,0.359,Low,Low,commercial,0.52,0.5,0.36,0.8,0.25,1,6,2
+5,vinterior designer,SUPPORTING,rr designer delivery,0.359,Low,Low,commercial,0.484,0.5,0.6,0.8,0.25,1,7,3
+5,vinterior designer,SUPPORTING,designer dupatta,0.358,Low,Low,commercial,0.592,0.5,0.36,0.8,0.25,1,4,2
+5,vinterior designer,SUPPORTING,designer y 3,0.358,Low,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,3
+5,vinterior designer,SUPPORTING,designer alternative,0.358,Low,Low,commercial,0.628,0.5,0.5,0.8,0.25,1,3,2
+5,vinterior designer,SUPPORTING,designer xxl,0.357,Low,Low,commercial,0.556,0.5,0.36,0.8,0.25,1,5,2
+5,vinterior designer,SUPPORTING,without designer,0.357,Low,Low,commercial,0.628,0.5,0.5,0.8,0.25,1,3,2
+5,vinterior designer,SUPPORTING,dr designer,0.356,Low,Low,commercial,0.376,0.5,0.36,0.8,0.25,1,10,2
+5,vinterior designer,SUPPORTING,designer g no,0.356,Low,Low,commercial,0.484,0.5,0.6,0.8,0.25,1,7,3
+5,vinterior designer,SUPPORTING,with designer dresses,0.356,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+5,vinterior designer,SUPPORTING,designer gown,0.355,Low,Low,commercial,0.592,0.5,0.36,0.8,0.25,1,4,2
+5,vinterior designer,SUPPORTING,x designer pro,0.355,Low,Low,commercial,0.52,0.5,0.6,0.8,0.25,1,6,3
+5,vinterior designer,SUPPORTING,designer alternative to pinterest,0.355,Low,Low,commercial,0.52,0.5,0.74,0.8,0.25,1,6,4
+5,vinterior designer,SUPPORTING,designer glass,0.354,Low,Low,commercial,0.628,0.5,0.36,0.8,0.25,1,3,2
+5,vinterior designer,SUPPORTING,designer tools,0.354,Low,Low,commercial,0.628,0.5,0.36,0.8,0.25,1,3,2
+5,vinterior designer,SUPPORTING,l designer sofa,0.354,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,3
+5,vinterior designer,SUPPORTING,d designer studio,0.354,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+5,vinterior designer,SUPPORTING,g designer brands,0.354,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+5,vinterior designer,SUPPORTING,p designer levers,0.354,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+5,vinterior designer,SUPPORTING,designer x mohali,0.354,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+5,vinterior designer,SUPPORTING,designer yoga mat,0.354,Low,Low,commercial,0.628,0.5,0.6,0.8,0.25,1,3,3
+5,vinterior designer,SUPPORTING,cider designer,0.353,Low,Low,commercial,0.4,0.5,0.36,0.8,0.1,1,N/A,2
+5,vinterior designer,SUPPORTING,designer reviews,0.353,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,designer lehenga,0.353,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,designer watches,0.353,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,ms designer,0.352,Low,Low,commercial,0.484,0.5,0.36,0.8,0.25,1,7,2
+5,vinterior designer,SUPPORTING,fashion designer,0.351,Low,Medium,commercial,0.64,0.5,0.36,0.8,0.1,2,16,2
+5,vinterior designer,SUPPORTING,a set designer,0.351,Low,Low,commercial,0.448,0.5,0.6,0.8,0.1,1,8,3
+5,vinterior designer,SUPPORTING,why designer,0.35,Low,Low,commercial,0.52,0.5,0.36,0.8,0.25,1,6,2
+5,vinterior designer,SUPPORTING,designer zone,0.348,Low,Low,commercial,0.556,0.5,0.36,0.8,0.25,1,5,2
+5,vinterior designer,SUPPORTING,designer p trap,0.348,Low,Low,commercial,0.52,0.5,0.6,0.8,0.25,1,6,3
+5,vinterior designer,SUPPORTING,designer lighter,0.347,Low,Low,commercial,0.484,0.5,0.36,0.8,0.25,1,7,2
+5,vinterior designer,SUPPORTING,designer kurti,0.347,Low,Low,commercial,0.592,0.5,0.36,0.8,0.25,1,4,2
+5,vinterior designer,SUPPORTING,designer hoodie,0.347,Low,Low,commercial,0.628,0.5,0.36,0.8,0.25,1,3,2
+5,vinterior designer,SUPPORTING,designer perfume,0.347,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,designer rangoli,0.347,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,designer handbags,0.347,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,designer umbrella,0.347,Low,Low,commercial,0.7,0.5,0.36,0.8,0.25,1,1,2
+5,vinterior designer,SUPPORTING,designer g shock,0.347,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,3
+5,vinterior designer,SUPPORTING,designer g string,0.347,Low,Low,commercial,0.592,0.5,0.6,0.8,0.25,1,4,3
+5,vinterior designer,SUPPORTING,designer diya,0.345,Low,Low,commercial,0.412,0.5,0.36,0.8,0.25,1,9,2
+5,vinterior designer,SUPPORTING,designer dress material,0.344,Low,Low,commercial,0.376,0.5,0.6,0.8,0.25,1,10,3
+5,vinterior designer,SUPPORTING,cider designer hides,0.344,Low,Low,commercial,0.4,0.5,0.6,0.8,0.1,1,N/A,3
+5,vinterior designer,SUPPORTING,designer q sys,0.342,Low,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,3
+5,vinterior designer,SUPPORTING,designer lace,0.341,Low,Low,commercial,0.52,0.5,0.36,0.8,0.25,1,6,2
+5,vinterior designer,SUPPORTING,designer heels,0.341,Low,Low,commercial,0.556,0.5,0.36,0.8,0.25,1,5,2
+5,vinterior designer,SUPPORTING,designer kurta,0.341,Low,Low,commercial,0.556,0.5,0.36,0.8,0.25,1,5,2
+5,vinterior designer,SUPPORTING,designer photo,0.341,Low,Low,commercial,0.556,0.5,0.36,0.8,0.25,1,5,2
+5,vinterior designer,SUPPORTING,designer i wear,0.341,Low,Low,commercial,0.484,0.5,0.6,0.8,0.25,1,7,3
+5,vinterior designer,SUPPORTING,designer envelope,0.341,Low,Low,commercial,0.664,0.5,0.36,0.8,0.25,1,2,2
+5,vinterior designer,SUPPORTING,q designer homes,0.341,Low,Low,commercial,0.52,0.5,0.6,0.8,0.25,1,6,3
+5,vinterior designer,SUPPORTING,c designer uniqlo,0.341,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,3
+5,vinterior designer,SUPPORTING,s designer brands,0.341,Low,Low,commercial,0.556,0.5,0.6,0.8,0.25,1,5,3
+5,vinterior designer,SUPPORTING,twins mr designer,0.34,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,SUPPORTING,watering can designer,0.34,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,SUPPORTING,designer fabric,0.34,Low,Low,commercial,0.592,0.5,0.36,0.8,0.25,1,4,2
+5,vinterior designer,SUPPORTING,designer lights,0.34,Low,Low,commercial,0.592,0.5,0.36,0.8,0.25,1,4,2
+5,vinterior designer,SUPPORTING,designer shoesl,0.34,Low,Low,commercial,0.592,0.5,0.36,0.8,0.25,1,4,2
+5,vinterior designer,SUPPORTING,fb designer,0.338,Low,Low,commercial,0.412,0.5,0.36,0.8,0.25,1,9,2
+5,vinterior designer,SUPPORTING,what set designer,0.338,Low,Low,commercial,0.484,0.5,0.6,0.8,0.1,1,7,3
+5,vinterior designer,SUPPORTING,designer paper,0.337,Low,Low,commercial,0.484,0.5,0.36,0.8,0.25,1,7,2
+5,vinterior designer,SUPPORTING,pid designer,0.336,Low,Low,commercial,0.448,0.5,0.36,0.8,0.25,1,8,2
+5,vinterior designer,SUPPORTING,industrial designer,0.336,Low,Low,commercial,0.52,0.5,0.36,0.8,0.1,1,6,2
+5,vinterior designer,SUPPORTING,l luv designer,0.336,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,SUPPORTING,best designer,0.335,Low,Low,commercial,0.484,0.5,0.36,0.8,0.25,1,7,2
+5,vinterior designer,SUPPORTING,designer bags,0.335,Low,Low,commercial,0.484,0.5,0.36,0.8,0.25,1,7,2
+5,vinterior designer,SUPPORTING,designer tops,0.335,Low,Low,commercial,0.484,0.5,0.36,0.8,0.25,1,7,2
+5,vinterior designer,SUPPORTING,designer vase,0.335,Low,Low,commercial,0.484,0.5,0.36,0.8,0.25,1,7,2
+5,vinterior designer,SUPPORTING,designer yarn,0.335,Low,Low,commercial,0.484,0.5,0.36,0.8,0.25,1,7,2
+5,vinterior designer,SUPPORTING,designer wallpaper,0.335,Low,Low,commercial,0.592,0.5,0.36,0.8,0.25,1,4,2
+5,vinterior designer,SUPPORTING,designer f type,0.335,Low,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,3
+5,vinterior designer,SUPPORTING,h designer download,0.335,Low,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,3
+5,vinterior designer,SUPPORTING,maria b designer,0.335,Low,Low,commercial,0.484,0.5,0.6,0.8,0.25,1,7,3
+5,vinterior designer,SUPPORTING,v designer shoes,0.335,Low,Low,commercial,0.484,0.5,0.6,0.8,0.25,1,7,3
+5,vinterior designer,SUPPORTING,designer frock,0.334,Low,Low,commercial,0.52,0.5,0.36,0.8,0.25,1,6,2
+5,vinterior designer,SUPPORTING,designer group,0.334,Low,Low,commercial,0.52,0.5,0.36,0.8,0.25,1,6,2
+5,vinterior designer,SUPPORTING,designer house,0.334,Low,Low,commercial,0.52,0.5,0.36,0.8,0.25,1,6,2
+5,vinterior designer,SUPPORTING,designer d squared,0.334,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,SUPPORTING,designer hides,0.331,Low,Low,commercial,0.4,0.5,0.36,0.8,0.1,1,N/A,2
+5,vinterior designer,SUPPORTING,designer hides all,0.33,Low,Low,commercial,0.4,0.5,0.6,0.8,0.1,1,N/A,3
+5,vinterior designer,SUPPORTING,designer app,0.329,Low,Low,commercial,0.412,0.5,0.36,0.8,0.25,1,9,2
+5,vinterior designer,SUPPORTING,designer zoo,0.329,Low,Low,commercial,0.412,0.5,0.36,0.8,0.25,1,9,2
+5,vinterior designer,SUPPORTING,designer q zip,0.329,Low,Low,commercial,0.376,0.5,0.6,0.8,0.25,1,10,3
+5,vinterior designer,SUPPORTING,a designer move,0.329,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,SUPPORTING,designer q tips,0.329,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,SUPPORTING,designer g wagon,0.329,Low,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,3
+5,vinterior designer,SUPPORTING,designer wall fan,0.329,Low,Low,commercial,0.484,0.5,0.6,0.8,0.25,1,7,3
+5,vinterior designer,SUPPORTING,designer y fronts,0.329,Low,Low,commercial,0.484,0.5,0.6,0.8,0.25,1,7,3
+5,vinterior designer,SUPPORTING,designer costa,0.327,Low,Low,commercial,0.484,0.5,0.36,0.8,0.25,1,7,2
+5,vinterior designer,SUPPORTING,designer arena,0.327,Low,Low,commercial,0.484,0.5,0.36,0.8,0.25,1,7,2
+5,vinterior designer,SUPPORTING,designer rings,0.327,Low,Low,commercial,0.484,0.5,0.36,0.8,0.25,1,7,2
+5,vinterior designer,SUPPORTING,designer fabric material,0.327,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,SUPPORTING,set designer,0.325,Low,Low,commercial,0.34,0.5,0.36,0.8,0.1,1,13,2
+5,vinterior designer,SUPPORTING,web designer,0.325,Low,Low,commercial,0.34,0.5,0.36,0.8,0.1,1,19,2
+5,vinterior designer,SUPPORTING,cider designer hides all,0.325,Low,Low,commercial,0.4,0.5,0.6,0.8,0.1,1,N/A,4
+5,vinterior designer,SUPPORTING,z designer printer not printing,0.324,Low,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,5
+5,vinterior designer,SUPPORTING,designer g star,0.323,Low,Low,commercial,0.376,0.5,0.6,0.8,0.25,1,10,3
+5,vinterior designer,SUPPORTING,designer g herbo,0.323,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,SUPPORTING,h designer shoes,0.323,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,SUPPORTING,sweet p designer,0.323,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,SUPPORTING,rocky s designer,0.323,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,SUPPORTING,designer coat men,0.323,Low,Low,commercial,0.448,0.5,0.6,0.8,0.25,1,8,3
+5,vinterior designer,SUPPORTING,designer earrings,0.322,Low,Low,commercial,0.556,0.5,0.36,0.8,0.25,1,5,2
+5,vinterior designer,SUPPORTING,designer home,0.321,Low,Low,commercial,0.412,0.5,0.36,0.8,0.25,1,9,2
+5,vinterior designer,SUPPORTING,designer image,0.321,Low,Low,commercial,0.448,0.5,0.36,0.8,0.25,1,8,2
+5,vinterior designer,SUPPORTING,designer outfit,0.321,Low,Low,commercial,0.484,0.5,0.36,0.8,0.25,1,7,2
+5,vinterior designer,SUPPORTING,designer arenaai,0.321,Low,Low,commercial,0.52,0.5,0.36,0.8,0.25,1,6,2
+5,vinterior designer,SUPPORTING,designer nauvari,0.321,Low,Low,commercial,0.52,0.5,0.36,0.8,0.25,1,6,2
+5,vinterior designer,SUPPORTING,designer i powerpoint,0.319,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,SUPPORTING,designer furniture,0.317,Low,Low,commercial,0.556,0.5,0.36,0.8,0.25,1,5,2
+5,vinterior designer,SUPPORTING,designer laminates,0.317,Low,Low,commercial,0.556,0.5,0.36,0.8,0.25,1,5,2
+5,vinterior designer,SUPPORTING,designer x disney,0.317,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,SUPPORTING,z designer brands,0.317,Low,Low,commercial,0.412,0.5,0.6,0.8,0.25,1,9,3
+5,vinterior designer,SUPPORTING,designer c table,0.316,Low,Low,commercial,0.376,0.5,0.6,0.8,0.25,1,10,3
+5,vinterior designer,SUPPORTING,f risso designer,0.316,Low,Low,commercial,0.376,0.5,0.6,0.8,0.25,1,10,3
+5,vinterior designer,SUPPORTING,designer i watch,0.316,Low,Low,commercial,0.376,0.5,0.6,0.8,0.25,1,10,3
+5,vinterior designer,SUPPORTING,designer t shirt,0.316,Low,Low,commercial,0.376,0.5,0.6,0.8,0.25,1,10,3
+5,vinterior designer,SUPPORTING,zebra designer 3,0.316,Low,Low,commercial,0.376,0.5,0.6,0.8,0.25,1,10,3
+5,vinterior designer,SUPPORTING,designer fork,0.315,Low,Low,commercial,0.376,0.5,0.36,0.8,0.25,1,10,2
+5,vinterior designer,SUPPORTING,designer hood,0.315,Low,Low,commercial,0.376,0.5,0.36,0.8,0.25,1,10,2
+5,vinterior designer,SUPPORTING,designer suit,0.315,Low,Low,commercial,0.376,0.5,0.36,0.8,0.25,1,10,2
+5,vinterior designer,SUPPORTING,designer helmet,0.315,Low,Low,commercial,0.448,0.5,0.36,0.8,0.25,1,8,2
+5,vinterior designer,SUPPORTING,designer jacket,0.315,Low,Low,commercial,0.448,0.5,0.36,0.8,0.25,1,8,2
+5,vinterior designer,SUPPORTING,designer resume,0.315,Low,Low,commercial,0.448,0.5,0.36,0.8,0.25,1,8,2
+5,vinterior designer,SUPPORTING,designer bodyz,0.314,Low,Low,commercial,0.412,0.5,0.36,0.8,0.25,1,9,2
+5,vinterior designer,SUPPORTING,designer queen,0.314,Low,Low,commercial,0.412,0.5,0.36,0.8,0.25,1,9,2
+5,vinterior designer,SUPPORTING,designer shirt,0.314,Low,Low,commercial,0.412,0.5,0.36,0.8,0.25,1,9,2
+5,vinterior designer,SUPPORTING,designer tiles,0.314,Low,Low,commercial,0.412,0.5,0.36,0.8,0.25,1,9,2
+5,vinterior designer,SUPPORTING,designer flower pot,0.313,Low,Low,commercial,0.376,0.5,0.6,0.8,0.25,1,10,3
+5,vinterior designer,SUPPORTING,designer jewellery,0.311,Low,Low,commercial,0.52,0.5,0.36,0.8,0.25,1,6,2
+5,vinterior designer,SUPPORTING,designer underwear,0.311,Low,Low,commercial,0.52,0.5,0.36,0.8,0.25,1,6,2
+5,vinterior designer,SUPPORTING,designer x adidas,0.311,Low,Low,commercial,0.376,0.5,0.6,0.8,0.25,1,10,3
+5,vinterior designer,SUPPORTING,l'agence designer,0.31,Low,Low,commercial,0.484,0.5,0.36,0.8,0.25,1,7,2
+5,vinterior designer,SUPPORTING,clothes designer,0.309,Low,Low,commercial,0.4,0.5,0.36,0.8,0.1,1,N/A,2
+5,vinterior designer,SUPPORTING,costume designer,0.309,Low,Low,commercial,0.4,0.5,0.36,0.8,0.1,1,N/A,2
+5,vinterior designer,SUPPORTING,designer chair,0.308,Low,Low,commercial,0.376,0.5,0.36,0.8,0.25,1,10,2
+5,vinterior designer,SUPPORTING,designer knife,0.308,Low,Low,commercial,0.376,0.5,0.36,0.8,0.25,1,10,2
+5,vinterior designer,SUPPORTING,designer ghagra,0.308,Low,Low,commercial,0.412,0.5,0.36,0.8,0.25,1,9,2
+5,vinterior designer,SUPPORTING,designer mandir,0.302,Low,Low,commercial,0.376,0.5,0.36,0.8,0.25,1,10,2
+5,vinterior designer,SUPPORTING,graphic designer,0.299,Low,Low,commercial,0.34,0.5,0.36,0.8,0.1,1,12,2
+5,vinterior designer,SUPPORTING,designer curtains,0.297,Low,Low,commercial,0.412,0.5,0.36,0.8,0.25,1,9,2
+5,vinterior designer,SUPPORTING,designer elements,0.297,Low,Low,commercial,0.412,0.5,0.36,0.8,0.25,1,9,2
+5,vinterior designer,SUPPORTING,designer microsoft,0.293,Low,Low,commercial,0.412,0.5,0.36,0.8,0.25,1,9,2
+58,g design interior studio,PRIMARY,g design interior studio,0.379,Low,Low,informational,0.484,0.5,0.6,0.55,0.1,1,7,4
+58,g design interior studio,SUPPORTING,l design interior studio,0.379,Low,Low,informational,0.484,0.5,0.6,0.55,0.1,1,7,4
+58,g design interior studio,SUPPORTING,n interior studio,0.339,Low,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,3
+58,g design interior studio,SUPPORTING,m interior studio,0.332,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,3
+58,g design interior studio,SUPPORTING,d interior studio,0.326,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,3
+58,g design interior studio,SUPPORTING,h interior studio,0.302,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,3
+59,architectural interior design styles,PRIMARY,architectural interior design styles,0.366,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,4
+59,architectural interior design styles,SUPPORTING,architectural interior design themes,0.353,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,4
+59,architectural interior design styles,SUPPORTING,architectural interior design london,0.346,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,4
+59,architectural interior design styles,SUPPORTING,architectural interior design requirements,0.343,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,4
+59,architectural interior design styles,SUPPORTING,architectural interior design living room,0.342,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,5
+59,architectural interior design styles,SUPPORTING,architectural digest interior design styles,0.306,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,5
+52,interior lighting design,PRIMARY,interior lighting design,0.366,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,3
+52,interior lighting design,SUPPORTING,architecture interior lighting design,0.309,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,4
+55,h interior designs,PRIMARY,h interior designs,0.483,Medium,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,3
+55,h interior designs,SUPPORTING,interior room design,0.443,Medium,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,3
+55,h interior designs,SUPPORTING,y design interior dubai,0.442,Medium,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,4
+55,h interior designs,SUPPORTING,interior home design,0.428,Medium,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,3
+55,h interior designs,SUPPORTING,interior kitchen design,0.423,Medium,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,3
+55,h interior designs,SUPPORTING,interior glass design,0.421,Medium,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,3
+55,h interior designs,SUPPORTING,interior hall design,0.42,Medium,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,3
+55,h interior designs,SUPPORTING,interior wall design,0.42,Medium,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,3
+55,h interior designs,SUPPORTING,h interior design by hoda,0.419,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,5
+55,h interior designs,SUPPORTING,what interior design includes,0.418,Medium,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,4
+55,h interior designs,SUPPORTING,interior texture design,0.416,Medium,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,3
+55,h interior designs,SUPPORTING,interior design yoga studio,0.405,Medium,Low,informational,0.592,0.5,0.6,0.55,0.1,1,4,4
+55,h interior designs,SUPPORTING,y interior design co limited,0.404,Medium,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,5
+55,h interior designs,SUPPORTING,interior house design,0.398,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,3
+55,h interior designs,SUPPORTING,interior tiles design,0.398,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,3
+55,h interior designs,SUPPORTING,i interior design pte ltd,0.394,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,5
+55,h interior designs,SUPPORTING,why interior design is important,0.391,Low,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,5
+55,h interior designs,SUPPORTING,h interior designs photos,0.39,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,4
+55,h interior designs,SUPPORTING,interiors or interior,0.39,Low,Low,informational,0.484,0.5,0.74,0.55,0.25,1,7,3
+55,h interior designs,SUPPORTING,interior jali design,0.389,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,3
+55,h interior designs,SUPPORTING,d's interior design sneads ferry,0.386,Low,Low,informational,0.628,0.5,0.6,0.55,0.1,1,3,5
+55,h interior designs,SUPPORTING,s interior design scottsdale az,0.383,Low,Low,informational,0.592,0.5,0.6,0.55,0.1,1,4,5
+55,h interior designs,SUPPORTING,interior gate design,0.381,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,3
+55,h interior designs,SUPPORTING,f interior,0.381,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,n interior,0.381,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,o interior,0.381,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,w interior,0.381,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,architect interior design software,0.38,Low,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,4
+55,h interior designs,SUPPORTING,interior bedroom design,0.378,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,3
+55,h interior designs,SUPPORTING,interior design hsn code,0.375,Low,Low,informational,0.376,0.5,0.6,0.55,0.1,1,10,4
+55,h interior designs,SUPPORTING,r design interior volvo xc90,0.375,Low,Low,informational,0.484,0.5,0.6,0.55,0.1,1,7,5
+55,h interior designs,SUPPORTING,h interior design construction inc,0.375,Low,Low,informational,0.556,0.5,0.6,0.55,0.1,1,5,5
+55,h interior designs,SUPPORTING,y interior,0.374,Low,Low,informational,0.664,0.5,0.36,0.55,0.25,1,2,2
+55,h interior designs,SUPPORTING,interior roof design,0.373,Low,Low,informational,0.376,0.5,0.6,0.55,0.25,1,10,3
+55,h interior designs,SUPPORTING,interior design years of study,0.373,Low,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,5
+55,h interior designs,SUPPORTING,g interior design construction sdn bhd,0.37,Low,Low,informational,0.664,0.5,0.6,0.55,0.1,1,2,6
+55,h interior designs,SUPPORTING,interior visiting card design,0.367,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,4
+55,h interior designs,SUPPORTING,architect fees for interior design,0.365,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,5
+55,h interior designs,SUPPORTING,interior decorator,0.363,Low,Low,informational,0.592,0.5,0.36,0.55,0.1,1,4,2
+55,h interior designs,SUPPORTING,architect interior design website,0.363,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,4
+55,h interior designs,SUPPORTING,j interior dekor,0.36,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,3
+55,h interior designs,SUPPORTING,g design interior agra photos,0.36,Low,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,5
+55,h interior designs,SUPPORTING,interior exterior,0.357,Low,Low,informational,0.592,0.5,0.36,0.55,0.25,1,4,2
+55,h interior designs,SUPPORTING,j interior mall,0.357,Low,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,3
+55,h interior designs,SUPPORTING,interior ai,0.356,Low,Low,informational,0.628,0.5,0.36,0.55,0.25,1,3,2
+55,h interior designs,SUPPORTING,ke interior design academy sdn bhd,0.356,Low,Low,informational,0.52,0.5,0.6,0.55,0.1,1,6,6
+55,h interior designs,SUPPORTING,interior primer,0.355,Low,Low,informational,0.664,0.5,0.36,0.55,0.25,1,2,2
+55,h interior designs,SUPPORTING,interior paint,0.355,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,interior lead,0.352,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,interior f 150,0.352,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,3
+55,h interior designs,SUPPORTING,interior t roc,0.352,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,3
+55,h interior designs,SUPPORTING,z interior decorations,0.351,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,3
+55,h interior designs,SUPPORTING,architect interior design whatsapp group,0.351,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,5
+55,h interior designs,SUPPORTING,who's interior minister,0.351,Low,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,3
+55,h interior designs,SUPPORTING,t interior space,0.351,Low,Low,informational,0.7,0.5,0.6,0.55,0.25,1,1,3
+55,h interior designs,SUPPORTING,what interior design app is free,0.35,Low,Low,informational,0.448,0.5,0.6,0.55,0.1,1,8,6
+55,h interior designs,SUPPORTING,d interior design construction pte ltd,0.35,Low,Low,informational,0.556,0.5,0.6,0.55,0.1,1,5,6
+55,h interior designs,SUPPORTING,interior texture paint design,0.349,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,4
+55,h interior designs,SUPPORTING,interior zone,0.345,Low,Low,informational,0.664,0.5,0.36,0.55,0.25,1,2,2
+55,h interior designs,SUPPORTING,interior u boat,0.345,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,3
+55,h interior designs,SUPPORTING,interior angle,0.344,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,interior views,0.344,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,r interior decorating,0.343,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,3
+55,h interior designs,SUPPORTING,interior job,0.34,Low,Low,informational,0.592,0.5,0.36,0.55,0.25,1,4,2
+55,h interior designs,SUPPORTING,interior f 35,0.34,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,3
+55,h interior designs,SUPPORTING,o interior jornal,0.339,Low,Low,informational,0.664,0.5,0.6,0.55,0.25,1,2,3
+55,h interior designs,SUPPORTING,interior work,0.338,Low,Low,informational,0.628,0.5,0.36,0.55,0.25,1,3,2
+55,h interior designs,SUPPORTING,interior thane,0.338,Low,Low,informational,0.664,0.5,0.36,0.55,0.25,1,2,2
+55,h interior designs,SUPPORTING,l interior movie,0.338,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,3
+55,h interior designs,SUPPORTING,tesla y interior,0.338,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,3
+55,h interior designs,SUPPORTING,bq interior doors,0.337,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,3
+55,h interior designs,SUPPORTING,interior godrej,0.337,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,interior images,0.337,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,interior themes,0.337,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,i interior doors,0.336,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,3
+55,h interior designs,SUPPORTING,interior ka,0.335,Low,Low,informational,0.52,0.5,0.36,0.55,0.25,1,6,2
+55,h interior designs,SUPPORTING,z interior decorations inc,0.335,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,4
+55,h interior designs,SUPPORTING,interior for 2 bhk,0.335,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,4
+55,h interior designs,SUPPORTING,interior xl6,0.333,Low,Low,informational,0.556,0.5,0.36,0.55,0.25,1,5,2
+55,h interior designs,SUPPORTING,interior nest,0.332,Low,Low,informational,0.592,0.5,0.36,0.55,0.25,1,4,2
+55,h interior designs,SUPPORTING,interior room,0.332,Low,Low,informational,0.592,0.5,0.36,0.55,0.25,1,4,2
+55,h interior designs,SUPPORTING,interior for hall,0.332,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,3
+55,h interior designs,SUPPORTING,interior my room,0.332,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,3
+55,h interior designs,SUPPORTING,interior x force,0.332,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,3
+55,h interior designs,SUPPORTING,of interior angle,0.332,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,3
+55,h interior designs,SUPPORTING,interior ideas,0.331,Low,Low,informational,0.628,0.5,0.36,0.55,0.25,1,3,2
+55,h interior designs,SUPPORTING,interior video,0.331,Low,Low,informational,0.628,0.5,0.36,0.55,0.25,1,3,2
+55,h interior designs,SUPPORTING,interior xperts,0.331,Low,Low,informational,0.664,0.5,0.36,0.55,0.25,1,2,2
+55,h interior designs,SUPPORTING,interior yardage,0.331,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,interior for 1 bhk,0.328,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,4
+55,h interior designs,SUPPORTING,interior ps,0.327,Low,Low,informational,0.484,0.5,0.36,0.55,0.25,1,7,2
+55,h interior designs,SUPPORTING,interior render,0.327,Low,Low,informational,0.52,0.5,0.36,0.55,0.25,1,6,2
+55,h interior designs,SUPPORTING,does architect do interior design,0.326,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,5
+55,h interior designs,SUPPORTING,u wing interior,0.326,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,3
+55,h interior designs,SUPPORTING,z interior work,0.326,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,3
+55,h interior designs,SUPPORTING,interior for home,0.326,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,3
+55,h interior designs,SUPPORTING,d interior story,0.326,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,3
+55,h interior designs,SUPPORTING,interior s class,0.326,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,3
+55,h interior designs,SUPPORTING,interior x trail,0.326,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,3
+55,h interior designs,SUPPORTING,interior lights,0.324,Low,Low,informational,0.628,0.5,0.36,0.55,0.25,1,3,2
+55,h interior designs,SUPPORTING,interior plants,0.324,Low,Low,informational,0.628,0.5,0.36,0.55,0.25,1,3,2
+55,h interior designs,SUPPORTING,interior quotes,0.324,Low,Low,informational,0.628,0.5,0.36,0.55,0.25,1,3,2
+55,h interior designs,SUPPORTING,interior x,0.323,Low,Low,informational,0.412,0.5,0.36,0.55,0.25,1,9,2
+55,h interior designs,SUPPORTING,interior wall paint,0.323,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,3
+55,h interior designs,SUPPORTING,interior wall primer,0.321,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,3
+55,h interior designs,SUPPORTING,interior roller,0.32,Low,Low,informational,0.484,0.5,0.36,0.55,0.25,1,7,2
+55,h interior designs,SUPPORTING,interior f 250,0.32,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,3
+55,h interior designs,SUPPORTING,u home interior,0.32,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,3
+55,h interior designs,SUPPORTING,interior c class,0.32,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,3
+55,h interior designs,SUPPORTING,interior chinatown,0.32,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,interior furniture,0.32,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,interior xpression,0.32,Low,Low,informational,0.7,0.5,0.36,0.55,0.25,1,1,2
+55,h interior designs,SUPPORTING,g interior rohini,0.32,Low,Low,informational,0.556,0.5,0.6,0.55,0.25,1,5,3
+55,h interior designs,SUPPORTING,what interior,0.318,Low,Low,informational,0.52,0.5,0.36,0.55,0.25,1,6,2
+55,h interior designs,SUPPORTING,interior yaris,0.318,Low,Low,informational,0.556,0.5,0.36,0.55,0.25,1,5,2
+55,h interior designs,SUPPORTING,interior kitchen,0.318,Low,Low,informational,0.628,0.5,0.36,0.55,0.25,1,3,2
+55,h interior designs,SUPPORTING,interior meaning,0.318,Low,Low,informational,0.628,0.5,0.36,0.55,0.25,1,3,2
+55,h interior designs,SUPPORTING,what interior design styles are trending,0.317,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,6
+55,h interior designs,SUPPORTING,interior e class,0.314,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,3
+55,h interior designs,SUPPORTING,chery q interior,0.314,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,3
+55,h interior designs,SUPPORTING,interior v class,0.314,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,3
+55,h interior designs,SUPPORTING,interior quotation,0.314,Low,Low,informational,0.664,0.5,0.36,0.55,0.25,1,2,2
+55,h interior designs,SUPPORTING,interior s presso,0.314,Low,Low,informational,0.52,0.5,0.6,0.55,0.25,1,6,3
+55,h interior designs,SUPPORTING,interior number,0.313,Low,Low,informational,0.448,0.5,0.36,0.55,0.25,1,8,2
+55,h interior designs,SUPPORTING,seal u interior,0.313,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,3
+55,h interior designs,SUPPORTING,interior zirakpur,0.313,Low,Low,informational,0.628,0.5,0.36,0.55,0.25,1,3,2
+55,h interior designs,SUPPORTING,interior hub,0.312,Low,Low,informational,0.448,0.5,0.36,0.55,0.25,1,8,2
+55,h interior designs,SUPPORTING,interior department,0.311,Low,Low,informational,0.4,0.5,0.36,0.55,0.1,1,N/A,2
+55,h interior designs,SUPPORTING,interior name,0.311,Low,Low,informational,0.484,0.5,0.36,0.55,0.25,1,7,2
+55,h interior designs,SUPPORTING,interior guide,0.311,Low,Low,informational,0.52,0.5,0.36,0.55,0.25,1,6,2
+55,h interior designs,SUPPORTING,interior materials,0.311,Low,Low,informational,0.52,0.5,0.36,0.55,0.25,1,6,2
+55,h interior designs,SUPPORTING,interior photos,0.311,Low,Low,informational,0.556,0.5,0.36,0.55,0.25,1,5,2
+55,h interior designs,SUPPORTING,interior styles,0.311,Low,Low,informational,0.556,0.5,0.36,0.55,0.25,1,5,2
+55,h interior designs,SUPPORTING,interior upholstery,0.309,Low,Low,informational,0.592,0.5,0.36,0.55,0.25,1,4,2
+55,h interior designs,SUPPORTING,interior of skull,0.308,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,3
+55,h interior designs,SUPPORTING,interior alternate,0.307,Low,Low,informational,0.556,0.5,0.36,0.55,0.25,1,5,2
+55,h interior designs,SUPPORTING,interior f pace,0.307,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,3
+55,h interior designs,SUPPORTING,interior n more,0.307,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,3
+55,h interior designs,SUPPORTING,interior village,0.306,Low,Low,informational,0.556,0.5,0.36,0.55,0.25,1,5,2
+55,h interior designs,SUPPORTING,interior plan,0.305,Low,Low,informational,0.448,0.5,0.36,0.55,0.25,1,8,2
+55,h interior designs,SUPPORTING,interior upvc,0.305,Low,Low,informational,0.448,0.5,0.36,0.55,0.25,1,8,2
+55,h interior designs,SUPPORTING,interior house,0.305,Low,Low,informational,0.484,0.5,0.36,0.55,0.25,1,7,2
+55,h interior designs,SUPPORTING,interior trims,0.305,Low,Low,informational,0.484,0.5,0.36,0.55,0.25,1,7,2
+55,h interior designs,SUPPORTING,interior nagpur,0.305,Low,Low,informational,0.52,0.5,0.36,0.55,0.25,1,6,2
+55,h interior designs,SUPPORTING,interior and exterior angles,0.303,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,4
+55,h interior designs,SUPPORTING,interior engineer,0.302,Low,Low,informational,0.448,0.5,0.36,0.55,0.25,1,8,2
+55,h interior designs,SUPPORTING,b interior photos,0.302,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,3
+55,h interior designs,SUPPORTING,interior ka hindi,0.302,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,3
+55,h interior designs,SUPPORTING,interior n plates,0.302,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,3
+55,h interior designs,SUPPORTING,interior po arvia,0.302,Low,Low,informational,0.448,0.5,0.6,0.55,0.25,1,8,3
+55,h interior designs,SUPPORTING,bq interior paint,0.301,Low,Low,informational,0.376,0.5,0.6,0.55,0.25,1,10,3
+55,h interior designs,SUPPORTING,interior garden,0.299,Low,Low,informational,0.484,0.5,0.36,0.55,0.25,1,7,2
+55,h interior designs,SUPPORTING,interior fitouts,0.299,Low,Low,informational,0.52,0.5,0.36,0.55,0.25,1,6,2
+55,h interior designs,SUPPORTING,interior home,0.298,Low,Low,informational,0.412,0.5,0.36,0.55,0.25,1,9,2
+55,h interior designs,SUPPORTING,interior zenix,0.298,Low,Low,informational,0.448,0.5,0.36,0.55,0.25,1,8,2
+55,h interior designs,SUPPORTING,interior elevation,0.296,Low,Low,informational,0.556,0.5,0.36,0.55,0.25,1,5,2
+55,h interior designs,SUPPORTING,interior p plates,0.296,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,3
+55,h interior designs,SUPPORTING,nissan z interior,0.296,Low,Low,informational,0.412,0.5,0.6,0.55,0.25,1,9,3
+55,h interior designs,SUPPORTING,interior game,0.291,Low,Low,informational,0.376,0.5,0.36,0.55,0.25,1,10,2
+55,h interior designs,SUPPORTING,interior hall,0.291,Low,Low,informational,0.376,0.5,0.36,0.55,0.25,1,10,2
+55,h interior designs,SUPPORTING,interior zero,0.291,Low,Low,informational,0.376,0.5,0.36,0.55,0.25,1,10,2
+55,h interior designs,SUPPORTING,what interior design shows are on netflix,0.291,Low,Low,informational,0.376,0.5,0.45,0.55,0.1,1,10,7
+55,h interior designs,SUPPORTING,interior e vitara,0.29,Low,Low,informational,0.376,0.5,0.6,0.55,0.25,1,10,3
+55,h interior designs,SUPPORTING,interior l plates,0.29,Low,Low,informational,0.376,0.5,0.6,0.55,0.25,1,10,3
+55,h interior designs,SUPPORTING,interior nic code,0.29,Low,Low,informational,0.376,0.5,0.6,0.55,0.25,1,10,3
+55,h interior designs,SUPPORTING,interior using ai,0.29,Low,Low,informational,0.376,0.5,0.6,0.55,0.25,1,10,3
+55,h interior designs,SUPPORTING,interior gallery,0.287,Low,Low,informational,0.448,0.5,0.36,0.55,0.25,1,8,2
+55,h interior designs,SUPPORTING,interior website,0.287,Low,Low,informational,0.448,0.5,0.36,0.55,0.25,1,8,2
+55,h interior designs,SUPPORTING,interior colour,0.286,Low,Low,informational,0.412,0.5,0.36,0.55,0.25,1,9,2
+55,h interior designs,SUPPORTING,interior layout,0.286,Low,Low,informational,0.412,0.5,0.36,0.55,0.25,1,9,2
+55,h interior designs,SUPPORTING,interior vishwa,0.286,Low,Low,informational,0.412,0.5,0.36,0.55,0.25,1,9,2
+55,h interior designs,SUPPORTING,interior maata,0.285,Low,Low,informational,0.376,0.5,0.36,0.55,0.25,1,10,2
+55,h interior designs,SUPPORTING,interior question,0.282,Low,Low,informational,0.448,0.5,0.36,0.55,0.25,1,8,2
+55,h interior designs,SUPPORTING,interior spelling,0.282,Low,Low,informational,0.448,0.5,0.36,0.55,0.25,1,8,2
+55,h interior designs,SUPPORTING,interior urbania,0.28,Low,Low,informational,0.412,0.5,0.36,0.55,0.25,1,9,2
+55,h interior designs,SUPPORTING,interior baleno,0.279,Low,Low,informational,0.376,0.5,0.36,0.55,0.25,1,10,2
+55,h interior designs,SUPPORTING,interior magazine,0.276,Low,Low,informational,0.412,0.5,0.36,0.55,0.25,1,9,2
+55,h interior designs,SUPPORTING,interior project,0.274,Low,Low,informational,0.376,0.5,0.36,0.55,0.25,1,10,2
+46,interior xuv 7xo,PRIMARY,interior xuv 7xo,0.338,Low,Low,informational,0.628,0.5,0.6,0.55,0.25,1,3,3
+46,interior xuv 7xo,SUPPORTING,interior xuv 700,0.332,Low,Low,informational,0.592,0.5,0.6,0.55,0.25,1,4,3
+46,interior xuv 7xo,SUPPORTING,interior xuv 7x0,0.314,Low,Low,informational,0.484,0.5,0.6,0.55,0.25,1,7,3
+46,interior xuv 7xo,SUPPORTING,interior xuv 500,0.295,Low,Low,informational,0.376,0.5,0.6,0.55,0.25,1,10,3
